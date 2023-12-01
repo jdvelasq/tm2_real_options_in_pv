@@ -1,0 +1,542 @@
+ABIK Inc. (KOR)
+    ABIK Inc., Yongin-si, Gyeonggi-do, 16825, South Korea
+AGH Akademia Górniczo-Hutnicza, Wydział Zarządzania, Katedra Zarządzania w Energetyce, Kraków, Poland (POL)
+    AGH Akademia Górniczo-Hutnicza, Wydział Zarządzania, Katedra Zarządzania w Energetyce, Kraków, Poland
+AGH Univ. of Sci. and Technol. (POL)
+    AGH University of Science and Technology, Department of Energy Management, Krakow, Poland
+AIAA (CHN)
+    AIAA
+Aalto Univ. (FIN)
+    Department of Mathematics and Systems Analysis, Aalto University, Otakaari 1 F, Espoo, Finland
+Abengoa Resesearch (ESP)
+    Abengoa Research, c/ Energia Solar, 1, Abengoa, 41014, Spain
+Aeronautics/Astronautics and Engineering Systems([BAN])
+    Aeronautics/Astronautics and Engineering Systems, Bldg. 33-404
+Aeronaut./Astronaut. and Technol. and Policy Program (USA)
+    Aeronautics/Astronautics and Technology and Policy Program, Somerville, MA 02143, 28 Forest Street, United States
+Agric. Univ. of Athens (GRC)
+    Department of Regional and Economic Development, School of Applied Economics and Social Sciences, Agricultural University of Athens, Amfissa, Greece
+Ahmedabad Univ. (IND)
+    Ahmedabad University, Ahmedabad, India
+Ajman Univ. (ARE)
+    College of Business Administration, Ajman University, Ajman, United Arab Emirates
+Andong Nac. Univ. (KOR)
+    Department of Civil Engineering, Andong National University, 1375 Gyeongdong-ro, Andong-si, 36729, Gyeongsangbuk-do, South Korea
+Argonne Nac. Laboratory (USA)
+    Argonne National Laboratory, Argonne, IL, United States
+Ariel Univ. (ISR)
+    Department of Economics & Business Administration, Ariel University, Ariel, 40700, Israel
+    Department of Electrical & Electronics Engineering, Ariel University, Ariel, 40700, Israel
+Atlantica Yield (ESP)
+    Atlantica Yield, C/ Energia Solar 1, Seville, 41014, Spain
+BMW Group (ITA)
+    BMW Group, San Donato Milanese, Italy
+Bahcesehir Univ. (TUR)
+    Bahcesehir University, Management Department, Istanbul, 34349, Turkey
+Beihang Univ. (CHN)
+    School of Economics and Management, Beihang University, Beijing, 100191, China
+Beijing Inst. of Technol. (CHN)
+    Center for Energy and Environmental Policy Research, Beijing Institute of Technology (CEEP-BIT), Beijing, 100081, China
+Beijing Inst. of Technol. (CHN)
+    National Professional Laboratory of Color Science and Engineering, Beijing Institute of Technology, Beijing 100081, China
+Brook Byers Inst. for Sustainable Syst. (USA)
+    Brook Byers Institute for Sustainable Systems (BBISS), School of Building Construction, School of Civil and Environmental Engineering, Construction Research Center (CRC), Economics of the Sustainable Built Environment (ESBE) Lab, Department of the Integrated Project Delivery Systems Masters Track, Georgia Institute of Technology, 280 Ferst Drive, Atlanta, 30332-0680, GA, United States
+Nat. Univ. of San Juan (ARG)
+    Institute of Electrical Energy (IEE), CONICET-National University of San Juan (UNSJ), Av. Lib. Gral, San Martín 1109(O), San Juan, J5400ARL, Argentina
+    Institute of Electrical Energy (IEE), CONICET-National University of San Juan (UNSJ), Av. Lib. Gral. San Martín 1109(O), San Juan, J5400ARL, Argentina
+Carnegie Mellon Univ. (USA)
+    Tepper School of Business, Carnegie Mellon University, Pittsburgh, PA, United States
+Ca’ Foscari Univ. of Venice (ITA)
+    Department of Economics, Ca’ Foscari University of Venice, Italy
+Cent. Studi “Giorgio Levi Cases”, Italy (ITA)
+    Centro Studi “Giorgio Levi Cases”, Italy
+Central Res. Inst. of Electric Power Industry (JPN)
+    Central Research Institute of Electric Power Industry, Komae 201-8511, 2-11-1, Iwato-kita, Japan
+    Central Research Institute of Electric Power Industry, Komae-shi, Tokyo, 2-11-1 Iwadokita, Japan
+Central South Univ. (CHN)
+    Business School, Central South University, Changsha, 10083, Hunan Province, China
+Central Univ. of Finan. and Econ. (CHN)
+    Central University of Finance and Economics, 39 Xueyuan Nanlu, Haidian District, Beijing, 100081, China
+Ceriaco A. Abes Memorial Nac. High Sch. (PHL)
+    Ceriaco A. Abes Memorial National High School, Oriental Mindoro, Calapan, Philippines
+Chalmers Univ. of Technol. (SWE)
+    Department of Space Earth and Environment, Chalmers University of Technology, Göteborg, 412 96, Sweden
+China Electric Power Res. Inst. (CHN)
+    China Electric Power Research Institute, Beijing 100192, China
+China Three Gorges Univ. (CHN)
+    College of Civil Engineering & Architecture, China Three Gorges University, Yichang, 443002, China
+    Hubei Key Laboratory of Disaster Prevention and Mitigation, China Three Gorges University, Yichang, 443002, China
+China Univ. of Geosciences (CHN)
+    Center for Energy and Environmental Management and Decision-making (CE2MD), China University of Geosciences, Wuhan, 430074, China
+    Center for Energy and Environmental Management and Decision-making, China University of Geosciences, Wuhan, 430074, China
+    School of Economics and Management, China University of Geosciences, Beijing, 100083, China
+    School of Economics and Management, China University of Geosciences, Wuhan, 430074, China
+China Univ. of Mining & Technol. (CHN)
+    Center for Sustainable Development and Energy Policy Research, School of Energy & Mining Engineering, China University of Mining & Technology (Beijing), Beijing, 10083, China
+    Center for Sustainable Development and Energy Policy Research (SDEP), School of Energy and Mining Engineering, China University of Mining & Technology, Beijing (CUMTB), Beijing, 100083, China
+    School of Economics and Management, China University of Mining and Technology, Jiangsu, Xuzhou, 221116, China
+China Univ. of Petroleum (CHN)
+    College of Economics and Management, China University of Petroleum (East China), Qingdao, 266580, China
+    College of Economics and Management, China University of Petroleum (East of China), Qingdao, 266580, China
+    Academy of Chinese Energy Strategy, China University of Petroleum-Beijing, 18 Fuxue Road, Changping, Beijing, 102249, China
+    School of Economics and Management, China University of Petroleum-Beijing, Beijing, 102249, China
+Chongqing Univ. of Sci. & Technol. (CHN)
+    School of Civil Engineering and Architecture, Chongqing University of Science & Technology, Chongqing, 401331, China
+Chonnam Nac. Univ. (KOR)
+    Department of Economics, Chonnam National University, Gwangju, South Korea
+Chosun Univ. (KOR)
+    Department of Civil Engineering, Chosun University, Gwangju, 61452, South Korea
+City Univ. of Hong Kong (HKG)
+    Department of Architecture and Civil Engineering, City University of Hong Kong, AC1, Y6621, Hong Kong
+    Department of Architecture and Civil Engineering, College of Science and Engineering, City University of Hong Kong, Hong Kong
+    Dept. of Electronic Engineering, City University of Hong Kong, Hong Kong, China, Hong Kong, China
+Clark Univ. (USA)
+    Clark University, GSOM, Worcester, MA 01610-1477, 950 Main St., United States
+    Graduate School of Management, Clark University, Worcester, MA 01610-1477, 950 Main Street, United States
+UCD Michael Smurfit Graduate Business School
+    UCD Michael Smurfit Graduate Business School, Carysfort Avenue, Blackrock, Co. Dublin, A94 XF34, Ireland
+Coll. of Teacher Education (PHL)
+    College of Teacher Education, Mindoro State College of Agriculture and Technology, Calapan City, Philippines
+Coll. of William and Mary (USA)
+    College of William and Mary, United States
+Comenius Univ. (SVK)
+    Department of Applied Mathematics and Statistics, Faculty of Mathematics, Physics and Informatics, Comenius University, Bratislava, Slovakia
+Comillas Pontifical Univ. (ESP)
+    Institute for Research in Technology (IIT), Comillas Pontifical University, 26 Calle de Santa Cruz de Marcenado, Madrid, 28015, Spain
+Complex Syst. Res. Laboratory, Eng. Syst. Div., Bldg. 33-407
+    Complex Systems Research Laboratory, Engineering Systems Division, Bldg. 33-407
+Conexo Inmobiliario (COL)
+    Conexo Inmobiliario, Financial and Accountant Department, Calle 7 #39-215 Oficina 501, Edificio BBVA, Medellín, Colombia
+DC Wafers(ESP)
+    DC Wafers, 24227 Valdelafuente, León, Carretera de Madrid, km 320, Spain
+DNV GL Energy (USA)
+    DNV GL Energy, Chalfont, PA, United States
+De La Salle Univ. (PHL)
+    Department of Science Education, Br. Andrew Gonzalez FSC College of Education, De La Salle University, Manila, Philippines
+Institut Teknologi Sepuluh Nopember (IDN)
+    Dept of Marine Transportation Engineering, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia
+Institución Universitaria Pascual Bravo (COL)
+    Departamento de Eléctrica, Facultad de Ingenieria, Institución Universitaria Pascual Bravo, Calle 73 No. 73A-226, Medellin, 050036, Colombia
+U.C. Berkeley (USA)
+    Department of Agricultural and Resource Economics, U.C. Berkeley, 230 Giannini Hall, 94720, CA, United States
+Università degli Studi di Brescia (ITA)
+    Department of Economics and Management, Università degli Studi di Brescia, Via S. Faustino 74/B – 25122 Brescia, Italy
+    Department of Economics and Management, Università degli Studi di Brescia, Via S. Faustino 74/B, Brescia, 25122, Italy
+Università degli Studi di Padova (ITA)
+    Department of Economics and Management, Università degli Studi di Padova, Italy
+    Department of Economics and Management, Università degli Studi di Padova, Via del Santo 33, Padova, Italy
+Iowa State Univesrity (USA)
+    Department of Industrial Engineering and Management Systems, United States
+    Dept. of Industrial and Manufacturing Systems Engineering, Iowa State Univesrity, Ames, Iowa, United States
+Università degli Studi di Roma “La Sapienza” (ITA)
+    Department of Methods and Models for Economics, Territory and Finance, Università degli Studi di Roma “La Sapienza”, Via del Castro Laurenziano 9, Roma, I-00185, Italy
+Dong-A Univ. (KOR)
+    Dong-A University, Industrial & Management System Engineering, 37 Nakdong-Dearo 550 beon-gil, Saha-gu, Busan, 49315, South Korea
+Tecnologico de Monterrey (MEX)
+    EGADE Business School, Tecnologico de Monterrey, Monterrey, Mexico
+    EGADE Business School, Tecnológico de Monterrey, Monterrey, Mexico
+Ecopetrol (COL)
+    Ecopetrol, Bogota, Colombia
+Esc. Iberoamericana de Regulación Eléctrica EIRE-UC (CHL)
+    Escuela Iberoamericana de Regulación Eléctrica EIRE-UC, Vicuña Mackenna 4860, Santiago, 7820436, Chile
+Pontifícia Univ. Católica Do Rio de Janeiro (BRA)
+    Escola de Negoeios da PUC e Instituto de Energia da PUC Pontificia Universidade Catoliea, Rio de Janeiro, Brazil
+Fondazione Eni Enrico Mattei (ITA)
+    FEEM - Fondazione Eni Enrico Mattei, Corso Magenta 63, Milan, Italy
+Fed. Univ. of Santa Catarina (BRA)
+    Department of Management, Federal University of Santa Catarina – UFSC, Florianópolis, 88040-900, SC, Brazil
+    Federal University of Santa Catarina – UFSC, Florianópolis, 88040-900, SC, Brazil
+Ferroatlantica (ESP)
+    Ferroatlantica, Polígono Industrial de Sabón, 15142 Arteixo, Spain
+Finnish Meteorological Inst. (FIN)
+    Finnish Meteorological Institute, Helsinki, Finland
+Fondazione Eni Enrico Mattei (ITA)
+    Fondazione Eni Enrico Mattei (FEEM), Italy
+Georgia Inst. of Technol. (USA)
+    College of Architecture, Georgia Institute of Technology, 247 4th Street, Atlanta, 30332-0680, GA, United States
+    Economics of the Sustainable Built Environment (ESBE) Lab, School of Building Construction, Georgia Institute of Technology, Atlanta, GA 30332-0680, 280 Ferst Drive, United States
+    School of Architecture, Building Technology Lab, Georgia Institute of Technology, 247 4th Street, Atlanta, 30332-0680, GA, United States
+    School of Construction, Georgia Institute of Technology, Atlanta, GA 30332-0680, 280 Ferst Drive, United States
+Gestaõ de Viseu (PRT)
+    Gestaõ de Viseu, Viseu, Portugal
+Guangdong Univ. of Technol. (CHN)
+    Dept. of Electrical Engineering, Guangdong University of Technology, Guangzhou, 510006, China
+Guizhou Electric Power Testing and Res. Inst. Guiyang (CHN)
+    Guizhou Electric Power Testing and Research Institute Guiyang, Guizhou Province, China
+Guizhou Univ. (CHN)
+    College of Electrical Engineering, Guizhou University, Guiyang, 550003, Guizhou Province, China
+Hamad Bin Khalifa Univ. (QAT)
+    Division of Engineering Management and Decision Sciences, College of Science and Engineering, Hamad Bin Khalifa University, Doha, Qatar
+    Division of Sustainable Development, College of Science and Engineering, Hamad Bin Khalifa University, Doha, Qatar
+    Division of Sustainable Development, College of Science and Engineering, Hamad Bin Khalifa University, Qatar Foundation, P.O. Box 5825, Doha, Qatar
+Hanyang Univ. (KOR)
+    Department of Civil and Environmental Engineering, Hanyang University, 222 Wangsimni-ro, Seongdong-gu, Seoul, 04763, South Korea
+Harbin Inst. of Technol. (CHN)
+    Department of Mathematics, Harbin Institute of Technology, Harbin, 150001, China
+Harvard Univ. (USA)
+    Harvard University, Cambridge, MA, United States
+Hebei Univ. of Technol. (CHN)
+    School of Management, Hebei University of Technology, Tianjin, China
+Hefei Univ. of Technol. (CHN)
+    Anhui Key Laboratory of Philosophy and Social Sciences of Energy and Environment Smart Management and Green Low Carbon Development, Hefei University of Technology, Hefei, 230009, China
+    School of Management, Hefei University of Technology, Anhui, Hefei, 230009, China
+    School of Management, Hefei University of Technology, Hefei, China
+Hunan Univ. (CHN)
+    School of Civil Engineering, Hunan University, Changsha, 410082, China
+Instytut Gospodarki Surowcami Mineralnymi i Energią (POL)
+    IGSMiE PAN, Pracownia Ekonomiki Energetyki, Instytut Gospodarki Surowcami Mineralnymi i Energią PAN, Kraków, Poland
+Weidt Group, Inc. (USA)
+    Weidt Group, Inc., Minnetonka, MN 55345, 5800 Baker Road, United States
+Pontifícia Univ. Católica Do Rio de Janeiro (BRA)
+    Industrial Engineering Department, PUC-Rio, Rio de Janeiro, Brazil
+Independent Researcher, Tekirdag, 59800, Turkey (TUR)
+    Independent Researcher, Tekirdag, 59800, Turkey
+Inst. Tecnológico Metropolitano - ITM (COL)
+    Departamento de Finanzas, Instituto Tecnológico Metropolitano - ITM, Colombia
+Pontifícia Univ. Católica Do Rio de Janeiro (BRA)
+    Instituto de Energia da PUC (IEPUC) Pontificia Universidade Catoliea (PUC-Rio), Rio de Janeiro, Brazil
+    Instituto de Energia da Pontifícia Universidade Católica Do Rio de Janeiro (IEPUC), Rio de Janeiro, Brazil
+Inst. for Sustainable Development and Int. Relations (FRA)
+    Institute for Sustainable Development and International Relations (IDDRI), Sciences Po, Paris, France
+Malta College of Arts, Science and Technology (MLT)
+    MCAST Energy Research Group, Institute of Engineering and Transport, Malta College of Arts, Science and Technology, Paola, Malta
+Univ. Autònoma de Barcelona (ESP)
+    Institute of Environmental Science and Technology, Universitat Autònoma de Barcelona, Edifici Z—UAB campus, Bellaterra, 08193, Spain
+    Institute of Environmental Science and Technology (ICTA), Universitat Autònoma de Barcelona, Barcelona, Spain
+Chinese Academy of Sciences (CHN)
+    Institute of Policy and Management, Chinese Academy of Sciences, Beijing, 100190, China
+    Institutes of Science and Development, Chinese Academy of Sciences, Beijing, 100190, China
+Int. Inst. for Appl. Syst. Analysis (AUT)
+    International Institute for Applied Systems Analysis, Laxenburg, Austria
+Iowa State Univ. (USA)
+    Dept. of Electrical and Computer Engineering, Iowa State University, Ames, Iowa, United States
+Islamic Azad Univ. (IRN)
+    Department of Industrial Engineering, Karaj Branch, Islamic Azad University, Karaj, Iran
+    Department of Industrial Engineering, South Tehran Branch, Islamic Azad University, Tehran, Iran
+Istanbul Tech. Univ. (TUR)
+    Faculty of Management, Istanbul Technical University, Macka, Istanbul, 34367, Turkey
+    Industrial Engineering Department, Faculty of Management, Istanbul Technical University, Macka, Istanbul, 34367, Turkey
+    Istanbul Technical University, Management Engineering Department, Istanbul, 34367, Turkey
+    Management Engineering Department, Faculty of Management, Istanbul Technical University, Macka, Istanbul, 34367, Turkey
+JARA-ENERGY (DEU)
+    JARA-ENERGY, Templergraben 55, Aachen, 52056, Germany
+Jiangsu Univ. (CHN)
+    Energy Development and Environmental Protection Strategy Research Center, Jiangsu University, Zhenjiang, 212013, China
+    Energy Development and Environmental Protection Strategy Research Center, Jiangsu University, Zhenjiang, 212013, Jiangsu, China
+    Faculty of Science, Jiangsu University, Jiangsu, Zhenjiang, 212013, China
+    Faculty of Science, Jiangsu University, Zhenjiang, 212013, China
+Korea Electrotechnology Res. Inst. (KOR)
+    Korea Electrotechnology Research Institute, 138, Naesonsunhwan-ro, Uiwang-si, 16029, South Korea
+Korea Inst. of Civil Eng. and Building Technol. (KOR)
+    Planning and Coordination Department, Management Planning Division, Korea Institute of Civil Engineering and Building Technology, 10223, Gyeonggi-do, South Korea
+Korea Univ. (KOR)
+    School of Electrical Engineering, Anam Campus, Korea University, 145 Anam-ro, Seongbuk-gu, Seoul, 02841, South Korea
+LPS (USA)
+    LPS, United States
+Lean Aeroesp. Initiative, Aeronaut./Astronaut. and Eng. Syst. Div. (CHN)
+    Lean Aerospace Initiative, Aeronautics/Astronautics and Engineering Systems Division, Bldg. 41-205
+Macau Univ. of Sci. and Technol. (CHN)
+    School of Business, Macau University of Science and Technology, Avenida Wai Long, Taipa, Macao, Macao
+Massachusetts Inst. of Technol. (USA)
+    MIT Energy Initiative, Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge, 02139, MA, United States
+    Massachusetts Institute of Technology, Building Technology, Department of Architecture, Cambridge, MA 02139, 77 Massachusetts Avenue, United States
+    Massachusetts Institute of Technology, Building Technology, Departments of Architecture and Mechanical Engineering, Cambridge, MA 02139, 77 Massachusetts Avenue, United States
+    Massachusetts Institute of Technology, Cambridge, MA 02139, United States
+    Massachusetts Institute of Technology, Department of Computer Science and Electrical Engineering, Cambridge, MA 02139, 77 Massachusetts Avenue, United States
+    Space Systems, Policy and Architecture Research Consortium (SSPARC), Massachusetts Institute of Technology, Cambridge, MA 02139, United States
+Federal Centre for Technological Education (BRA)
+    Mechanical Engineering Program, Federal Centre for Technological Education - CEFET-RJ, Rio de Janeiro, Brazil
+Menoufia Univ. (EGY)
+    Department of Mathematics, Faculty of Science, Menoufia University, Menoufia, 32511, Egypt
+Mineral and Energy Economy Res. Inst. (POL)
+    Mineral and Energy Economy Research Institute, Polish Academy of Sciences, Department of Policy and Strategic Research, Division of Energy Economics, Kraków, Poland
+Minjiang Univ. (CHN)
+    New Huadu Business School, Minjiang University, Fuzhou 350108, China
+Mitsubishi Heavy Industry, Japan (JPN)
+    Mitsubishi Heavy Industry, Japan
+Mokpo Nac. Maritime Univ. (KOR)
+    Department of Ocean Civil and Plant Construction Engineering, Mokpo National Maritime University, 91 Haeyangdaehak-ro, Mokpo-si, 58628, Jeollanam-do, South Korea
+Nac. Inst. of Metrology (CHN)
+    Optical Division, National Institute of Metrology, Beijing 100013, China
+Nac. Renewable Energy Laboratory (USA)
+    National Renewable Energy Laboratory, United States
+Nac. Scientific and Tech. Res. Counc. (ARG)
+    National Scientific and Technical Research Council (CONICET), Argentina
+    National Scientific and Technical Research Council (CONICET), Av. Rivadavia 1917, Buenos Aires, C1033AAJ, Argentina
+Nac. Univ. of Singapore (SGP)
+    Department of Building, National University of Singapore, 4 Architecture Drive, 129788, Singapore
+    Department of Built Environment, College of Design and Engineering, National University of Singapore, 117566, Singapore
+    Department of Industrial and Systems Engineering, National University of Singapore, 1 Engineering Drive, Singapore, 117576, Singapore
+    Department of the Built Environment, School of Design and Environment, National University of Singapore, 4 Architecture Drive, Singapore, 117566, Singapore
+Nanjing Normal Univ. (CHN)
+    School of Mathematical Sciences, Nanjing Normal University, 210023, Jiangsu, China
+    School of Mathematical Sciences, Nanjing Normal University, Nanjing, 210046, China
+Nanjing Univ. of Aeronaut. & Astronaut. (CHN)
+    College of Economics and Management, Nanjing University of Aeronautics & Astronautics, Nanjing, 211106, China
+    College of Economics and Management & Research Center for Soft Energy Science, Nanjing University of Aeronautics and Astronautics, Nanjing, 211106, China
+    College of Economics and Management, Nanjing University of Aeronautics and Astronautics, 29 Yudao Street, Nanjing, China
+    College of Economics and Management, Nanjing University of Aeronautics and Astronautics, Nanjing 211106, China
+    College of Economics and Management, Nanjing University of Aeronautics and Astronautics, Nanjing, 211106, China
+    Research Centre for Soft Energy Science, Nanjing University of Aeronautics and Astronautics, 29 Yudao Street, Nanjing, China
+    Research Centre for Soft Energy Science, Nanjing University of Aeronautics and Astronautics, Nanjing 211106, China
+North Carolina State Univ. (USA)
+    Electricial and Computer Engineering, North Carolina State University, United States
+North China Electric Power Univ. (CHN)
+    School of Business and Administration, North China Electric Power University, Beijing, China
+    School of Electrical and Electronics Engineering, North China Electric Power University, Beijing, China
+Northwestern Univ. (USA)
+    Industrial Engineering and Management Sciences, Northwestern University, United States
+Norwegian Univ. of Sci. and Technol. (NOR)
+    Department of Industrial Economics and Technology Management, Norwegian University of Science and Technology (NTNU), Trondheim, 7491, Norway
+Oregon State Univ. (USA)
+    School of Civil and Construction Engineering, Oregon State University, 1691 SW Campus Way, Corvallis, 97331, OR, United States
+Oriental Mindoro Nac. High Sch. (PHL)
+    English Department, Oriental Mindoro National High School, Calapan City, Philippines
+Otto von Guericke Univ, (DEU)
+    Faculty of Economics and Management, Chair in Financial Management and Innovation Finance, Otto-von-Guericke-University Magdeburg, Universitätsplatz 2, Magdeburg, D-39106, Germany
+Oxford Brookes Univ. (GBR)
+    Faculty of Technology, Design and Environment, Oxford Brookes University, Oxford, United Kingdom
+Peking Univ. (CHN)
+    School of Urban Planning and Design, Peking University, No. 2199 Lishui Road, Nanshan District, Guangdong, Shenzhen, 518055, China
+Petrobras (BRA)
+    Petrobras, Brazil
+Pevafersa (ESP)
+    Pevafersa, 49800 Toro, Avda. Vicente Fernández Manso s/n, Spain
+Polytech. Univ. of Madrid (ESP)
+    Department of Organization Engineering, Business Administration and Statistics, HTS Industrial Engineering, Polytechnic University of Madrid, C/José Gutiérrez Abascal, 2, Madrid, 28006, Spain
+Polytech. of Milan (ITA)
+    Department of Industrial Engineering, Polytechnic of Milan, Milan, Italy
+Pontifícia Univ. Católica Do Rio de Janeiro (BRA)
+    Pontificia Universidade Catoliea (PUC-Rio), Departamento de Engenharia Mecanica (DEM) e Instituto de Energia da PUC (IEPUC), Rio de Janeiro, Brazil
+Pontificia Univ. Católica de Chile (CHL)
+    Department of Electrical Engineering, Pontificia Universidad Católica de Chile, Vicuña Mackenna 4860, Santiago, Macul, 7820436, Chile
+    Department of Industrial and Systems Engineering, Pontificia Universidad Católica de Chile, Santiago, Chile
+    Department of Industrial and Systems Engineering, UC Energy Research Center, Pontificia Universidad Católica de Chile, Santiago, Chile
+Pontifícia Univ. Católica Do Rio de Janeiro (BRA)
+    Department of Mechanical Engineering (DEM), Pontifícia Universidade Católica Do Rio de Janeiro (PUC-Rio), Rio de Janeiro, Brazil
+Princeton Univ. (USA)
+    Princeton Plasma Physics Laboratory, Princeton University, Princeton, 08543, NJ, United States
+Fed. Cent. for Technological Education (BRA)
+    Production Engineering Program, Federal Centre for Technological Education - CEFET-RJ, Rio de Janeiro, Brazil
+Purdue Univ. (USA)
+    Department of Agricultural Economics, Purdue University, West Lafayette, 47907-2056, IN, United States
+Quanta Technol. LLC. (USA)
+    Quanta Technology LLC., Raleigh, 27607, NC, United States
+RWTH Aachen Univ. (DEU)
+    Institute for Future Energy Consumer Needs and Behavior (FCN), School of Business and Economics / E.ON Energy Research Center, RWTH Aachen University, Mathieustrasse 10, Aachen, 52074, Germany
+    Institute for Future Energy Consumer Needs and Behavior (FCN), School of Business and Economics, E.ON Energy Research Center, RWTH Aachen University, Mathieustrasse 10, Aachen, 52074, Germany
+    Institute for Future Energy Consumer Needs and Behavior (FCN), School of Business and Economics, E.ON Energy Research Center, RWTH Aachen University, Matthieustrasse 10, Aachen, 52074, Germany
+    Institute for Future Energy Consumer Needs and Behavior (FCN), School of Business and Economics, RWTH Aachen University, Mathieustrasse 10, Aachen, 52074, Germany
+    Institute for Future Energy Consumer Needs and Behavior (FCN), School of Business and Economics/E.ON Energy Research Center, RWTH Aachen University, Mathieustrasse 10, Aachen, 52074, Germany
+    RWTH Aachen University, Templergraben 55, Aachen, 52056, Germany
+KEPCO E and C (KOR)
+    KEPCO e and C, Dept. of Power Engineering, Research Institute, Yongin 446-713, South Korea
+Ruhr Univ. of Bochum (DEU)
+    Faculty of Management and Economics, Ruhr University of Bochum, Universitaetsstr. 150, Bochum, 44801, Germany
+    Institute of Development Research and Development Policy, Ruhr University of Bochum, Universitaetsstr. 105, Bochum, 44789, Germany
+Rutgers Univ. (USA)
+    Department of Industrial and Systems Engineering, Rutgers University, Piscataway, NJ, United States
+SPE (UNKNONN)
+    SPE
+Senior High Sch. Dept. (PHL)
+    Senior High School Department, Ceriaco A. Abes Memorial National High School, Calapan City, Philippines
+Shanghai Jiao Tong Univ. (CHN)
+    School of International and Public Affairs, Shanghai Jiao Tong University, Shanghai, 200030, China
+Shanxi Univ. of Finan. and Econ. (CHN)
+    School of Management Science and Engineering, Shanxi University of Finance and Economics, Shanxi Province, China
+Shenkar Coll. (ISR)
+    Department of Industrial Engineering, Shenkar College, Ramat Gan, Israel
+Shenzhen CNSECOM Tech. Co. (CHN)
+    Shenzhen CNSECOM Tech. Co., LTD, 5th Floor, Building C3, Nanshan I Park, Shenzhen, 518071, China
+Sistema Iniziative Locali S.P.A. (ITA)
+    Sinloc, Sistema Iniziative Locali S.p.A., Padova, Italy
+Sinohydro Bur. 9 Co. (CHN)
+    Sinohydro Bureau 9 Co., LTD, Guiyang 550003, Guizhou Province, China
+Soliker (ESP)
+    Soliker, 37700 Béjar, El Navazo - Ctra. Candelario, Km 1, 8, Spain
+Soongsil Univ. (KOR)
+    School of Computer Science and Engineering, Soongsil University, 369 Sangdo-Ro, Dongjak-Gu, Seoul, 156-743, South Korea
+Southeast Univ. (CHN)
+    School of Economics and Management, Southeast University, 2 Southeast University Road, Nanjing, China
+Space and Naval Warfare Syst. Cent. (USA)
+    Space and Naval Warfare Systems Center, San Diego Network Centric Warfare Analysis Branch, San Diego, CA 92152-5001, United States
+Universitat Autònoma de Barcelona (ESP)
+    ICREA, Barcelona, Spain & Institute for Environmental Science and Technology, Universitat Autònoma de Barcelona, Edifici Z—UAB campus, Bellaterra, 08193, Spain
+China Univ. of Mining and Technol. (CHN)
+    State Key Laboratory of Coal Resources and Safe Mining (China University of Mining and Technology), Beijing, 100083, China
+State Nuclear Power Technol. Corp. (CHN)
+    Shanghai Power Equipment Research Institute, State Nuclear Power Technology Corporation, Shanghai, China
+Sungkyunkwan Univ. (KOR)
+    Department of Systems Management Engineering, Sungkyunkwan University, 2066, Seobu-Ro, Jangan-gu, Suwon, Gyeonggi-do, 440-746, South Korea
+    Graduate School of Management of Technology, Sungkyunkwan University, 2066, Seobu-Ro, Jangan-gu, Suwon, Gyeonggi-do, 440-746, South Korea
+General Motors, United States (USA)
+    Sustainable Manufacturing System, General Motors, United States
+Swedish Univ. of Agric. Sciences (SWE)
+    Department of Economics, Swedish University of Agricultural Sciences, Uppsala, Sweden
+São Paulo State Univ. (Unesp) (BRA)
+    School of Agriculture, São Paulo State University (Unesp), Botucatu, 18610-034, Brazil
+    São Paulo State University (Unesp), Campus of Itapeva, Itapeva, 18409-010, Brazil
+TU Dortmund Univ. (DEU)
+    Institute of Energy Systems Energy Efficiency and Energy Economics (Ie), TU Dortmund University, Dortmund, Germany
+Minist. of Sci. and Technol. (CHN)
+    The Administrative Centre for China's Agenda 21 (ACCA21), Ministry of Science and Technology (MOST), Beijing, 100038, China
+    The Administrative Centre for China's Agenda 21, Ministry of Science and Technology, Beijing, 100038, China
+The Electric Power Testing and Res. Inst. of Guizhou (CHN)
+    The Electric Power Testing and Research Institute of Guizhou, Guiyang, 550002, Guizhou Province, China
+Hebrew Univ. of Jerusalem (ISR)
+    Department of Economics, The Hebrew University of Jerusalem, Jerusalem, 91905, Israel
+State Univ. of New Jersey (USA)
+    Rutgers, The State University of New Jersey, 08854, NJ, United States
+Tianjin Univ. (CHN)
+    APEC Sustainable Energy Centre, Tianjin University, Tianjin, China
+    College of Management and Economics, Tianjin University, 92 Weijin Road, Nankai District, Tianjin, 300072, China
+    College of Management and Economics, Tianjin University, Tianjin, 300072, China
+    College of Management and Economics, Tianjin University, Tianjin, China
+    School of Architecture, Tianjin University, Tianjin, China
+    Tianjin University Renai College, Tianjin, China
+Tongji Univ. (CHN)
+    Department of Building Engineering, College of Civil Engineering, Tongji University, 200092, China
+    Key Laboratory of Performance Evolution and Control for Engineering Structures of Ministry of Education, Tongji University, 200092, China
+    Shanghai Institute of Intelligent Science and Technology, Tongji University, 200092, China
+Zaozhuang Vocational College of Science & Technology (CHN)
+    Training College, Zaozhuang Vocational College of Science & Technology, Zaozhuang, 277599, China
+UC Energy Res. Cent. (CHL)
+    UC Energy Research Center, Vicuña Mackenna 4860, Santiago, Macul, 7820436, Chile
+UNICAMP, Brazil (BRA)
+    UNICAMP, Brazil
+United Int. Univ. (BGD)
+    Centre for Energy Research, United International University, Dhaka, Bangladesh
+    School of Business, United International University, Dhaka, Bangladesh
+Pontifícia Univ. Católica Do Rio de Janeiro (BRA)
+    Escola de Negócios (IAG) da Pontifícia, Universidade Católica Do Rio de Janeiro (PUC-Rio), Rio de Janeiro, Brazil
+Univ. Coll. Dublin (IRL)
+    UCD Energy Institute, University College Dublin, Stillorgan Road, Dublin 4, Co. Dublin, D04 N2E5, Ireland
+Univ. Fed. de Itajubá (BRA)
+    Instituto de Engenharia de Produção e Gestão, Universidade Federal de Itajubá - UNIFEI, CEP 37500-903, Itajubá, MG, CP 50, Brazil
+Univ. Fed. do Ceara (BRA)
+    Universidade Federal do Ceara, Brazil
+Univ. Nac. de San Juan (ARG)
+    Instituto de Energía Eléctrica (IEE), Universidad Nacional de San Juan (UNSJ), National Scientific and Technical Research Council (CONICET), Argentina
+Univ. de Antioquia (COL)
+    Research Group on Efficient Energy Management (GIMEL), Department of Electrical Engineering, Universidad de Antioquia (UdeA), Medellin, 050010, Colombia
+Univ. de Coimbra (PRT)
+    Faculdade de Economia, Universidade de Coimbra, Instituto Politecnico, Viseu, Portugal
+    Faculdade de Economia, Universidade de Coimbra, Instituto Politécnico, Viseu, Portugal
+Univ. de Guanajuato (MEX)
+    Amrut Mody School of Management, Ahmedabad, India and Department of Economics and Finance, Universidad de Guanajuato, Guanajuato, Mexico
+    Department of Economics and Finance, Universidad de Guanajuato, Guanajuato, Mexico
+    Universidad de Guanajuato, Guanajuato, Mexico
+Univ. de Medellín (COL)
+    Universidad de Medellín, GINIF Research Group, Financial Engineering Program, Carrera 87 No. 30-65, B4-104, Medellín, Colombia
+    Universidad de Medellín, GRINEN Research Group, Energy Engineering Program, Carrera 87 No. 30-65, B4-104, Medellín, Colombia
+Univ. de Salamanca (ESP)
+    Universidad de Salamanca, Bejar E-37700, Avda. Fernando Ballesteros 2, Spain
+Univ. de Sucre (COL)
+    Universidad de Sucre, Sincelejo, Colombia
+Univ. del Atlántico (COL)
+    Universidad del Atlántico, Barranquilla, Colombia
+Univ. del Cauca (COL)
+    Facultad de Ingeniería Electrónica y Telecomunicaciones, Universidad del Cauca, Calle 5 Nº 4-70, Popayán, Colombia
+Univ. del Valle (COL)
+    Facultad de Ingeniería, Universidad del Valle, Calle 13 Nº 100-00, Cali, Colombia
+Univ. of 'L'Aquila' (ITA)
+    Department of Electric Engineering, University of 'L'Aquila', Monteluco di Roio, 67100 L'Aquila, Italy
+Univ. of Augsburg (DEU)
+    FIM Research Center, University of Augsburg, Germany
+Univ. of Bari (ITA)
+    Department of Economics and Finance, University of Bari, Largo Abbazia S. Scolastica, 53 - 70124 - Bari, Italy
+    Department of Economics and Finance, University of Bari, Largo Abbazia S. Scolastica, 53, Bari, 70124, Italy
+    Department of Economics and Finance, University of Bari, Largo Abbazia S. Scolastica, Bari, 53-70124, Italy
+Univ. of Bayreuth (DEU)
+    University of Bayreuth, Germany
+Univ. of Bergamo (ITA)
+    CELS - Research Group on Industrial Engineering, Logistics and Service Operations, University of Bergamo, Italy
+Univ. of Brasília (BRA)
+    Department of Management, Campus Darcy Ribeiro, University of Brasília, Brasília, 70910-900, Brazil
+Univ. of Central Florida (USA)
+    School of Business Administration and International Finance, University of Central Florida, Orlando, FL 32816, United States
+Univ. of Chinese Acad. of Sciences (CHN)
+    School of Public Policy and Management, University of Chinese Academy of Sciences, Beijing, 100049, China
+Univ. of Copenhagen (DNK)
+    Department of Mathematical Sciences, University of Copenhagen, Denmark
+Univ. of Ghana Bus. Sch. (GHA)
+    Department of Finance, University of Ghana Business School, Legon, Accra, Ghana
+    Department of Operations and Management Information Systems, University of Ghana Business School, Legon, Accra, Ghana
+Univ. of Int. Business and Economics (CHN)
+    School of International Trade and Economics, University of International, Business and Economics, Beijing, 100029, China
+Univ. of Liberia (LBR)
+    Department of Economics, University of Liberia, Monrovia 10, Capitol Hill 1000, Liberia
+Univ. of Manchester (GBR)
+    School of Electrical and Electronic Engineering, University of Manchester, Manchester, United Kingdom
+    University of Manchester, School of Electrical and Electronic Engineering, Electrical Energy and Power Systems Group, Manchester, M60 1QD, United Kingdom
+Univ. of Messina (ITA)
+    University of Messina, Messina, Italy
+Univ. of Minho (PRT)
+    ALGORITMI Research Center, School of Engineering, University of Minho, Guimarães, 4800-058, Portugal
+Univ. of New South Wales (AUS)
+    School of Civil & Environmental Engineering, University of New South Wales, Sydney, NSW, Australia
+Univ. of Padova (ITA)
+    Centro Studi “Giorgio Levi Cases”, University of Padova, Padova, Italy
+    Department of Civil, Architectural and Environmental Engineering, University of Padova, Padova, Italy
+    Department of Civil, Environmental and Architectural Engineering, University of Padova, Padova, Italy
+    Department of Civil, Environmental and Architectural Engineering, University of Padova, Via Venezia 1, Padova, 35131, Italy
+    Department of Economics and Management, University of Padova, Fondazione Eni Enrico Mattei and Centro Studi Levi-Cases, Via del Santo 33, Padova, 35100, Italy
+    Department of Economics and Management, University of Padova, Padova, Italy
+    Department of Economics and Management, University of Padova, Via del Santo 33, Padova, 35123, Italy
+Univ. of Pisa (ITA)
+    DESTEC, University of Pisa, Largo Lucio Lazzarino, Pisa, 56122, Italy
+Univ. of Queensland (AUS)
+    School of Electrical and Information Engineering, The University of Queensland, Australia
+Univ. of Rome 'Tor Vergata' (ITA)
+    Department of Enterprise Engineering, University of Rome 'Tor Vergata', 00133 Rome, Viale del Politecnico 1, Italy
+Univ. of Sci. and Technol. of Southern Philippines (PHL)
+    Center for Human Development, University of Science and Technology of Southern Philippines, Cagayan de Oro, Philippines
+Univ. of Seoul (KOR)
+    College of Business Administration, University of Seoul, Seoul, 02504, South Korea
+Univ. of Seville (ESP)
+    Department of Accounting and Finance, University of Seville, Spain
+Univ. of Southampton (GBR)
+    School of Mathematical Sciences, University of Southampton, Southampton, SO17 1BJ, United Kingdom
+Univ. of Sydney (AUS)
+    School of Electrical and Information Engineering, The University of Sydney, Sydney, Australia
+    School of Electrical and Information Engineering, University of Sydney, Sydney, NSW, Australia
+Univ. of Thessaly (GRC)
+    Department of Regional Development and Planning, University of Thessaly, Volos, Greece
+Univ. of Tokyo (JPN)
+    Department of Mech. Eng., University of Tokyo, Bunkyo-ku, Tokyo 113-8656, 7-3-1, Hongo, Japan
+    University of Tokyo, Bunkyo-ku, Tokyo, 7-3-1 Hongo, Japan
+    University of Tokyo, Japan
+Univ. of Zurich (CHE)
+    Banking and Finance Institute, University of Zurich, Zürich, Switzerland
+    Department of Banking and Finance, Center of Competence for Sustainable Finance, University of Zurich, Zurich, Switzerland
+Univ. of the Philippines Los Baños (PHL)
+    Department of Community and Environmental Resource Planning, College of Human Ecology, University of the Philippines Los Baños, Laguna, Philippines
+Utrecht Univ. (NLD)
+    Copernicus Institute of Sustainable Development, Utrecht University, Utrecht, Netherlands
+VU Univ. Amsterdam (NLD)
+    Utrecht University School of Economics, Utrecht University, Utrecht, Netherlands
+    Faculty of Economics and Business Administration, Institute for Environmental Studies, VU University Amsterdam, Netherlands
+Vienna Univ. of Econ. and Bus. (AUT)
+    Department of Economics, Vienna University of Economics and Business, Austria
+Waseda Univ. (JPN)
+    Waseda University, School of Social Sciences, Shinjuku-ku, Tokyo 169-8050, 1-6-1 Nishi-Waseda, Japan
+Western Univ. of Ontario (CAN)
+    Faculty of Science, Western University of Ontario, London, N6A 5B7, ON, Canada
+Wonkwang Univ. (KOR)
+    Department of Civil & Environment Engineering, Wonkwang University, Jeonbuk, Iksan‐si, 54538, South Korea
+Woxsen Univ. (IND)
+    School of Technology, Woxsen University, Hyderabad, Telangana, India
+Wrocław Univ. of Sci. and Technol. (POL)
+    Faculty of Environmental Engineering, Wrocław University of Science and Technology, Wrocław, 50-370, Poland
+Wyższa Szkoła Biznesu w Dąbrowie Górniczej, Dąbrowa Górnicza, Poland (POL)
+    Wyższa Szkoła Biznesu w Dąbrowie Górniczej, Dąbrowa Górnicza, Poland
+Xi'an Jiaotong-Liverpool Univ. (CHN)
+    International Business School Suzhou, Xi'an Jiaotong-Liverpool University, Suzhou, 215123, China
+Xiamen Univ. (CHN)
+    Collaborative Innovation Center for Energy Economics and Energy Policy, China Institute for Studies in Energy Policy, Xiamen University, Xiamen, Fujian, 361005, China
+Yonsei Univ. (KOR)
+    School of Civil and Environmental Engineering, Yonsei University, Seoul, 03277, South Korea
+    Yonsei Univ., Dept. of Architectural Engineering, Seoul 120-749, South Korea
+    Yonsei Univ., Dept. of Civil and Environmental Engineering, Seoul 120-749, South Korea
+Zhejiang Normal Univ. (CHN)
+    School of Economics and Management, Zhejiang Normal University, Jinhua, 321004, China

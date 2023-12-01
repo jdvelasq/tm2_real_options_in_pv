@@ -1,0 +1,368 @@
+Agaton C.B., 2018, ENERGY SUSTAINABILITY SOC, V8
+    Agaton C. B., Karl H., A real options approach to renewable electricity generation in the Philippines, Energy, Sustainability and Society, 8, 1, (2018)
+    Agaton C.B., Karl H., A real options approach to renewable electricity generation in the Philippines, Energy Sustain Soc, 8, (2018)
+    Agaton C.B., Karl H., A real options approach to renewable electricity generation in the Philippines, Energy Sustain Society, 8, 1, (2018)
+An J., 2021, SUSTAINABILITY, V13
+    An J., Kim D.-K., Lee J., Joo S.-K., Least-squares Monte Carlo simulation-based decision-making method for photovoltaic investment in Korea, Sustain. Times, 13, 19, (2021)
+    An J., Kim D.K., Lee J., Joo S.K., Least squares monte carlo simulation-based decision-making method for photovoltaic investment in korea, Sustain, 13, (2021)
+Andreolli F., 2022, ENERGY ECON, V106
+    Andreolli F., D'Alpaos C., Moretto M., Valuing investments in domestic PV-Battery Systems under uncertainty, Energy Econ, 106, (2022)
+Asano H., 2010, IEEE PES GEN MEET PES
+    Asano H., Ariki W., Bando S., Value of investment in a microgrid under uncertainty in the fuel price, IEEE PES Gen Meet PES, 2010, pp. 1-5, (2010)
+    Asano H., Ariki W., Bando S., Value of investment in a microgrid under uncertainty in the fuel price. In, IEEE Power and Energy Society General Meeting (pp. 1–5). Minneapolis, MN, 25–29 July, (2010)
+Ashuri B., 2011, COMPUT CIV ENG (NEW YORK), P768
+    Ashuri B., Kashani H., A Real Options Approach to Evaluating Investment in Solar Ready Buildings, Computing in Civil Engineering, 2011, pp. 768-775, (2011)
+    Ashuri B., Kashani H., A real options approach to evaluating investment in solar ready buildings, Computing in Civil Engineering, 2011, pp. 768-775, (2011)
+    Ashuri B., Kashani H., A real options approach to evaluating investment in solar ready buildings, Int Workshop Comput Civil Eng 2011, pp. 768-775, (2011)
+    Ashuri B., Kashani H., A real options approach to evaluating investment in solar ready buildings, Proceedings of Congress on Computing in Civil Engineering, (2011)
+    Ashuri B., Kashani H., A real options approach to evaluating investment in solar ready buildings, Proceedings of Congress on Computing in Civil Engineering, Florida, USA, (2011)
+    Ashuri B., Kashani H., Lu J., A Real Options Approach to Evaluating Investment in Solar Ready Buildings, (2011)
+    Ashuri B., Kashani H., Lu J., A real options approach to evaluating investment in solar ready buildings 2011, Proceedings of Congress on Computing in Civil Engineering, (2011)
+    Ashuri B., Kashani H., Lu J., A real options approach to evaluating investment in solar ready buildings, Proceedings of Congress on Computing in Civil Engineering, (2011)
+    Ashuri B., Kashani H., Lu J., A real options approach to evaluating investment in solar ready buildings, Proceedings of congress on computing in civil engineering, (2011)
+    Ashuri B., Kashani H., Lu J., A real options approach to evaluating investment in solar ready buildings[C], Proceedings of Congress on Computing in Civil Engineering, (2011)
+Assereto M., 2021, RENEWABLE SUSTAINABLE ENERGY REV, V143
+    Assereto M., Byrne J., No real option for solar in Ireland: A real option valuation of utility scale solar investment in Ireland, Renew Sustain Energy Rev, 143, (2021)
+    Assereto M., Byrne J., No real option for solar in Ireland: A real option valuation of utility scale solar investment in Ireland, Renew. Sustain. Energy Rev, 143, pp. 1-9, (2021)
+    Assereto M., Byrne J., No real option for solar in Ireland: A real option valuation of utility scale solar investment in Ireland, Renewable and Sustainable Energy Reviews, 143, (2021)
+    Assereto M., Byrne J., No real option for solar in Ireland: a real option valuation of utility scale solar investment in Ireland, Renew. Sustain. Energy Rev., 143, (2021)
+Bangjun W., 2022, RENEW ENERGY, V189, P1033
+    Bangjun W., Feng Z., Feng J., Yu P., Cui L., Decision making on investments in photovoltaic power generation projects based on renewable portfolio standard: Perspective of real option, Renew Energy, 189, pp. 1033-1045, (2022)
+    Bangjun W., Feng Z., Feng J., Yu P., Cui L., Decision making on investments in photovoltaic power generation projects based on renewable portfolio standard: perspective of real option, Renew. Energy, 189, pp. 1033-1045, (2022)
+Batac K.I.T., 2022, INTERNAT J RENE ENER DEVEL, V11, P801
+    Batac K.I.T., Collera A.A., Villanueva R.O., Agaton C.B., Decision Support for Investments in Sustainable Energy Sources Under Uncertainties, Int J Renew Energy Dev, 11, pp. 801-814, (2022)
+Bertolini M., 2018, ENERGY, V149, P890
+    Bertolini M., D'Alpaos C., Moretto M., Do Smart Grids boost investments in domestic PV plants? Evidence from the Italian electricity market, Energy, 149, pp. 890-902, (2018)
+    Bertolini M., D'Alpaos C., Moretto M., Do smart grids boost investments in domestic PV plants? Evidence from the Italian electricity market, Energy, 149, pp. 890-902, (2018)
+    Bertolini M., D'Alpaos C., Moretto M., Do smart grids boost investments in domestic pv plants? evidence from the italian electricity market, Energy, 149, pp. 890-902, (2018)
+Bi Y./1, 2022, SUSTAIN PROD CONSUM, V32, P344
+    Bi Y., Lyu S., How to promote the widespread commercial adoption of photovoltaic microgrids under investment uncertainty? A real options analysis in China, Sustain Prod Consum, 32, pp. 344-356, (2022)
+    Bi Y., Lyu S., How to promote the widespread commercial adoption of photovoltaic microgrids under investment uncertainty? A real options analysis in China, Sustain. Prod. Consum., 32, pp. 344-356, (2022)
+Biancardi M., 2023, COMM NONLINEAR SCI NUMER SIMUL, V116
+    Biancardi M., Bufalo M., Di Bari A., Villani G., Flexibility to switch project size: a real option application for photovoltaic investment valuation, Communications in Nonlinear Science and Numerical Simulation, 116, (2023)
+Biondi T., 2015, ENERGY, V80, P293
+    Biondi T., Moretto M., Solar Grid Parity dynamics in Italy: A real option approach, Energy, 80, pp. 293-302, (2015)
+    Biondi T., Moretto M., Solar Grid Parity dynamics in Italy: A real option approach, Energy., 80, pp. 293-302, (2015)
+    Biondi T., Moretto M., Solar Grid Parity dynamics in Italy: a real option approach, Energy, 80, pp. 293-302, (2015)
+    Biondi T., Moretto M., Solar Grid parity dynamics in Italy: a real option approach, Energy, 80, pp. 293-302, (2015)
+    Biondi T., Moretto M., Solar grid parity dynamics in Italy: A real option approach, Energy, 80, pp. 293-302, (2015)
+    Biondi T., Moretto M., Solar grid parity dynamics in Italy: a real option approach, Energy, 80, 100, pp. 293-302, (2015)
+    Biondi T., Moretto M., Solar grid parity dynamics in Italy: a real option approach, Energy, 80, pp. 293-302, (2015)
+Castellini M., 2021, ENERGY ECON, V104
+    Castellini M., Di Corato L., Moretto M., Vergalli S., Energy exchange among heterogeneous prosumers under price uncertainty, Energy Econ, 104, (2021)
+Castellini M., 2021, J ECON DYN CONTROL, V126
+    Castellini M., Menoncin F., Moretto M., Vergalli S., Photovoltaic Smart Grids in the prosumers investment decisions: A real option model, Journal of Economic Dynamics and Control, 126, (2021)
+    Castellini M., Menoncin F., Moretto M., Vergalli S., Photovoltaic smart grids in the prosumers investment decisions: a real option model, J. Econom. Dynam. Control, 126, (2021)
+Chen W., 2018, MITIGATION ADAPT STRATEG GLOBAL CHANGE, V23, P667
+    CHEN W.D., BI Y.J., Electricity price subsidy or carbon-trading subsidy: which is more efficient to develop photovoltaic power generation from a government perspective?, Mitig. Adapt. Strateg. Glob. Change, 23, 5, (2018)
+    Chen W.D., Bi Y.J., Electricity price subsidy or carbon-trading subsidy: which is more efficient to develop photovoltaic power generation from a government perspective?, Mitig. Adapt. Strateg. Glob. Chang., 23, pp. 667-683, (2018)
+Cheng C., 2017, ENERGY, V127, P594
+    Cheng B., Wang Z., Liu M., Chen Q., Gbatu A., Ren X., Defer option valuation and optimal investment timing of solar photovoltaic projects under different electricity market systems and support schemes, Energy, 127, pp. 594-610, (2017)
+    Cheng C., Wang Z., Liu M., Chen Q., Gbatu A. P., Ren X., Defer option valuation and optimal investment timing of solar photovoltaic projects under different electricity market systems and support schemes, Energy, 127, pp. 594-610, (2017)
+    Cheng C., Wang Z., Liu M., Chen Q., Gbatu A., Ren X., Defer option valuation and optimal investment timing of solar photovoltaic projects under different electricity market systems and support scheme, Energy, 127, pp. 594-610, (2017)
+    Cheng C., Wang Z., Liu M., Chen Q., Gbatu A.P., Ren X., Defer option valuation and optimal investment timing of solar photovoltaic projects under different electricity market systems and support schemes, Energy, 127, pp. 594-610, (2017)
+    Cheng C., Wang Z., Liu M., Chen Q., Paye A., Defer option valuation and optimal investment timing of solar photovoltaic projects under different electricity market systems and support schemes, Energy, 127, pp. 594-610, (2017)
+    Cheng C., Zhen W., Mingming L., Qiang C., Abimelech P.G., Xiaohang R., Defer option valuation and optimal investment timing of solar photovoltaic projects under different electricity market systems and support schemes, Energy, 127, pp. 594-610, (2017)
+Das Gupta S., 2020, INT J ENERGY SECT MANAGE, V14, P757
+    Das Gupta S., Mosino A., Evaluating India's energy targets using real options approach, Int J Energy Sect Manag, 14, pp. 757-776, (2020)
+    Das Gupta S., Mosino A., “Evaluating India's energy targets using real options approach”, In: Int. J. Energy Sect. Manag., 14, 4, pp. 757-776, (2020)
+Das Gupta S., 2021, ENERGY POLICY, V148
+    Das G.S., Using real options to value capacity additions and investment expenditures in renewable energies in India, Energy Policy, 148, (2021)
+    Das Gupta S., Using Real Options to Value Capacity Additions and Investment Expenditures in Renewable Energies in India, Energy Policy, 148, (2021)
+Di Bari A., 2020, ENERGIES, V13
+    Antonio Di B., A real options approach to valuate solar energy investment with public authority incentives: the Italian case, Energies, 13, (2020)
+    Bari A., Di A real options approach to valuate solar energy investment with public authority incentives: The Italian case, Energies, 13, (2020)
+    Di Bari A., A Real Options Approach to Valuate Solar Energy Investment with Public Authority Incentives: The Italian Case, Energies, 13, (2020)
+    Di Bari A., A real options approach to valuate solar energy investment with public authority incentives, The Italian case Energies, 13, (2020)
+    Di Bari A., A real options approach to valuate solar energy investment with public authority incentives: The Italian case, Energies, 13, (2020)
+    Di Bari A., A real options approach to valuate solar energy investment with public authority incentives: the Italian case, Energies, 13, 16, (2020)
+    Di Bari A., A real options approach to valuate solar energy investment with public authority incentives: the italian case, Energies, 13, (2020)
+Eissa M.A., 2017, ENERGIES, V10
+    Eissa M.A., Tian B., Lobatto-Milstein numerical method in application of uncertainty investment of solar power projects, Energies, 10, 1, (2017)
+    Eissa M.A., Tian B., Lobatto-milstein numerical method in application of uncertainty investment of solar power projects, Energies, 10, 1, (2017)
+Elahi F.N., 2018, IND ENG MANAG SYST, V17, P769
+    Elahi F.N., Ebrahimnejad S., Investment decision making under uncertainty using real options approach: a case study in solar power plants of Iran, Ind Eng Manag Syst, 17, 4, pp. 769-782, (2018)
+Ersen H.Y., 2018, ENG ECON, V29, P140
+    Ersen H.Y., Tas O., Kahraman C., Intuitionistic fuzzy real-options theory and its application to solar energy investment projects, Eng Econ, 29, pp. 140-150, (2018)
+    Ersen H.Y., Tas O., Kahraman C., Intuitionistic fuzzy real-options theory and its application to solar energy investment projects, Eng. Econ., 29, 2, pp. 140-150, (2018)
+Fan J.-L., 2019, RENEWABLE SUSTAINABLE ENERGY REV, V115
+    Fan J.-L., Xu M., Yang L., Zhang X., Benefit evaluation of investment in CCS retrofitting of coal-fired power plants and PV power plants in China based on real options, Renew Sust Energ Rev, 115, (2019)
+    Fan J.-L., Xu M., Yang L., Zhang X., Benefit evaluation of investment in CCS retrofitting of coal-fired power plants and PV power plants in China based on real options, Renew. Sustain. Energy Rev, 115, (2019)
+    Fan J.L., Xu M., Yang L., Zhang X., Benefit evaluation of investment in CCS retrofitting of coal-fired power plants and PV power plants in China based on real options, Renew Sustain Energy Rev, (2019)
+Fan J.-L., 2020, INT J GREENH GAS CONTROL, V92
+    Fan J.-L., Wei S., Zhang X., Yang L., A comparison of the regional investment benefits of CCS retrofitting of coal-fired power plants and renewable power generation projects in China, Intl. J. Greenhouse Gas Control, 92, (2020)
+    Fan J.-L., Wei S., Zhang X., Yang L., A comparison of the regional investment benefits of CCS retrofitting of coal-ired power plants and renewable power generation projects in China, Int. J. Greenh. Gas Control, 92, (2020)
+    Fan J.L., Wei S., Zhang X., Yang L., A comparison of the regional investment benefits of CCS retrofitting of coal-fired power plants and renewable power generation projects in China, Int J Greenh Gas Control, 92, (2020)
+Farzan F., 2015, ANN OPER RES, V235, P259
+    Farzan F., Mahani K., Gharieh K., Jafari M.A., Microgrid investment under uncertainty: A real option approach using closed form contingent analysis, Ann. Oper. Res, 235, pp. 259-276, (2015)
+    Farzan F., Mahani K., Gharieh K., Jafari M.A., Microgrid investment under uncertainty: A real option approach using closed form contingent analysis, Annals of Operations Research, 235, 1, pp. 259-276, (2015)
+    Farzan F., Mahani K., Gharieh K., Jafari M.A., Microgrid investment under uncertainty: a real option approach using closed form contingent analysis, Ann Oper Res, 235, pp. 259-276, (2015)
+    Farzan F., Mahani K., Gharieh K., Jafari M.A., Microgrid investment under uncertainty: a real option approach using closed form contingent analysis, Ann. Oper. Res., 235, 1, pp. 259-276, (2015)
+    Farzan F., Mahani K., Gharieh K., Jafari M.A., Microgrid investment under uncertainty: a real option approach using closed form contingent analysis, Ann. Oper. Res., 235, pp. 259-276, (2015)
+Fioriti D., 2021, ELECTR POWER SYST RES, V194
+    Fioriti D., Poli D., Duenas-Martinez P., Perez-Arriaga I., Multi-year stochastic planning of off-grid microgrids subject to significant load growth uncertainty: overcoming single-year methodologies, Electr Pow Syst Res, (2021)
+Gahrooei M.R., 2016, SUSTAINABLE CITIES SOC, V20, P109
+    Gahrooei M. R., Zhang Y., Ashuri B., Augenbroe G., Timing residential photovoltaic investments in the presence of demand uncertainties, Sustainable Cities and Society, 20, pp. 109-123, (2016)
+    Gahrooei M.R., Zhang Y., Ashuri B., Augenbroe G., Timing residential photovoltaic investments in the presence of demand uncertainties, Sust Cities Soc, 20, pp. 109-123, (2016)
+    Gahrooei M.R., Zhang Y., Ashuri B., Augenbroe G., Timing residential photovoltaic investments in the presence of demand uncertainties, Sustain Cities Soc, 20, pp. 109-123, (2016)
+    Gahrooei M.R., Zhang Y., Ashuri B., Augenbroe G., Timing residential photovoltaic investments in the presence of demand uncertainties, Sustain Cities soc, 20, pp. 109-123, (2016)
+    Gahrooei M.R., Zhang Y., Ashuri B., Augenbroe G., Timing residential photovoltaic investments in the presence of demand uncertainties, Sustain. Cities Soc, 20, pp. 109-123, (2016)
+    Gahrooei M.R., Zhang Y., Ashuri B., Augenbroe G., Timing residential photovoltaic investments in the presence of demand uncertainties, Sustain. Cities Soc., 20, pp. 109-123, (2016)
+    Gahrooei M.R., Zhang Y., Ashuri B., Augenbroe G., Timing residential photovoltaic investments in the presence of demand uncertainties, Sustainable Cities Soc, 20, pp. 109-123, (2016)
+    Gahrooei M.R., Zhang Y., Ashuri B., Augenbroe G., Timing residential photovoltaic investments in the presence of demand uncertainties, Sustainable Cities and Society, 20, pp. 109-123, (2016)
+Gazheli A., 2013, AGRIC FINANC REV, V73, P507
+    Gazheli A., Di Corato L., Land-use change and solar energy production: A real option approach, Agric. Financ. Rev, 73, pp. 507-525, (2013)
+    Gazheli A., Di Corato L., Land-use change and solar energy production: a real option approach, Agric Financ Rev, 73, 3, pp. 507-525, (2013)
+    Gazheli A., Di Corato L., Land-use change and solar energy production: a real option approach, Agric Financ Rev, 73, pp. 507-525, (2013)
+    Gazheli A., Di Corato L., Land-use change and solar energy production: a real option approach, Agric Finance Rev, 73, 3, pp. 507-525, (2013)
+Gazheli A., 2018, RENEWABLE SUSTAINABLE ENERGY REV, V82, P2693
+    Gazheli A., Van Den B.J., Real options analysis of investment in solar vs. wind energy: Diversi fi cation strategies under uncertain prices and costs, Renew Sustain Energy Rev, 82, pp. 2693-2704, (2018)
+    Gazheli A., van den Bergh J., Real options analysis of investment in solar vs. Wind energy: Diversification strategies under uncertain prices and costs, Renew. Sustain. Energy Rev., 82, pp. 2693-2704, (2018)
+    Gazheli A., van den Bergh J., Real options analysis of investment in solar vs. Wind energy: diversification strategies under uncertain prices and costs, Renew. Sustain. Energy Rev., 82, pp. 2693-2704, (2018)
+    Gazheli A., van den Bergh J., Real options analysis of investment in solar vs. wind energy: Diversification strategies under uncertain prices and costs, Renew Sust Energ Rev, 82, pp. 2693-2704, (2018)
+    Gazheli A., van den Bergh J., Real options analysis of investment in solar vs. wind energy: Diversification strategies under uncertain prices and costs, Renewable and Sustainable Energy Reviews, 82, pp. 2693-2704, (2018)
+    Gazheli A., van den Bergh J., Real options analysis of investment in solar vs. wind energy: diversification strategies under uncertain prices and costs, Renew Sustain Energy Rev, 82, pp. 2693-2704, (2018)
+Glensk B., 2019, ENERGIES, V12
+    Glensk B., Madlener R., Energiewende @ Risk: On the continuation of renewable power generation at the end of public policy support, Energies, 12, (2019)
+Greden L.V., 2006, J SOL ENERGY ENG TRANS ASME, V128, P204
+    Greden L.V., Glicksman L.R., Lopez-Betanzos G., A real options methodology for evaluating risk and opportunity of natural ventilation, J Sol Energy Eng, 128, 2, pp. 204-212, (2006)
+    Greden L.V., Glicksman L.R., Lopez-Betanzos G., A real options methodology for evaluating risk and opportunity of natural ventilation, J. Sol. Energ. Eng., 128, 2, pp. 204-212, (2006)
+    Greden L.V., Glicksman L.R., Lopez-Betanzos G., A real options methodology for evaluating risk and opportunity of natural ventilation, Journal of Solar Energy Engineering, 128, 2, pp. 204-212, (2006)
+Guno C.S., 2021, INTERNAT J RENE ENER DEVEL, V10, P79
+    Guno C. S., Agaton C. B., Villanueva R. O., Villanueva R. O., Optimal Investment Strategy for Solar PV Integration in Residential Buildings: A Case Study in The Philippines, International Journal of Renewable Energy Development, 10, 1, pp. 79-89, (2021)
+    Guno C.S., Agaton C.B., Villanueva R.O., Villanueva R.O., Optimal investment strategy for solar PV integration in residential buildings: a case study in the Philippines, Int. J. Renew. Energy Dev., 10, 1, pp. 79-89, (2021)
+Hassi B., 2022, ENERGY J, V43, P83
+    Hassi B., Reyes T., Sauma E., A Compound Real Option Approach for Determining the Optimal Investment Path for RPV-Storage Systems, Energy J, 43, pp. 83-103, (2022)
+    Hassi B., Reyes T., Sauma E., A compound real option approach for determining the optimal investment path for RPV-storage systems, Energy J., 43, 3, pp. 83-103, (2022)
+Isaza Cuervo F., 2021, RENEW ENERGY FOCUS, V36, P96
+    Isaza Cuervo F., Arredondo-Orozco C. A., Marenco-Maldonado G. C., Photovoltaic power purchase agreement valuation under real options approach, Renewable Energy Focus, 36, pp. 96-107, (2021)
+    Isaza Cuervo F., Arredondo-Orozco C.A., Marenco-Maldonado G.C., Photovoltaic power purchase agreement valuation under real options approach, Renew Energy Focus, 36, pp. 96-107, (2021)
+    Isaza Cuervo F., Arredondo-Orozco C.A., Marenco-Maldonado G.C., Photovoltaic power purchase agreement valuation under real options approach, Renewable Energy Focus, 36, pp. 96-107, (2021)
+Jeon C., 2015, APPL ENERGY, V142, P33
+    Jeon C., Et al., Optimal subsidy estimation method using system dynamics and the real option model: Photovoltaic technology case, Applied Energy, 142, pp. 33-43, (2015)
+    Jeon C., Lee J., Shin J., Optimal subsidy estimation method using system dynamics and the real option model: Photovoltaic technology case, Appl Energ, 142, pp. 33-43, (2015)
+    Jeon C., Lee J., Shin J., Optimal subsidy estimation method using system dynamics and the real option model: Photovoltaic technology case, Appl Energy, 142, pp. 33-43, (2015)
+    Jeon C., Lee J., Shin J., Optimal subsidy estimation method using system dynamics and the real option model: Photovoltaic technology case, Appl. Energy, 142, pp. 33-43, (2015)
+    Jeon C., Lee J., Shin J., Optimal subsidy estimation method using system dynamics and the real option model: Photovoltaic technology case, Applied Energy, 142, pp. 33-43, (2015)
+    Jeon C., Lee J., Shin J., Optimal subsidy estimation method using system dynamics and the real option model: photovoltaic technology case, Appl Energy, 142, pp. 33-43, (2015)
+    Jeon C., Lee J., Shin J., Optimal subsidy estimation method using system dynamics and the real option model: photovoltaic technology case, Appl. Energy, 142, pp. 33-43, (2015)
+    Jeon C., Lee J., Shin J., Optimal subsidy estimation method using system dynamics and the real optionmodel: Photovoltaic technology case, Appl. Energy, 142, pp. 33-43, (2015)
+Kashani H., 2012, CONSTR RES CONGR CONSTR CHALLENGES FLAT WORLD PROC CONSTR RES CONGR, P1641
+    Kashani H., Ashuri B., Lu J., Shahandashti M., A real options model to evaluate investments in photovoltaic (PV) systems, Construction research congress 2012: construction challenges in a flat world, pp. 1641-1650, (2012)
+Kim B., 2012, J CONSTR ENG MANAGE, V138, P422
+    Kim B., Lim H., Kim H., Hong T., Asce A.M., Determining the Value of Governmental Subsidies for the Installation of Clean Energy Systems Using Real, Options, 138, pp. 422-430, (2012)
+    Kim B., Lim H., Kim H., Hong T., Determining the value of governmental subsidies for the installation of clean energy systems using real options, J. Constr. Eng. Manag., 138, 3, pp. 422-430, (2012)
+    Kim B., Lim H., Kim H., Hong T., Determining the value of governmental subsidies for the installation of clean energy systems using real options, Journal of Construction Engineering and Management, 138, 3, pp. 422-430, (2012)
+Kim B., 2017, J CLEAN PROD, V140, P1322
+    Kim B., Kim K., Kim C., Determining the optimal installation timing of building integrated photovoltaic systems, J Clean Prod, 140, pp. 1322-1329, (2017)
+    Kim B., Kim K., Kim C., Determining the optimal installation timing of building integrated photovoltaic systems, J. Clean. Prod, 140, pp. 1322-1329, (2017)
+Kim B., 2020, RENEWABLE SUSTAINABLE ENERGY REV, V125
+    Kim B., Kim C., Han S.U., Bae J.H., Jung J., Is it a good time to develop commercial photovoltaic systems on farmland? An American-style option with crop price risk, Renew Sustain Energy Rev, 125, (2020)
+    Kim B., Kim C., Han S.U., Bae J.H., Jung J., Is it a good time to develop commercial photovoltaic systems on farmland? An American-style option with crop price risk, Renew. Sustain. Energy Rev, 125, (2020)
+Kim K., 2016, IOP CONF SER EARTH ENVIRON SCI, V40
+    Kim K., Et al., Real options analysis for photovoltaic project under climate uncertainty, IOP Conference Series: Earth and Environmental Science, (2016)
+    Kim K., Kim S., Kim H., Real options analysis for photovoltaic project under climate uncertainty, IOP Conf Ser Earth Environ Sci, 40, 1, (2016)
+    Kim K., Kim S., Kim H., Real options analysis for photovoltaic project under climate uncertainty, Iop Conf. Ser.: Earth Environ. Sci., 40, 1, (2016)
+    Kim K., Kim S., Kim H., Real options analysis for photovoltaic project under climate uncertainty, Proceedings of the 2016 International Conference on New Energy and Future Energy System (NEFES 2016), pp. 1-8, (2016)
+Laracy J.R., 2007, COLLECT TECH PAP AIAA SPACE CONF EXPOS, V1, P442
+    Laracy J.R., Bador D., Adams D., Weigel A., Chambers R., Kwon D., Et al., Solar power satellites: Historical perspectives with a look to the future, A Collect Tech Pap – AIAA Sp 2007 Conf, 1, pp. 442-470, (2007)
+Lazo J., 2023, SUSTAINABLE ENERGY TECHNOL ASSESS, V57
+    Lazo J., Watts D., The use of real options approach in solar photovoltaic literature: a comprehensive review, Sustain. Energy Technol. Assessments, 57, (2023)
+Li L., 2022, ENERGY, V239
+    Li L., Cao X., Comprehensive effectiveness assessment of energy storage incentive mechanisms for PV-ESS projects based on compound real options, Energy, 239, (2022)
+    Li L., Cao X., Comprehensive effectiveness assessment of energy storage incentive mechanisms for PV-ESS projects based on compound real options, Energy, 239, A, (2022)
+Li Y., 2018, ENERGIES, V11
+    Li Y., Yang W., Tian L., An Evaluation of Investment in a PV Power Generation Project in the Gobi Desert Using a Real Options Model, Energies, 11, pp. 1-16, (2018)
+    Li Y., Yang W., Tian L., Yang J., An evaluation of investment in a PV power generation project in the Gobi Desert using a real options model, Energies, 11, 1, (2018)
+    Li Y., Yang W., Tian L., Yang J., An evaluation of investment in a PV power generation project in the Gobi Desert using a real options model, Energies, pp. 1-16, (2018)
+Li Y., 2019, INT J NONLINEAR SCI, V28, P120
+    Li Y., Yang W., Tian L., Yang J., Diversified Energy Investment Strategies based on Real Options: Hydropower vs, Solar Power, 28, pp. 120-127, (2019)
+Lin B., 2013, RENEWABLE SUSTAINABLE ENERGY REV, V28, P474
+    Lin B., Wasseh P.K., Valuing Chinese feed-in tariffs program for solar power generation: a real options analysis, Renew Sustain Energy Rev, 28, pp. 474-482, (2013)
+    Lin B., Wesseh Jr.P.K., Valuing Chinese feed-in tariffs program for solar power generation: A real options analysis, Renew Sustain Energy Rev, 28, pp. 474-482, (2013)
+    Lin B., Wesseh P.K., Valuing Chinese feed-in tariffs program for solar power generation: A real options analysis, Renew Sust Energ Rev, 28, pp. 474-482, (2013)
+    Lin B., Wesseh P.K., Valuing Chinese feed-in tariffs program for solar power generation: A real options analysis, Renew Sustain Energy Rev, 28, pp. 474-482, (2013)
+    Lin B., Wesseh P.K., Valuing Chinese feed-in tariffs program for solar power generation: A real options analysis, Renew. Sustain. Energy Rev., 28, pp. 474-482, (2013)
+    Lin B., Wesseh P.K., Valuing Chinese feed-in tariffs program for solar power generation: A real options analysis, Renewable and Sustainable Energy Reviews, 28, pp. 474-482, (2013)
+    Lin B., Wesseh P.K., Valuing Chinese feed-in tariffs program for solar power generation: a real options analysis, Renew Sustain Energy Rev, 28, pp. 474-482, (2013)
+    Lin B., Wesseh P.K., Valuing Chinese feed-in tariffs program for solar power generation: a real options analysis, Renew. Sust. Energ. Rev., 28, pp. 474-482, (2013)
+    Lin B., Wesseh P.K., Valuing Chinese feed-in tariffs program for solar power generation: a real options analysis, Renew. Sustain. Energy Rev., 28, pp. 474-482, (2013)
+    Lin B., Wesseh P.K., Valuing Chinese feed-in tariffs program for solar power generaton: a real options analysis, Renew Sustain Energy Rev, 28, pp. 474-482, (2013)
+    Lin B., Wesseh P.K., Valuing Chinese feed-in-tariffs program for solar power generation: a real options analysis, Renew. Sustain. Energy Rev., 28, pp. 474-482, (2013)
+    Lin B.Q., Wesseh P.K., Valuing Chinese feed-in tariffs program for solar power generation: A real options analysis, Renew. Sustain. Energy Rev., 14, pp. 113-147, (2013)
+    Lin B.Q., Wesseh P.K., Valuing Chinese feed-in tariffs program for solar power generation: a real options analysis, Renew. Sust. Energ. Rev., 28, pp. 474-482, (2013)
+Ma R., 2021, ENERGY POLICY, V151
+    Ma R., Cai H., Ji Q., Zhai P., The impact of feed-in tariff degression on R&D investment in renewable energy: The case of the solar PV industry, Energy Policy, 151, (2021)
+    Ma R., Cai H., Ji Q., Zhai P., The impact of feed-in tariff degression on R&D investment in renewable energy: the case of the solar PV industry, Energy Pol., 151, (2021)
+Ma Y., 2019, IEEE MILAN POWERTECH POWERTECH
+    Ma Y., Verbic G., Chapman A.C., Estimating the option value of grid-scale battery systems to distribution network service providers, 2019 IEEE Milan PowerTech, pp. 1-6, (2019)
+    Ma Y., Verbic G., Chapman A.C., Estimating the option value of grid-scale battery systems to distribution network service providers, 2019 IEEE milan PowerTech, pp. 1-6, (2019)
+    Ma Y., Verbic G., Chapman A.C., Estimating the option value of grid-scale battery systems to distribution network service providers, IEEE Milan PowerTech PowerTech, 2019, (2019)
+Ma Y., 2020, ENERGY, V191
+    Ma Y., Swandi K., Chapman A.C., Verbic G., Multi-stage compound real options valuation in residential PV-Battery investment, Energy, 191, (2020)
+    Ma Y., Swandi K., Chapman A.C., Verbic G., Multi-stage compound real options valuation in residential PV-battery investment, Energy, 191, (2020)
+Ma Y., 2022, APPL ENERGY, V318
+    Ma Y., Chapman A.C., Verbic G., Valuation of compound real options for co-investment in residential battery systems, Appl Energy, 318, (2022)
+    Ma Y., Chapman A.C., Verbic G., Valuation of compound real options for co-investment in residential battery systems, Appl. Energy, 318, (2022)
+Mancini M., 2016, IEEE INT CONF IND ENG ENG MANAGE, V2016-December, P1101
+    Mancini M., Sala R., Tedesco D., Travaglini A., A Real Options Investment Model for the Evaluation of Wind and Photovoltaic Plants, IEEE Int Conf Ind Eng Eng Manag, 2016, pp. 1101-1105, (2016)
+Moon Y., 2018, RENEW ENERGY, V125, P783
+    Moon Y., Baran M., Economic analysis of a residential PV system from the timing perspective: A real option model, Renew Energ, 125, pp. 783-795, (2018)
+    Moon Y., Baran M., Economic analysis of a residential PV system from the timing perspective: A real option model, Renew Energy, 125, pp. 783-795, (2018)
+    Moon Y., Baran M., Economic analysis of a residential PV system from the timing perspective: A real option model, Renew. Energy, 125, pp. 783-795, (2018)
+    Moon Y., Baran M., Economic analysis of a residential PV system from the timing perspective: A real option model, Renew. energy, 125, pp. 783-795, (2018)
+    Moon Y., Baran M., Economic analysis of a residential PV system from the timing perspective: A real option model, Renewable Energy, 125, pp. 783-795, (2018)
+    Moon Y., Baran M., Economic analysis of a residential PV system from the timing perspective: A real option model, Renewable energy, 125, pp. 783-795, (2018)
+    Moon Y., Baran M., Economic analysis of a residential PV system from the timing perspective: a real option model, Renew Energy, 125, pp. 783-795, (2018)
+    Moon Y., Baran M., Economic analysis of a residential PV system from the timing perspective: a real option model, Renew. Energy, 125, 100, pp. 783-795, (2018)
+    Moon Y., Baran M., Economic analysis of a residential PV system from the timing perspective: a real option model, Renew. Energy, 125, pp. 783-795, (2018)
+Nunes L.E., 2021, ENERGY, V231
+    Nunes L.E., de Lima M.V.A., Davinson M., da Silva Leite A.L., Switch and defer option in renewable energy projects: Evidences from Brazil, Energy, 231, (2021)
+    Nunes L.E., de Lima M.V.A., Davison M., Leite A.L., da S. Switch and defer option in renewable energy projects: Evidences from Brazil, Energy, 231, (2021)
+Palmintier B., 2016, IEEE POWER ENERGY SOC INNOV SMART GRID TECHNOL CONF ISGT
+    Palmintier B., Krishnamurthy D., Wu H., Design flexibility for uncertain distributed generation from photovoltaics, 2016 IEEE Power Energy Soc Innov Smart Grid Technol Conf ISGT, (2016)
+Pan Y., 2019, ENERGY ECON, V78, P454
+    Pan Y., Yao X., Wang X., Zhu L., Policy uncertainties: What investment choice for solar panel producers?, Energy Econ, 78, pp. 454-467, (2019)
+    Pan Y., Yao X., Wang X., Zhu L., Policy uncertainties: What investment choice for solar panel producers?, Energy Econ., 78, pp. 454-467, (2019)
+    Pan Y., Yao X., Wang X., Zhu L., Policy uncertainties: What investment choice for solar panel producers?, Energy Economics, 78, pp. 454-467, (2019)
+Penizzotto F., 2019, RENEWABLE SUSTAINABLE ENERGY REV, V114
+    Penizzotto F., Pringles R., Olsina F., Real options valuation of photovoltaic power investments in existing buildings, Renew Sust Energ Rev, 114, (2019)
+    Penizzotto F., Pringles R., Olsina F., Real options valuation of photovoltaic power investments in existing buildings, Renew Sustain Energy Rev, 114, (2019)
+    Penizzotto F., Pringles R., Olsina F., Real options valuation of photovoltaic power investments in existing buildings, Renew. Sust. Energ. Rev., 114, (2019)
+    Penizzotto F., Pringles R., Olsina F., Real options valuation of photovoltaic power investments in existing buildings, Renew. Sustain. Energy Rev, 114, (2019)
+    Penizzotto F., Pringles R., Olsina F., Real options valuation of photovoltaic power investments in existing buildings, Renew. Sustain. Energy Rev., 114, (2019)
+    Penizzotto F., Pringles R., Olsina F., Real options valuation of photovoltaic power investments in existing buildings, Renewable and Sustainable Energy Reviews, 114, (2019)
+Pringles R., 2020, RENEW ENERGY, V151, P846
+    Pringles R., Olsina F., Penizzotto F., Valuation of Defer and Relocation Options in Photovoltaic Generation Investments by a Stochastic Simulation-Based Method, Renew. Energy, 151, pp. 846-864, (2020)
+    Pringles R., Olsina F., Penizzotto F., Valuation of defer and relocation options in photovoltaic generation investments by a stochastic simulation-based method, Renew Energ, 151, pp. 846-864, (2020)
+    Pringles R., Olsina F., Penizzotto F., Valuation of defer and relocation options in photovoltaic generation investments by a stochastic simulation-based method, Renew Energy, 151, pp. 846-864, (2020)
+    Pringles R., Olsina F., Penizzotto F., Valuation of defer and relocation options in photovoltaic generation investments by a stochastic simulation-based method, Renew. Energy, 151, pp. 846-864, (2020)
+Reuter W.H., 2012, RENEWABLE SUSTAINABLE ENERGY REV, V16, P2242
+    Reuter W.H., Fuss S., Szolgayova J., Obersteiner M., Investment in wind power and pumped storage in a real options model, Renew Sustain Energy Rev, 16, 4, pp. 2242-2248, (2012)
+    Reuter W.H., Fuss S., Szolgayova J., Obersteiner M., Investment in wind power and pumped storage in a real options model, Renewable and Sustainable Energy Reviews, 16, 4, pp. 2242-2248, (2012)
+    Reuter W.H., Szolgayova J., Fuss S., Obersteiner M., Investment in wind power and pumped storage in a real options model, Renew Sustain Energy Rev, 16, pp. 2242-2248, (2012)
+Risthaus K., 2017, ENERGY PROCEDIA, V142, P2816
+    Risthaus K., Madlener R., Economic Analysis of Electricity Storage Based on Heat Pumps and Thermal Storage Units in Thermal Power Plants, FCN Working Paper, Institute for Future Energy Consumer Needs and Behavior (FCN), (2017)
+Sarkis J., 2008, EMISSIONS TRDG INSTITUTIONAL DES DECIS MAK AND CORP STRATEGIES, P103
+    Sarkis J., Tamarkin M., Real Options Analysis for Renewable Energy Technologies in A GHG Emissions Trading Environment. Emissions Trading, (2008)
+    Sarkis J., Tamarkin M., Real Options Analysis for Renewable Energy Technologies in a GHG Emissions Trading Environment, Emissions Trading, pp. 103-119, (2008)
+    Sarkis J., Tamarkin M., Real Options Analysis for Renewable Energy Technologies in a GHG Emissions Trading Environment” in Emissions Trading: Institutional Design, Decision Making and Corporate Strategies, pp. 103-119, (2008)
+    Sarkis J., Tamarkin M., Real options analysis for renewable energy technologies in a GHG emissions trading environment, Emissions Trading, pp. 103-119, (2008)
+    Sarkis J., Tamarkin M., Real options analysis for renewable energy technologies in a GHG emissions trading environment, Emissions Trading: Institutional Design, Decision Making and Corporate Strategies, pp. 103-119, (2008)
+    Sarkis J., Tamarkin M., Real options analysis for renewable energy technologies in a GHG emissions trading environment, Emissions trading, pp. 103-119, (2008)
+    Sarkis J., Tamarkin M., Real options analysis for renewable energy technologies in a GHG emissions trading environment, Emissions trading: institutional design, decision making and corporate strategies, pp. 103-119, (2008)
+Seifafjei S., 2021, SUSTAINABLE CITIES SOC, V65
+    Seifafjei S., Mahani K., Jafari M.A., Farzan F., Farzan F., A statistical learning approach to determine optimal sizing & investment timing of commercial-scale distributed energy resources, Sustain Cities Soc, 65, (2021)
+Sesmero J., 2016, ENERGY POLICY, V93, P80
+    Sesmero J., Jung J., Tyner W., The effect of current and prospective policies on photovoltaic system economics: An application to the US Midwest, Energ Policy, 93, pp. 80-95, (2016)
+    Sesmero J., Jung J., Tyner W., The effect of current and prospective policies on photovoltaic system economics: An application to the US Midwest, Energy Policy, 93, pp. 80-95, (2016)
+    Sesmero J., Jung J., Tyner W., The effect of current and prospective policies on photovoltaic system economics: an application to the US Midwest, Energy Policy, 93, pp. 80-95, (2016)
+Sim J., 2018, J CLEAN PROD, V189, P297
+    Sim J., The economic and environmental values of the R&D investment in a renewable energy sector in South Korea, J Clean Prod, 189, pp. 297-306, (2018)
+Tian L., 2017, APPL ENERGY, V201, P354
+    Tian L., Pan J., Du R., Li W., Zhen Z., Gao Q., The valuation of photovoltaic power generation under carbon market linkage based on real options, Appl Energy, 201, pp. 354-362, (2017)
+    Tian L., Pan J., Du R., Li W., Zhen Z., Gao Q., The valuation of photovoltaic power generation under carbon market linkage based on real options, Appl. Energy, 201, pp. 354-362, (2017)
+    Tian L., Pan J., Du R., Li W., Zhen Z., Qibing G., The valuation of photovoltaic power generation under carbon market linkage based on real options, Appl Energ, 201, pp. 354-362, (2017)
+    Tian L., Pan J., Du R., Li W., Zhen Z., Qibing G., The valuation of photovoltaic power generation under carbon market linkage based on real options, Appl Energy, 201, pp. 354-362, (2017)
+    Tian L., Pan J., Du R., Li W., Zhen Z., Qibing G., The valuation of photovoltaic power generation under carbon market linkage based on real options, Appl. Energy, 201, 1, pp. 354-362, (2017)
+    Tian L., Pan J., Du R., Li W., Zhen Z., Qibing G., The valuation of photovoltaic power generation under carbon market linkage based on real options, Appl. Energy, 201, pp. 354-362, (2017)
+    Tian L., Pan J., Du R., Li W., Zhen Z., Qibing G., The valuation of photovoltaic power generation under carbon market linkage based on real options, Applied Energy, 201, pp. 354-362, (2017)
+    Tian L., Pan J., Du R., Li W., Zhen Z., Qibing G., The valuation of photovoltaic power generation under carbon market linkage based on real options, Applied energy, 201, pp. 354-362, (2017)
+Torani K., 2016, ENERGY POLICY, V92, P255
+    TORANI K., RAUSSER G., ZILBERMAN D., Innovation subsidies versus consumer subsidies: A real options analysis of solar energy, Energ. Policy, 92, (2016)
+    Torani K., Rausser G., Zilberman D., Innovation subsidies versus consumer subsidies: A real options analysis of solar energy $, Energy Policy, 92, pp. 255-269, (2016)
+    Torani K., Rausser G., Zilberman D., Innovation subsidies versus consumer subsidies: A real options analysis of solar energy, Energ Policy, 92, pp. 255-269, (2016)
+    Torani K., Rausser G., Zilberman D., Innovation subsidies versus consumer subsidies: A real options analysis of solar energy, Energy Policy, 92, pp. 255-269, (2016)
+    Torani K., Rausser G., Zilberman D., Innovation subsidies versus consumer subsidies: a real options analysis of solar energy, Energy Pol, 92, pp. 255-269, (2016)
+    Torani K., Rausser G., Zilberman D., Innovation subsidies versus consumer subsidies: a real options analysis of solar energy, Energy Policy, 92, pp. 255-269, (2016)
+Vargas C., 2021, J SUSTAIN  FINANCE  INVEST, V11, P82
+    Vargas C., Chesney M., End of life decommissioning and recycling of solar panels in the United States. A real options analysis, J Sustain Financ Invest, 11, pp. 82-102, (2021)
+    Vargas C., Chesney M., End of life decommissioning and recycling of solar panels in the United States. A real options analysis, Journal of Sustainable Finance & Investment, 11, pp. 82-102, (2021)
+    Vargas C., Chesney M., End of life decommissioning and recycling of solar panels in the united states. a real options analysis, Journal of Sustainable Finance & Investment, 11, 1, pp. 82-102, (2021)
+Weibel S., 2014, ENERGY PROCEDIA, V61, P2196
+    Weibel S., Madlener R., Cost-effective design of ringwall storage hybrid power plants: a real options analysis, Energy Proc., 61, pp. 2196-2200, (2014)
+Weibel S., 2015, ENERGY CONVERS MANAGE, V103, P871
+    Weibel S., Madlener R., Cost-effective design of Ringwall storage hybrid power plants: a real options analysis, Energy Convers Manage, 103, pp. 871-885, (2015)
+    Weibel S., Madlener R., Cost-effective design of Ringwall storage hybrid power plants: a real options analysis, Energy Convers. Manag., 103, pp. 871-885, (2015)
+    Weibel S., Madlener R., Cost-effective design of ringwall storage hybrid power plants: A real options analysis, Energy Convers Manage, 103, pp. 871-885, (2015)
+    Weibel S., Madlener R., Cost-effective design of ringwall storage hybrid power plants: A real options analysis, Energy Convers. Manag, 103, pp. 871-885, (2015)
+    Weibel S., Madlener R., Cost-effective design of ringwall storage hybrid power plants: a real options analysis, Energy Convers Manag, 103, pp. 871-885, (2015)
+Welling A., 2016, EUR J OPER RES, V251, P1016
+    Welling A., The paradox effects of uncertainty and flexibility on investment in renewable under governmental support, Eur J Oper Res, 251, pp. 1016-2018, (2016)
+    Welling A., The paradox effects of uncertainty and flexibility on investment in renewable under governmental support, Eur. J. Oper. Res., 251, pp. 1016-2018, (2016)
+    Welling A., The paradox effects of uncertainty and flexibility on investment in renewables under governmental support, Eur J Oper Res, 251, pp. 1016-1028, (2016)
+    Welling A., The paradox effects of uncertainty and flexibility on investment in renewables under governmental support, Eur. J. Oper. Res., 251, pp. 1016-1028, (2016)
+Xiu X., 2012, IET CONF PUBL, V2012
+    Xiu X., Li B., Study on energy storage system investment decision based on real option theory, International Conference on Sustainable Power Generation and Supply (SUPERGEN 2012), (2012)
+Yu G., 2022, ENERGY SCI ENG, V10, P3075
+    Yu G., Wang K., Hu Y., Chen W., Research on the investment decisions of PV micro-grid enterprises under carbon trading mechanism, SCI, 16, (2022)
+Zeng Y., 2015, ENERGY ECON, V48, P295
+    Zeng Y., Klabjan D., Arinez J., Distributed solar renewable generation : Option contracts with renewable energy credit uncertainty, Energy Economics, 48, pp. 295-305, (2015)
+    Zeng Y., Klabjan D., Arinez J., Distributed solar renewable generation: Option contracts with renewable energy credit uncertainty, Energy Econ, 48, pp. 295-305, (2015)
+    Zeng Y., Klabjan D., Arinez J., Distributed solar renewable generation: Option contracts with renewable energy credit uncertainty, Energy Econ., 48, pp. 295-305, (2015)
+    Zeng Y., Klabjan D., Arinez J., Distributed solar renewable generation: Option contracts with renewable energy credit uncertainty, Energy Economics, 48, pp. 295-305, (2015)
+    Zeng Y., Klabjan D., Arinez J., Distributed solar renewable generation: option contracts with renewable energy credit uncertainty, Energy Econ, 48, pp. 295-305, (2015)
+    Zeng Y., Klabjan D., Arinez J., Distributed solar renewable generation: option contracts with renewable energy credit uncertainty, Energy Econ., 48, pp. 295-305, (2015)
+    Zeng Y.X., Klabjan D., Arinez J., Distributed solar renewable generation: option contracts with renewable energy credit uncertainty, Energy Econ., 48, pp. 295-305, (2015)
+Zeng Y./1, 2019, ENERGIES, V12
+    Zeng Y., Chen W., The determination of concession period for build-operate-transfer solar photovoltaic power project under policy incentives: A case study of China, Energies, 12, (2019)
+    Zeng Y., Chen W., The determination of concession period for build-operate-transfer solar photovoltaic power project under policy incentives: a case study of China, Energies, 12, 18, (2019)
+Zhang M.M., 2014, RENEWABLE SUSTAINABLE ENERGY REV, V40, P944
+    Zhang M., Zhou D., Zhou P., A real option model for renewable energy policy evaluation with application to solar PV power generation in China, Renew Sust Energ Rev, 40, pp. 944-955, (2014)
+    Zhang M., Zhou D., Zhou P., A real option model for renewable energy policy evaluation with application to solar PV power generation in China, Renew Sustain Energy Rev, 40, pp. 944-955, (2014)
+    Zhang M., Zhou D., Zhou P., A real option model for renewable energy policy evaluation with application to solar PV power generation in China, Renew. Sustain. Energy Rev., 40, pp. 944-955, (2014)
+    Zhang M., Zhou D., Zhou P., A real option model for renewable energy policy evaluation with application to solar PV power generation in China, Renewable Sustain Energy Rev, 40, pp. 944-955, (2014)
+    Zhang M., Zhou D., Zhou P., A real option model for renewable energy policy evaluation with application to solar PV power generation in China, Renewable and Sustainable Energy Reviews, 40, pp. 944-955, (2014)
+    Zhang M., Zhou D., Zhou P., A real option model for renewable energy policy evaluation with application to solar PV power generation in China, Renewable and Sustainable Energy Reviews., 40, pp. 944-955, (2014)
+    Zhang M., Zhou D., Zhou P., A real option model for renewable energy policy evaluation with application to solar pv power generation in China, Renew. Sustain. Energy Rev, 40, pp. 944-955, (2014)
+    Zhang M., Zhou D., Zhou P., A real option model for renewable energy policy evaluation with application to solar pv power generation in China, Renew. Sustain. Energy Rev., 40, pp. 944-955, (2014)
+    Zhang M.M., Zhou D., Zhou P., A real option model for renewable energy policy evaluation with application to solar PV power generation in China, Renew. Sust. Energ. Rev., 40, pp. 944-955, (2014)
+    Zhang M.M., Zhou D.Q., Zhou P., A real option model for renewable energy policy evaluation with application to solar PV power generation in China, Renew Sust Energ Rev, 40, pp. 944-955, (2014)
+    Zhang M.M., Zhou D.Q., Zhou P., A real option model for renewable energy policy evaluation with application to solar PV power generation in China, Renew Sustain Energy Rev, 40, pp. 944-955, (2014)
+    Zhang M.M., Zhou D.Q., Zhou P., A real option model for renewable energy policy evaluation with application to solar PV power generation in China, Renew. Sustain. Energy Rev., 40, pp. 944-955, (2014)
+Zhang M.M., 2016, ENERGY ECON, V59, P213
+    Zhang M. M., Zhou P., Zhou D. Q., A real options model for renewable energy investment with application to solar photovoltaic power generation in China, Energy Economics, 59, pp. 213-226, (2016)
+    Zhang M., Zhou P., Zhou D., A Real Options Model for Renewable Energy Investment with Application to Solar Photovoltaic Power Generation in China, Energy Economics, 59, pp. 213-226, (2016)
+    Zhang M., Zhou P., Zhou D., A real options model for renewable energy investment with application to solar photovoltaic power generation in China, Energy Econ, 59, pp. 213-226, (2016)
+    Zhang M., Zhou P., Zhou D., A real options model for renewable energy investment with application to solar photovoltaic power generation in China, Energy Econ., 59, pp. 213-226, (2016)
+    Zhang M.M., Zhou P., Zhou D.Q., A real options model for renewable energy investment with application to solar photovoltaic power generation in China, Energ Econ, 59, pp. 213-226, (2016)
+    Zhang M.M., Zhou P., Zhou D.Q., A real options model for renewable energy investment with application to solar photovoltaic power generation in China, Energy Econ, 59, 1, pp. 213-226, (2016)
+    Zhang M.M., Zhou P., Zhou D.Q., A real options model for renewable energy investment with application to solar photovoltaic power generation in China, Energy Econ, 59, pp. 213-226, (2016)
+    Zhang M.M., Zhou P., Zhou D.Q., A real options model for renewable energy investment with application to solar photovoltaic power generation in China, Energy Econ., 59, pp. 213-226, (2016)
+    Zhang M.M., Zhou P., Zhou D.Q., A real options model for renewable energy investment with application to solar photovoltaic power generation in China, Energy Economics, 59, pp. 213-226, (2016)
+Zhang M.M., 2016, ENERGY POLICY, V97, P181
+    ZHANG M.M., ZHOU D.Q., ZHOU P., LIU G.Q., Optimal feed-in tariff for solar photovoltaic power generation in China: A real options analysis, Energ. Policy, 97, (2016)
+    Zhang M., Zhou D., Zhou P., Liu G., Optimal feed-in tariff for solar photovoltaic power generation in China: a real options analysis, Energy Pol., 97, pp. 181-192, (2016)
+    Zhang M., Zhou D., Zhou P., Liu G., Optimal feed-in tariff for solar photovoltaic power generation in China: a real options analysis, Energy Policy, 97, pp. 181-192, (2016)
+    Zhang M., Zhou D., Zhou P., Liu G.Q., Optimal feed-in tariff for solar photovoltaic power generation in China: A real options analysis, Energy Policy, 97, pp. 181-192, (2016)
+    Zhang M.M., Zhou D.Q., Zhou P., Liu G.Q., Optimal feed-in tariff for solar photovoltaic power generation in China: A real options analysis, Energ Policy, 97, pp. 181-192, (2016)
+    Zhang M.M., Zhou D.Q., Zhou P., Liu G.Q., Optimal feed-in tariff for solar photovoltaic power generation in China: A real options analysis, Energy Policy, 97, pp. 181-192, (2016)
+    Zhang M.M., Zhou D.Q., Zhou P., Liu G.Q., Optimal feed-in tariff for solar photovoltaic power generation in China: a real options analysis, Energy Pol., 97, pp. 181-192, (2016)
+    Zhang M.M., Zhou D.Q., Zhou P., Liu G.Q., Optimal feed-in tariff for solar photovoltaic power generation in China: a real options analysis, Energy Policy, 97, pp. 181-192, (2016)
+    Zhang M.M., Zhou D.Q., Zhou P., Optimal feed-in tariff for solar photovoltaic power generation in China: a real options analysis, Energy Policy, 97, pp. 181-192, (2016)
+    Zhang M.M., Zhou P., Zhou D.Q., Liu G.Q., Optimal feed-in tariff for solar photovoltaic power generation in China: a real options analysis, Energy Policy, 97, pp. 181-192, (2016)
+Zhang M.M., 2017, RENEWABLE SUSTAINABLE ENERGY REV, V71, P873
+    Zhang M., Zhou D., Zhou P., Chen H., Optimal design of subsidy to stimulate renewable energy investments: the case of China, Renew Sustain Energy Rev, 71, pp. 873-883, (2017)
+    Zhang M.M., Zhou D.Q., Zhou P., Chen H.T., Optimal design of subsidy to stimulate renewable energy investments: The case of China, Renew Sustain Energy Rev, 71, pp. 873-883, (2017)
+    Zhang M.M., Zhou D.Q., Zhou P., Chen H.T., Optimal design of subsidy to stimulate renewable energy investments: the case of China, Renew Sustain Energy Rev, 71, pp. 873-883, (2017)
+    Zhang M.M., Zhou D.Q., Zhou P., Optimal design of subsidy to stimulate renewable energy investments: the case of China, Renew Sustain Energy Rev, 71, pp. 873-883, (2017)
+Zhang M.M., 2019, APPL ENERGY, V240, P1049
+    Zhang M. M., Wang Q., Zhou D., Ding H., Evaluating uncertain investment decisions in low-carbon transition toward renewable energy, Applied Energy, 240, pp. 1049-1060, (2019)
+    Zhang M.M., Wang Q., Zhou D., Ding H., Evaluating Uncertain Investment Decisions in Low-Carbon Transition toward Renewable Energy, Appl. Energy, 240, pp. 1049-1060, (2019)
+    Zhang M.M., Wang Q., Zhou D., Ding H., Evaluating uncertain investment decisions in low-carbon transition toward renewable energy, Appl Energy, 240, pp. 1049-1060, (2019)
+    Zhang M.M., Wang Q., Zhou D., Ding H., Evaluating uncertain investment decisions in low-carbon transition toward renewable energy, Appl. Energy, 240, pp. 1049-1060, (2019)
+    Zhang M.M., Wang Q.W., Zhou D.Q., Ding H., Evaluating uncertain investment decisions in low-carbon transition toward renewable energy, Appl Energy, 240, pp. 1049-1060, (2019)
+    Zhang M.M., Wang Q.W., Zhou D.Q., Ding H., Evaluating uncertain investment decisions in low-carbon transition toward renewable energy, Appl. Energy, 240, pp. 1049-1060, (2019)
+    Zhang M.M., Zhang Q., Zhou D., Ding H., Evaluating uncertain investment decisions in low-carbon transition toward renewable energy, Appl. Energy, 240, pp. 1049-1060, (2019)
+Zhang M.M., 2020, ENERGY ECON, V92
+    Zhang M., Liu L., Wang Q., Zhou D., Valuing investment decisions of renewable energy projects considering changing volatility, Energy Econ, 92, (2020)
+    Zhang M., Liu L., Wang Q., Zhou D., Valuing investment decisions of renewable energy projects considering changing volatility, Energy Econ., 92, (2020)
+    Zhang M., Liu L., Wang Q., Zhou D., Valuing investment decisions of renewable energy projects considering changing volatility, Energy Economics, 92, (2020)
+    Zhang M.M., Liu L.Y., Wang Q.W., Zhou D.Q., Valuing investment decisions of renewable energy projects considering changing volatility, Energy Econ, 92, (2020)
+Zhang M.M., 2022, RENEWABLE SUSTAINABLE ENERGY REV, V154
+    Zhang M., Tang Y., Liu L., Zhou D., Optimal investment portfolio strategies for power enterprises under multi-policy scenarios of renewable energy, Renew Sustain Energy Rev, 154, (2022)
+    Zhang M., Tang Y., Liu L., Zhou D., Optimal investment portfolio strategies for power enterprises under multi-policy scenarios of renewable energy, Renew. Sustain. Energy Rev., 154, (2022)
+    Zhang M., Tang Y., Liu L., Zhou D., Optimal investment portfolio strategies for power enterprises under multi-policy scenarios of renewable energy, Renewable and Sustainable Energy Reviews, 154, (2022)
+    Zhang M.M., Tang Y.M., Liu L.Y., Zhou D.Q., Optimal investment portfolio strategies for power enterprises under multi-policy scenarios of renewable energy, Renew. Sust. Energ. Rev., 154, (2022)
+Zhang N., 2018, ENERGY PROCEDIA, V152, P959
+    Zhang N., Yujie L.U., Chen J., Development of An Innovation Diffusion Model for Renewable Energy Deployment, Energy Procedia, 152, pp. 959-964, (2018)

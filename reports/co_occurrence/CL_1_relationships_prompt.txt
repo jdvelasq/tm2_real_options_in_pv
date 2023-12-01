@@ -1,0 +1,1332 @@
+You are an automated scientific writer assistant. Use only the
+information provided in the following records to write one paragraph
+explaining and exemplifying the relationships among the following
+keywords:
+
+COSTS; COST; COSTS; POWER_GENERATION; CONVENTIONAL_POWER_GENERATION;
+ELECTRIC_POWER_GENERATION; POWER_GENERATION; TOTAL_POWER_GENERATION;
+ENERGY_POLICY; ENERGY_POLICY; ELECTRICITY_PRICES; ELECTRICITY_PRICE;
+ELECTRICITY_PRICES; ELECTRICITY_SPOT_PRICE; ELECTRICITY_SPOT_PRICE_MODEL;
+VARIOUS_WHOLESALE_POWER_MARKETS; WHOLESALE_ELECTRICITY_SPOT_PRICE;
+ELECTRICITY_GENERATION; ELECTRICITY_GENERATION; ELECTRIC_GENERATORS;
+GENERATE_ELECTRICITY; FEED_IN_TARIFFS; FEEDIN_TARIFF; FEEDIN_TARIFFS;
+FEEDIN_TARIFFS_MECHANISM; FEED_IN_TARIFF; FEED_IN_TARIFFS;
+GENEROUS_FEEDIN_TARIFFS; RENEWABLE_ENERGY_FEEDIN_TARIFFS; WIND_ENERGY;
+WIND_ENERGY; WIND_POWER; OPTIMIZATION; OPTIMALITY; OPTIMIZATION;
+ECONOMIC_ANALYSIS; ECONOMICS_ANALYSIS; ECONOMIC_ANALYSIS; POWER_PLANTS;
+POWER_PLANT; POWER_PLANTS
+
+Use the Record-No value between brackets to indicate the reference to the
+record. For example, [1] means that the information is in the Record-No
+1. Use notes below of the generated text to justify the affirmation. Use
+only phrases appearing in the provided text.
+
+Here are the records:
+
+--
+
+Record-No: 147
+Citations: 80
+Record-ID: Lin B., 2013, RENEWABLE SUSTAINABLE ENERGY REV, V28, P474
+Title: valuing chinese FEED_IN_TARIFFS program for SOLAR_POWER_GENERATION: a
+REAL_OPTIONS_ANALYSIS
+Abstract:
+```
+combustion of COAL_ACCOUNTS for about 75% of TOTAL_POWER_GENERATION in
+CHINA. the GLOBAL_CALL for CO2_EMISSIONS_REDUCTION, exposure to OIL_RISKS
+and their bearing on ENERGY_SECURITY, require CHINA to properly determine
+its FUTURE_ENERGY_POLICIES. this study has attempted to quantify the
+benefits provided by current chinese feed_in tariff (fit) policy for
+SOLAR_POWER_GENERATION by using REAL_OPTION PRICING approach to estimate
+the value of SOLAR_ENERGY_TECHNOLOGIES in the face of
+UNCERTAIN_FOSSIL_FUEL_PRICES and learning effects in SOLAR_TECHNOLOGIES.
+the OPTIMAL_SOLUTION as calculated renders the governments FIT_EFFORT as
+a SUFFICIENT_MECHANISM to make SOLAR an economically
+COMPETITIVE_ALTERNATIVE in CHINAS_ENERGY FUTURE. in addition,
+OPTIONS_VALUES in terms of internalized EXTERNAL_COSTS and variation in
+the level of fit are also compared. SIMULATION_RESULTS reveal the
+OPTIONS_VALUE to be significantly greater when EXTERNAL_COSTS are
+internalized. nevertheless, it was found that the
+AVERAGE_CURRENT_FIT_LEVEL is non_optimal, and should be increased to
+between 1.5 rmb/kwh and 1.7 rmb/kwh to ensure
+MAXIMUM_INVESTMENT_INCENTIVE with MINIMAL_GOVERNMENT_EXPENDITURES.
+furthermore, given SOLAR to be an ATTRACTIVE_ALTERNATIVE for the FUTURE,
+his STUDY_HYPOTHESIZES that SOLAR_POWER_USE in CHINA can potentially
+reduce CO2_EMISSIONS by approximately 1.3% by 2020 compared to the 2005
+level.  2013 ELSEVIER_LTD. all rights reserved.
+```
+
+--
+
+Record-No: 115
+Citations: 74
+Record-ID: Reuter W.H., 2012, RENEWABLE SUSTAINABLE ENERGY REV, V16, P2242
+Title: INVESTMENT in WIND_POWER and PUMPED_STORAGE in a REAL_OPTIONS_MODEL
+Abstract:
+```
+promoting RENEWABLE_ENERGY has been a KEY_INGREDIENT in ENERGY_POLICY
+seeking to de_carbonize the ENERGY_MIX and will continue to do so in the
+FUTURE given the EUROPEAN_UNION's high ambitions to further
+CURB_CARBON_EMISSIONS. a WIDE_RANGE of instruments has been suggested and
+implemented in VARIOUS_COUNTRIES of the eu. a PROMINENT_POLICY promoting
+INVESTMENT in RENEWABLE_TECHNOLOGIES is the use of feed_in tariffs, which
+has worked well at LARGE_SCALE in, e.g. GERMANY, but which has only been
+implemented in a very limited way in countries such as the uk. being
+subject to ENVIRONMENTAL_UNCERTAINTIES, however, RENEWABLES cannot be
+seen in isolation: while renewables_based technologies such as WIND and
+SOLAR_ENERGY, for example, suffer from UNCERTAIN_LOADS depending on
+ENVIRONMENTAL_CONDITIONS, HYDROPOWER allows for the storage of water for
+release at PEAK_PRICES, which can be treated as a premium (partially)
+offsetting higher UPFRONT_INVESTMENT_COSTS. in addition,
+ELECTRICITY_PRICES will respond to changes in ELECTRIC_CAPACITY in the
+MARKET, which is often neglected in STANDARD_INVESTMENT_MODELS of the
+ELECTRICITY_SECTOR. this PAPER_CONTRIBUTES to the existing literature in
+two ways: it provides a review of a renewables_based TECHNOLOGY in a
+SPECIFIC_POLICY_CONTEXT and provides ADDITIONAL_INSIGHT by employing a
+REAL_OPTIONS_APPROACH to investigate the SPECIFIC_CHARACTERISTICS of
+RENEWABLES and their associated uncertainties in a stylized setting
+taking explicitly into ACCOUNT_MARKET effects of INVESTMENT_DECISIONS.
+the prices of the model are determined endogenously by the supply of
+ELECTRICITY in the MARKET and by EXOGENOUS_ELECTRICITY_PRICE_UNCERTAINTY.
+the inclusion of MARKET_EFFECTS allows us to capture the FULL_IMPACT of
+PUBLIC_INCENTIVES for companies to invest into WIND_POWER and hydro
+pumped STORAGE_INSTALLATIONS.  2012 ELSEVIER_LTD. all rights reserved.
+```
+
+--
+
+Record-No: 116
+Citations: 57
+Record-ID: Torani K., 2016, ENERGY POLICY, V92, P255
+Title: INNOVATION_SUBSIDIES_VERSUS_CONSUMER_SUBSIDIES: a REAL_OPTIONS_ANALYSIS
+of SOLAR_ENERGY
+Abstract:
+```
+given the interest in the commercialization of affordable,
+CLEAN_ENERGY_TECHNOLOGIES, we examine the prospects of
+SOLAR_PHOTOVOLTAICS (PV). we consider the question of how to transition
+to a MEANINGFUL_PERCENTAGE of SOLAR_ENERGY in a SUSTAINABLE_MANNER and
+which policies are most effective in accelerating adoption. this paper
+develops a stochastic DYNAMIC_MODEL of the adoption of SOLAR_PV in the
+residential and COMMERCIAL_SECTOR under two sources of UNCERTAINTY _ the
+price of ELECTRICITY and COST of SOLAR. the ANALYTIC_RESULTS suggest that
+a HIGH_RATE of INNOVATION may DELAY_ADOPTION of a NEW_TECHNOLOGY if the
+consumer has RATIONAL_PRICE_EXPECTATIONS. we simulate the model across
+ALTERNATIVE_RATES_TECHNOLOGICAL change, ELECTRICITY_PRICES, subsidies and
+CARBON_TAXES. it is shown that there will be a displacement of
+INCUMBENT_TECHNOLOGIES and a widespread shift towards SOLAR_PV in under
+30 YEARS _ and that this can occur without CONSUMER_INCENTIVES and CARBON
+PRICING. we show that these policies have a MODEST_IMPACT in accelerating
+adoption, and that they may not be an EFFECTIVE_PART of CLIMATE_POLICY.
+instead, results demonstrate that further TECHNOLOGICAL_CHANGE is the
+CRUCIAL_DETERMINANT and MAIN_DRIVER of adoption. further, results
+indicate that subsidies and taxes become increasingly ineffective with
+higher rates of TECHNOLOGICAL_CHANGE.  2016.
+```
+
+--
+
+Record-No: 64
+Citations: 46
+Record-ID: Fan J.-L., 2019, RENEWABLE SUSTAINABLE ENERGY REV, V115
+Title: BENEFIT_EVALUATION of INVESTMENT in CCS_RETROFITTING of COAL fired
+POWER_PLANTS and PV_POWER_PLANTS in CHINA based on REAL_OPTIONS
+Abstract:
+```
+coal_fired POWER_PLAYS an IMPORTANT_ROLE in CHINA's power supply, even
+though the PHOTOVOLTAIC (PV) power has developed rapidly in RECENT_YEARS.
+CARBON_CAPTURE_AND_STORAGE (ccs) TECHNOLOGY is essential for achieving
+anticipated long_term CLIMATE_CHANGE MITIGATION_TARGETS. however, CHINA's
+GOVERNMENT_SUBSIDY policies tend to SUPPORT_PV, while incentives for ccs
+are few. given this situation, a TRINOMIAL_TREE modeling_based
+REAL_OPTIONS_APPROACH was developed to evaluate
+CCS_RETROFITTING_INVESTMENT in coal_fired
+POWER_PLANTS_VERSUS_PV_POWER_INVESTMENT. this model includes setting
+DIFFERENT_POLICY_SCENARIOS by considering ELECTRICITY_TARIFF_SUBSIDIES
+and CHINESE_EMISSION trading scheme (cn_ets). the results showed that
+coal_fired power with ccs has a COST_ADVANTAGE over PV_POWER in most
+provinces in CHINA, if the ELECTRICITY_TARIFF and other SUBSIDY_POLICIES
+remain the same; however, PV_POWER will be cheaper than coal_fired power
+with ccs in yunnan, tianjin, hebei, shanghai and SHANXI_PROVINCES in the
+ABOVE_CASES. incorporating ccs into cn_ets could cut the
+former'S_APPLICATION_COST, but the INCENTIVE_EFFECT of cn_ets is not
+obvious, because the CARBON_PRICE in CHINA is currently too cheap, and
+the INCENTIVE_EFFECT of a POWER_TARIFF_SUBSIDY (SUBSIDY at the
+PV_POWER_TARIFF_LEVEL) is much better for PV than for cn_ets. increasing
+the LOAD_FACTOR is an IMPORTANT_WAY to reduce the CCS_APPLICATION_COST
+for POWER_PLANTS. the results of this study provide reference and
+guidance for the COLLABORATIVE_DEVELOPMENT of ccs and PV.  2019
+```
+
+--
+
+Record-No: 43
+Citations: 34
+Record-ID: Ma R., 2021, ENERGY POLICY, V151
+Title: the impact of feed in TARIFF_DEGRESSION on r&D_INVESTMENT in
+RENEWABLE_ENERGY: the case of the SOLAR_PV_INDUSTRY
+Abstract:
+```
+feed_in tariff (fit) is a broadly used POLICY_INSTRUMENT around the
+world, in which the PAYMENT_LEVEL is always designed to decline gradually
+in order to track and encourage TECHNOLOGICAL_IMPROVEMENT in
+RENEWABLE_ENERGY. however, the POTENTIAL_ADVERSE_EFFECTS of
+TARIFF_DEGRESSION on RENEWABLE_ENERGY_RESEARCH and development (r&d)
+INVESTMENT have not been sufficiently addressed. in this paper, we
+explore the impact of FIT_PAYMENT_DEGRESSION on
+RENEWABLE_ENERGY_R&D_INVESTMENT and analyze the
+EFFICIENT_FIT_PAYMENT_STRUCTURE for r&D_INVESTMENT. we form a MODELING
+framework that captures the dynamics of FIT_PAYMENT_LEVELS and the
+inventor's STRATEGIC_REACTIONS to TARIFF_CHANGES. in this framework, we
+model the inventor's optimal r&D_INVESTMENT_DECISIONS based on the
+canonical REAL_OPTION_APPROACH and simulate the impact of
+FIT_PAYMENT_DEGRESSION on r&D_INVESTMENT and the
+EFFICIENT_FIT_PAYMENT_STRUCTURE under DIFFERENT_R&D_CHARACTERISTICS using
+the case of the SOLAR_PHOTOVOLTAIC (PV) industry. our results emphasize
+the ADVERSE_EFFECT of TARIFF_DEGRESSION on the COMMERCIAL_VALUE of
+NEW_RENEWABLE_TECHNOLOGY and hence the inventor's INCENTIVE in
+r&D_INVESTMENT, especially when facing more TECHNICAL_UNCERTAINTY and
+FINANCIAL_CONSTRAINTS. our model could help policymakers to DESIGN an
+EFFICIENT_FIT_PAYMENT_STRUCTURE through which the COST of the FIT_PROGRAM
+is restricted to a MINIMUM_LEVEL but without influencing the inventor's
+r&D_INVESTMENT_DECISIONS.  2021 ELSEVIER_LTD
+```
+
+---------------------------------------------------------------------------
+
+Improve and make more clear the explanation of the relationships among
+the keywords:
+
+COSTS; COST; COSTS; POWER_GENERATION; CONVENTIONAL_POWER_GENERATION;
+ELECTRIC_POWER_GENERATION; POWER_GENERATION; TOTAL_POWER_GENERATION;
+ENERGY_POLICY; ENERGY_POLICY; ELECTRICITY_PRICES; ELECTRICITY_PRICE;
+ELECTRICITY_PRICES; ELECTRICITY_SPOT_PRICE; ELECTRICITY_SPOT_PRICE_MODEL;
+VARIOUS_WHOLESALE_POWER_MARKETS; WHOLESALE_ELECTRICITY_SPOT_PRICE;
+ELECTRICITY_GENERATION; ELECTRICITY_GENERATION; ELECTRIC_GENERATORS;
+GENERATE_ELECTRICITY; FEED_IN_TARIFFS; FEEDIN_TARIFF; FEEDIN_TARIFFS;
+FEEDIN_TARIFFS_MECHANISM; FEED_IN_TARIFF; FEED_IN_TARIFFS;
+GENEROUS_FEEDIN_TARIFFS; RENEWABLE_ENERGY_FEEDIN_TARIFFS; WIND_ENERGY;
+WIND_ENERGY; WIND_POWER; OPTIMIZATION; OPTIMALITY; OPTIMIZATION;
+ECONOMIC_ANALYSIS; ECONOMICS_ANALYSIS; ECONOMIC_ANALYSIS; POWER_PLANTS;
+POWER_PLANT; POWER_PLANTS
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the
+information provided in the records presented below. Add cites to the
+added text using the corresponding Record-No value between brackets.
+
+Here are the text to improve and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+--
+
+Record-No: 131
+Citations: 30
+Record-ID: Kim B., 2012, J CONSTR ENG MANAGE, V138, P422
+Title: determining the value of GOVERNMENTAL_SUBSIDIES for the installation of
+CLEAN_ENERGY_SYSTEMS using REAL_OPTIONS
+Abstract:
+```
+limiting GREENHOUSE_GAS_EMISSIONS has continually gained importance since
+the KYOTO_PROTOCOL became effective in 2005. a variety of efforts have
+been made to reduce ENERGY_CONSUMPTION and introduce supposedly clean and
+RENEWABLE_ENERGY that can replace fossil fuelbased ENERGY_SOURCES.
+however, many CLEAN_ENERGY_SOURCES are not economically viable by
+themselves, and, therefore, GOVERNMENT_SUBSIDIES are necessary to provide
+SUFFICIENT_ECONOMIC_MOTIVATION for the installation of NEW_TYPES of
+ENERGY. for that reason, it is necessary to develop a method for
+reasonably and accurately determining an APPROPRIATE_LEVEL of
+GOVERNMENT_SUBSIDY for PRIVATE_ENTITIES. in this paper we propose a real
+option_based framework for rationally quantifying the amount of
+GOVERNMENT_SUBSIDY required by PRIVATE_ENTITIES in order to implement a
+CLEAN_ENERGY_GENERATION_SYSTEM. a CASE_STUDY that involved the
+installation of a PHOTOVOLTAIC_SYSTEM in an AVERAGE_HOUSEHOLD in seoul,
+KOREA was conducted in order to verify the proposed framework. the
+proposed framework is expected to help ENERGY_POLICYMAKERS choose the
+PROPER_LEVEL of GOVERNMENT_SUBSIDY that will effectively encourage
+PRIVATE_ENTITIES to install CLEAN_ENERGY_SYSTEMS without wasting
+taxpayers' money.  2012 AMERICAN_SOCIETY of CIVIL_ENGINEERS.
+```
+
+--
+
+Record-No: 65
+Citations: 28
+Record-ID: Zhang M.M., 2022, RENEWABLE SUSTAINABLE ENERGY REV, V154
+Title: OPTIMAL_INVESTMENT_PORTFOLIO_STRATEGIES for POWER_ENTERPRISES under multi
+POLICY_SCENARIOS of RENEWABLE_ENERGY
+Abstract:
+```
+planning a portfolio that includes
+DIFFERENT_POWER_GENERATION_TECHNOLOGIES is an IMPORTANT_METHOD to ensure
+expected value and to reduce RISKS for the PROJECT_INVESTMENT of
+electric_power enterprises. this PAPER_EVALUATES the
+OPTIMAL_INVESTMENT_PORTFOLIO_STRATEGIES implemented by
+ELECTRIC_POWER_ENTERPRISES by using REAL_OPTION and
+PORTFOLIO_OPTIMIZATION_METHODS. the REAL_OPTIONS_METHOD is used to
+GENERATE_INVESTMENT_VALUES and their distribution. these serve as the
+INPUT_VARIABLES of the PORTFOLIO_OPTIMIZATION_MODEL. the
+PORTFOLIO_OPTIMIZATION_MODEL is built based on the CONDITIONAL_VALUE at
+RISK. the OPTIMAL_INVESTMENT is analyzed by considering four
+POLICY_SCENARIOS: different expected INVESTMENT_VALUES, the phase_out of
+subsidies, tightened CARBON_REDUCTION_STANDARDS, and
+DIFFERENT_INITIAL_RENEWABLE_ENERGY_CERTIFICATE_PRICES. a CASE_STUDY is
+conducted to analyze the INVESTMENT_DECISION of an
+ELECTRIC_POWER_ENTERPRISE in CHINA. the results show the
+OPTIMAL_INVESTMENT_PORTFOLIO_STRATEGY, the INVESTMENT_VALUE, and the
+CONDITIONAL_VALUE at RISK. the OPTIMAL_DECISION for ensuring a relatively
+high expected value while reducing RISKS is to increase the share of
+SOLAR_PV_POWER_GENERATION and WIND POWER_GENERATION in
+CURRENT_CONDITIONS. tightened CARBON_REDUCTION_STANDARDS and higher
+RENEWABLE_ENERGY_CERTIFICATES_PRICES are conductive to increase the
+INVESTMENT_VALUE, reduce the RISK of loss and increase the share of
+RENEWABLE_ENERGY_POWER_GENERATION. in contrast, the phase_out of the
+subsidies had the OPPOSITE_EFFECT. the methodology and results can
+provide a reference for investors to guide the formulation of the
+OPTIMAL_INVESTMENT_DECISION and for the GOVERNMENT to optimize the
+POLICY_EFFECT.  2021 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 71
+Citations: 27
+Record-ID: Fan J.-L., 2020, INT J GREENH GAS CONTROL, V92
+Title: a comparison of the REGIONAL_INVESTMENT_BENEFITS of CCS_RETROFITTING of
+COAL fired POWER_PLANTS and RENEWABLE_POWER_GENERATION_PROJECTS in CHINA
+Abstract:
+```
+CARBON_DIOXIDE (co2) capture and storage (ccs) TECHNOLOGY and
+RENEWABLE_POWER are indispensable in CHINA's power sector to limit
+GLOBAL_WARMING to 2c. because the two technologies have their OWN_MERITS
+and weaknesses, it is important to understand their INVESTMENT_BENEFITS
+and choose a cost_effective portfolio. therefore, we conducted an
+INVESTMENT_EVALUATION of CCS_RETROFITTING of coal_fired POWER_PLANTS
+(cfpp) with HYPOTHETICAL_SUBSIDIES and
+RENEWABLE_POWER_GENERATION_PROJECTS (rpp) by using a
+REAL_OPTION_TRINOMIAL_TREE PRICING model and compared their
+ECONOMIC_BENEFITS in DIFFERENT_PROVINCES in CHINA. the results showed
+that when subsidies for the DESULFURIZATION_PRICE or the feed_in tariff
+of WIND_POWER were adopted, the CCS_RETROFITTING of cfpp did not achieve
+the OPTIMAL_INVESTMENT_VALUE, even in 2027. if the decarbonized
+ELECTRICITY_PRICE_INCREASES to 0.75 cny/kwh, equal to the feed_in tariff
+of SOLAR_PHOTOVOLTAIC and BIOMASS_POWER, the CCS_RETROFITTING of cfpp
+would be commercially viable, and their INVESTMENT_VALUE would exceed
+that of WIND POWER_GENERATION_PROJECTS. in this situation, ningxia,
+xinjiang, and GANSU_PROVINCES would be most suitable for the development
+of CCS_RETROFITTING PILOT_PROJECTS; the advantages of the
+CCS_RETROFITTING of cfpp were not significant, WHEREAS_RPP was a better
+INVESTMENT_CHOICE in many provinces. this paper provides a perspective on
+feed_in tariffs for POLICY_MAKERS to use in formulating a SUBSIDY_SYSTEM
+to support the development of ccs in CHINA, with POLICY_IMPLICATIONS for
+other countries.  2019 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 6
+Citations: 26
+Record-ID: Guno C.S., 2021, INTERNAT J RENE ENER DEVEL, V10, P79
+Title: OPTIMAL_INVESTMENT_STRATEGY for SOLAR_PV_INTEGRATION in
+RESIDENTIAL_BUILDINGS: a CASE_STUDY in the PHILIPPINES
+Abstract:
+```
+in DEVELOPING_COUNTRIES, particularly in RURAL_AREAS, LONG_PERIODS of
+POWER_OUTAGES are experienced as the ELECTRICITY_GRID is technically or
+economically unfeasible. as SOLAR_PHOTOVOLTAIC (PV) is the most potential
+and SUITABLE_SOURCE of RENEWABLE_ENERGY for these areas, this
+PAPER_ANALYZES the ECONOMIC_VIABILITY of its INTEGRATION in
+DIFFERENT_TYPES of RESIDENTIAL_BUILDINGS. applying REAL_OPTIONS_APPROACH
+under UNCERTAINTY in ELECTRICITY_PRICES, this STUDY_COMPARES the
+attractiveness of adopting SOLAR_PV over continuing ELECTRICITY from the
+grid focusing on VARIOUS_INVESTMENT_PAYMENT_SCHEMES including (i)
+FULL_PAYMENT, (ii) distributed payment for 5 or 10 YEARS without a down
+payment, and (iii) distributed payment for 5 or 10 YEARS with 20% or 40%
+down payment. applying the model with the case of the PHILIPPINES, the
+results with the FULL_PAYMENT_STRATEGY obtain OPTION_VALUES of usd 6888
+for building type_i, usd 15349 for building type_ii, usd 21204 for
+building type_iii, usd 27870 for building type_iv, and usd 34251 for
+building type_v. these OPTION_VALUES_INCREASE by 21.6% and 22.5% with
+distributed PAYMENT_SCHEME to a 5_or 10_year period and increase by 5%
+and 13% for distributed payment with 40% and 20% down payment. these
+OPTION_VALUES decrease with INVESTMENTS at later periods. contrary to the
+CONVENTIONAL_OPTION_VALUATION_RESULTS of an OPTIMAL_DECISION to wait, our
+findings show the otherwise as earlier INVESTMENT_REDUCES the RISK of
+OPPORTUNITY_LOSS from delaying the adoption of SOLAR_PV. among the
+PAYMENT_SCHEMES analyzed, the distribution of PV_SYSTEM_COST in a 10_year
+installment period without down PAYMENT_SHOWS to be the most
+OPTIMAL_INVESTMENT_STRATEGY which may encourage lower_income and
+risk_averse consumers whose decision to adopt SOLAR_PV is affected by
+COST_BARRIERS, ECONOMIC_STATUS, and HOUSEHOLD_INCOME. the STUDY_SUGGESTS
+the GOVERNMENT, particularly in DEVELOPING_COUNTRIES, to support the
+INTEGRATION of own_use SOLAR_PV in BUILDINGS through incentives and
+subsidies, as well as FINANCIAL_INSTITUTIONS to offer more
+AFFORDABLE_TERMS of payment that encourages low to
+MEDIUM_INCOME_HOUSEHOLDS to adopt SOLAR_PV. further, this will not only
+augment the ENERGY_DEFICIENCY in these countries but also support the
+GLOBAL_ASPIRATIONS of reducing GREENHOUSE_GAS_EMISSIONS and its
+ADVERSE_EFFECTS through gradually shifting to RENEWABLE_SOURCES of
+ENERGY.  2021. the authors. published by cbiore.
+```
+
+--
+
+Record-No: 117
+Citations: 23
+Record-ID: Martín-Barrera G., 2016, RENEWABLE SUSTAINABLE ENERGY REV, V63, P292
+Title: application of REAL_OPTIONS_VALUATION for analysing the impact of
+PUBLIC_R&d FINANCING on RENEWABLE_ENERGY_PROJECTS: a COMPANYS_PERSPECTIVE
+Abstract:
+```
+this PAPER_CONTRASTS the FINANCIAL_BENEFIT of grants given to RESEARCH
+and DEVELOPMENT_PROJECTS with the reduction in MANAGERIAL_FLEXIBILITY
+they impose, which implies a loss in the value of the project. to
+quantify this loss of value, REAL_OPTIONS_ANALYSIS has been adopted as
+the most SUITABLE_FRAMEWORK to assess and
+QUANTIFY_MANAGERIAL_FLEXIBILITY. this idea is illustrated by the case of
+a RESEARCH and DEVELOPMENT_PROJECT in RENEWABLE_ENERGY, specifically
+concentrated SOLAR_POWER. our results show that the value added by the
+grants is less than the NOMINAL_INCENTIVES received as a result of the
+loss of FLEXIBILITY for MANAGERS; they cannot apply CERTAIN_OPTIONS such
+as deferral, nor can they abandon the project. therefore, a break_even
+grant is proposed that equals the FINANCIAL_INCENTIVE with the loss of
+MANAGERIAL_FLEXIBILITY. under this break_even point, the grant should be
+rejected. this paper will create awareness for both POLICY_MAKERS and
+PRIVATE_COMPANIES regarding a more ACCURATE_ASSESSMENT of grants to
+RESEARCH_AND_DEVELOPMENT FUNDING as well as provide insights to improve
+GRANT_SCHEMES without increasing the amount of PUBLIC_FUNDS.  2016
+ELSEVIER_LTD.
+```
+
+---------------------------------------------------------------------------
+
+Improve and make more clear the explanation of the relationships among
+the keywords:
+
+COSTS; COST; COSTS; POWER_GENERATION; CONVENTIONAL_POWER_GENERATION;
+ELECTRIC_POWER_GENERATION; POWER_GENERATION; TOTAL_POWER_GENERATION;
+ENERGY_POLICY; ENERGY_POLICY; ELECTRICITY_PRICES; ELECTRICITY_PRICE;
+ELECTRICITY_PRICES; ELECTRICITY_SPOT_PRICE; ELECTRICITY_SPOT_PRICE_MODEL;
+VARIOUS_WHOLESALE_POWER_MARKETS; WHOLESALE_ELECTRICITY_SPOT_PRICE;
+ELECTRICITY_GENERATION; ELECTRICITY_GENERATION; ELECTRIC_GENERATORS;
+GENERATE_ELECTRICITY; FEED_IN_TARIFFS; FEEDIN_TARIFF; FEEDIN_TARIFFS;
+FEEDIN_TARIFFS_MECHANISM; FEED_IN_TARIFF; FEED_IN_TARIFFS;
+GENEROUS_FEEDIN_TARIFFS; RENEWABLE_ENERGY_FEEDIN_TARIFFS; WIND_ENERGY;
+WIND_ENERGY; WIND_POWER; OPTIMIZATION; OPTIMALITY; OPTIMIZATION;
+ECONOMIC_ANALYSIS; ECONOMICS_ANALYSIS; ECONOMIC_ANALYSIS; POWER_PLANTS;
+POWER_PLANT; POWER_PLANTS
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the
+information provided in the records presented below. Add cites to the
+added text using the corresponding Record-No value between brackets.
+
+Here are the text to improve and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+--
+
+Record-No: 29
+Citations: 19
+Record-ID: Agaton C.B., 2018, ENERGY SUSTAINABILITY SOC, V8
+Title: a REAL_OPTIONS_APPROACH to RENEWABLE_ELECTRICITY_GENERATION in the
+PHILIPPINES
+Abstract:
+```
+background: the PHILIPPINES is making a SIGNIFICANT_STRIDE to become
+ENERGY independent by developing more SUSTAINABLE_SOURCES of ENERGY.
+however, INVESTMENT in RENEWABLE_ENERGY is challenged by
+COMPETITIVE_OIL_PRICES, very HIGH_INVESTMENT_COST for RENEWABLE_ENERGY,
+and HIGH_LOCAL_ELECTRICITY_PRICES. this PAPER_EVALUATES the
+attractiveness of investing in RENEWABLE_ENERGY_SOURCES over continue
+using oil for ELECTRICITY_GENERATION. methods: this PAPER_USES the
+REAL_OPTIONS_APPROACH to analyze how the timing of INVESTMENT in
+RENEWABLE_ENERGY depends on VOLATILITY of DIESEL_PRICE,
+ELECTRICITY_PRICE, and externality for using oil. results: the result
+presents a POSITIVE_NET PRESENT_VALUE for RENEWABLE_ENERGY_INVESTMENT.
+under UNCERTAINTY in OIL_PRICES, DYNAMIC_OPTIMIZATION describes how
+waiting or delaying INVESTMENT in RENEWABLES_INCURS loses. decreasing the
+LOCAL_ELECTRICITY_PRICE and incorporating
+NEGATIVE_EXTERNALITY_FAVOR_INVESTMENT in RENEWABLE_ENERGY over continuing
+the use of oil for ELECTRICITY_GENERATION. conclusions:
+REAL_OPTIONS_APPROACH_HIGHLIGHTS the FLEXIBILITY in the timing of making
+INVESTMENT_DECISIONS. at the CURRENT_ENERGY_REGIME in the PHILIPPINES,
+substituting RENEWABLE_ENERGY is a better option than continue importing
+oil for ELECTRICITY_GENERATION. policies should aim at supporting
+INVESTMENT in more SUSTAINABLE_SOURCES of ENERGY by imposing externality
+for using oil or decreasing the price of ELECTRICITY.  2018, the
+author(s).
+```
+
+--
+
+Record-No: 62
+Citations: 18
+Record-ID: Bangjun W., 2022, RENEW ENERGY, V189, P1033
+Title: DECISION_MAKING on INVESTMENTS in PHOTOVOLTAIC_POWER_GENERATION_PROJECTS
+based on RENEWABLE_PORTFOLIO standard: perspective of REAL_OPTION
+Abstract:
+```
+it is now a MAIN_GLOBAL_TREND to replace the RENEWABLE_ENERGY feed_in
+tariffs (fit) policy with the RENEWABLE_PORTFOLIO_SYSTEM (rps) policy in
+the reform of RENEWABLE_ENERGY_POLICY_SYSTEMS. to solve the
+PRACTICAL_PROBLEM that the CURRENT_MAIN_STUDIES on the DECISION_MAKING
+about INVESTMENTS by RENEWABLE_ENERGY_ENTERPRISES mainly focus on
+MACROECONOMIC_ASPECTS such as GOVERNMENT_SUBSIDIES, RENEWABLE_ENERGY fit
+and CARBON_TAXES, rather than MICROECONOMIC_ASPECTS such as rps and the
+tgc MARKET's influence, a REAL_OPTION_MODEL about
+PHOTOVOLTAIC_POWER_GENERATION_PROJECTS is established to study these
+projects' SEQUENTIAL_DECISION_MAKING about
+OPTIMAL_INVESTMENT_OPPORTUNITY, optimal INSTALLED_CAPACITY and phased
+INVESTMENT. the RESULT_SHOWS that phased INVESTMENT_FRUIT in much higher
+INVESTMENT_FLEXIBILITY, longer ECONOMIC_LIVES and greater PROJECT_VALUES,
+and fewer RISKS for investors as well; lower TECHNICAL_COSTS and higher
+TGC_PRICES help acquire the OPTIMAL_INVESTMENT_OPPORTUNITIES. the
+conclusions of this study help make better DECISION_MAKING about
+INVESTMENTS in PHOTOVOLTAIC_POWER_GENERATION_PROJECTS and, from the
+MICROCOSMIC_ASPECT, prove influence of the RPS_POLICY.  2022 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 76
+Citations: 17
+Record-ID: Cheng C., 2017, ENERGY, V127, P594
+Title: DEFER_OPTION_VALUATION and OPTIMAL_INVESTMENT_TIMING of
+SOLAR_PHOTOVOLTAIC_PROJECTS under DIFFERENT_ELECTRICITY_MARKET_SYSTEMS
+and SUPPORT_SCHEMES
+Abstract:
+```
+this PAPER_APPLIES the REAL_OPTIONS_METHOD to analyse the
+DEFER_OPTION_VALUE and OPTIMAL_INVESTMENT_TIMING for
+SOLAR_PHOTOVOLTAIC_PROJECTS in CHINA. the MAIN_PURPOSE of this paper is
+to examine INVESTMENT_BEHAVIOURS under DIFFERENT_MARKET_SYSTEMS and
+SUPPORT_SCHEMES. this paper further investigates the interaction of
+TECHNOLOGICAL_PROGRESS and SUPPORT_SCHEMES. four scenarios are designed,
+and the CORRESPONDING_REAL_OPTIONS_MODELS are established. in the
+CASE_STUDY, we find that ELECTRICITY_MARKET_REFORM_ENHANCES the
+DEFER_OPTION_VALUE in the SHORT_TERM but makes the owners of
+SOLAR_PV_PROJECTS_POSTPONE their INVESTMENT. nevertheless, the GOVERNMENT
+can STIMULATE_INVESTMENT by implementing APPROPRIATE_SUPPORT_SCHEMES.
+additionally, the impacts of DIFFERENT_SUPPORT_SCHEMES vary according to
+the MARKET_SYSTEM. the impacts of feed_in tariffs and PRICE_PREMIUMS are
+similar in a regulated MARKET but are different in a FREE_MARKET. the
+PRICE_PREMIUM_SCHEME greatly promotes the DEFER_OPTION_VALUES in the
+SHORT_TERM, but the feed_in tariff scheme excels in the LONG_TERM. a
+feed_in tariff has a greater impact on reducing the expected
+EXECUTION_TIME and its variance than the PRICE_PREMIUM. in addition, more
+ATTRACTIVE_SUPPORT_SCHEMES are required when the TECHNOLOGICAL_LEVEL is
+improved.  2017 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 106
+Citations: 15
+Record-ID: Farzan F., 2015, ANN OPER RES, V235, P259
+Title: MICROGRID_INVESTMENT under UNCERTAINTY: a REAL_OPTION_APPROACH using
+closed FORM_CONTINGENT_ANALYSIS
+Abstract:
+```
+the TRADITIONAL_NET PRESENT_VALUE_APPROACH to INVESTMENT in
+MICROGRID_ASSETS does not take into account the INHERENT_UNCERTAINTIES in
+FUEL_PRICES, COST of TECHNOLOGY, and MICROGRID_LOAD_PROFILE. we propose a
+REAL_OPTION_APPROACH to MICROGRID_INVESTMENT, which includes
+SOLAR_PHOTOVOLTAIC (PV) and gas_fired GENERATION_ASSETS. likewise the (n,
+m) EXCHANGE_LITERATURE in REAL_OPTION_ANALYSIS, we examine cases with
+interdependency and independency of FUEL_PRICE and the COST of
+PV_TECHNOLOGY. this work, however, makes a MAJOR_CONTRIBUTION by the way
+of introducing a NEW_PARAMETER, which is defined as the elasticity of the
+OPTION_VALUE to prices and is used in the formulation of closed
+FORM_SOLUTIONS. we further extend the (1, 1) EXCHANGE_PROBLEM here to
+include OPERATIONAL_FLEXIBILITY of MICROGRID, such that optimal switching
+between INVESTMENT, suspension and re_activation can be examined.  2015,
+springer science+business media NEW_YORK.
+```
+
+--
+
+Record-No: 15
+Citations: 15
+Record-ID: Das Gupta S., 2021, ENERGY POLICY, V148
+Title: using REAL_OPTIONS to VALUE_CAPACITY_ADDITIONS and
+INVESTMENT_EXPENDITURES in RENEWABLE_ENERGIES in INDIA
+Abstract:
+```
+we calculate the OVERALL_POLICY_VALUE of installed CAPACITY_ADDITIONS and
+INVESTMENT_EXPENDITURES in WIND and SOLAR_ENERGIES in INDIA.
+RECENT_INCREASES in CAPACITY_ADDITIONS and INVESTMENTS by both the public
+and PRIVATE_SECTORS along with GOVERNMENT_SUPPORT_SCHEMES have made these
+energies more competitive with traditional FUELS like COAL in generating
+ELECTRICITY. we use a two_factor LEARNING_CURVE to model the decline in
+prices of WIND and SOLAR_ENERGIES. employing a REAL_OPTIONS_APPROACH with
+GLOBAL_COAL_PRICES as the STOCHASTIC_VARIABLE we find the OVERALL_VALUE
+of PROMOTION_POLICIES in RENEWABLES to be sufficiently large. the
+TRIGGER_PRICE of COAL for INVESTMENT in RENEWABLE_ENERGIES today for
+ELECTRICITY_GENERATION suggest early to IMMEDIATE_DEPLOYMENT of
+ADDITIONAL_WIND and SOLAR_TECHNOLOGIES as the OPTIMAL_POLICY. with the
+option to deploy for a longer TIME_HORIZON, continuing with
+PROMOTION_POLICIES of CAPACITY_ADDITIONS and INVESTMENT_EXPENDITURES in
+RENEWABLES is more valuable at HIGH_GLOBAL_COAL_PRICES.  2020
+ELSEVIER_LTD
+```
+
+---------------------------------------------------------------------------
+
+Improve and make more clear the explanation of the relationships among
+the keywords:
+
+COSTS; COST; COSTS; POWER_GENERATION; CONVENTIONAL_POWER_GENERATION;
+ELECTRIC_POWER_GENERATION; POWER_GENERATION; TOTAL_POWER_GENERATION;
+ENERGY_POLICY; ENERGY_POLICY; ELECTRICITY_PRICES; ELECTRICITY_PRICE;
+ELECTRICITY_PRICES; ELECTRICITY_SPOT_PRICE; ELECTRICITY_SPOT_PRICE_MODEL;
+VARIOUS_WHOLESALE_POWER_MARKETS; WHOLESALE_ELECTRICITY_SPOT_PRICE;
+ELECTRICITY_GENERATION; ELECTRICITY_GENERATION; ELECTRIC_GENERATORS;
+GENERATE_ELECTRICITY; FEED_IN_TARIFFS; FEEDIN_TARIFF; FEEDIN_TARIFFS;
+FEEDIN_TARIFFS_MECHANISM; FEED_IN_TARIFF; FEED_IN_TARIFFS;
+GENEROUS_FEEDIN_TARIFFS; RENEWABLE_ENERGY_FEEDIN_TARIFFS; WIND_ENERGY;
+WIND_ENERGY; WIND_POWER; OPTIMIZATION; OPTIMALITY; OPTIMIZATION;
+ECONOMIC_ANALYSIS; ECONOMICS_ANALYSIS; ECONOMIC_ANALYSIS; POWER_PLANTS;
+POWER_PLANT; POWER_PLANTS
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the
+information provided in the records presented below. Add cites to the
+added text using the corresponding Record-No value between brackets.
+
+Here are the text to improve and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+--
+
+Record-No: 159
+Citations: 15
+Record-ID: Asano H., 2010, IEEE PES GEN MEET PES
+Title: value of INVESTMENT in a MICROGRID under UNCERTAINTY in the FUEL_PRICE
+Abstract:
+```
+this PAPER_DISCUSSES_INVESTMENT_STRATEGIES in a MICROGRID_SYSTEM
+consisting of COGENERATION_SYSTEM and RENEWABLE_POWER_GENERATION under
+UNCERTAINTY in the NATURAL_GAS_PRICE. although incentives for introducing
+distributed ENERGY_SYSTEM_INCREASE these days, volatile
+NATURAL_GAS_PRICES make its INVESTMENT in GAS_FUEL distributed
+GENERATION_SYSTEMS_RISKY. therefore, it is important to evaluate the RISK
+under UNCERTAINTY and find FLEXIBLE_STRATEGIES which reduce the exposure
+to FUEL_PRICE_VOLATILITY. we take the REAL_OPTIONS_APPROACH to
+ANALYZE_INVESTMENT_DECISION. by varying the parameter of
+PRICE_VOLATILITY, we find that the OPTIMAL_INVESTMENT_STRATEGY depends on
+the level of UNCERTAINTY. as VOLATILITY_INCREASES, strategies with
+INSTALLATION_OPTION of RENEWABLE_POWER_GENERATION, here,
+PHOTOVOLTAIC_GENERATION, become attractive in terms of RISK_REDUCTION.
+2010 ieee.
+```
+
+--
+
+Record-No: 162
+Citations: 11
+Record-ID: Sesmero J., 2016, ENERGY POLICY, V93, P80
+Title: the effect of current and PROSPECTIVE_POLICIES on
+PHOTOVOLTAIC_SYSTEM_ECONOMICS: an application to the us MIDWEST
+Abstract:
+```
+this STUDY_MODELS FUNDAMENTAL_FEATURES of current and
+PROSPECTIVE_POLICIES ENCOURAGING_ADOPTION of RESIDENTIAL_PHOTOVOLTAIC
+(PV) systems. a key finding is that time_of_day (tod) PRICING can enhance
+or worsen the ECONOMICS of PV_SYSTEMS. moreover, increased responsiveness
+of ELECTRICITY_DEMAND to its PRICE_DIMINISHES the effectiveness of tod
+PRICING in the absence of net metering, but does not affect it otherwise.
+an application to PLAUSIBLE_CONDITIONS in the state of INDIANA, usa,
+shows that CURRENT_POLICIES are unlikely to TRIGGER_ADOPTION by a
+risk_neutral forward_looking RESIDENTIAL_CUSTOMER. however, adoption of
+PV_SYSTEMS can be induced if the FEDERAL_TAX_CREDIT is increased to cover
+48% of CAPITAL_COST (instead of the current 30%), which could imply a
+COST to the FEDERAL_GOVERNMENT of about $0.95/kw of INSTALLED_CAPACITY
+depending on the panel's size. we demonstrate that implementation of tod
+PRICING can TRIGGER_ADOPTION under a range of on_ and off_peak price
+combinations. but our analysis also shows that the cost_effectiveness of
+tod PRICING is enhanced at higher ratios of on_peak to off_peak prices.
+2016 ELSEVIER_LTD.
+```
+
+--
+
+Record-No: 77
+Citations: 8
+Record-ID: Glensk B., 2019, ENERGIES, V12
+Title: energiewende @ RISK: on the continuation of RENEWABLE_POWER_GENERATION at
+the end of PUBLIC_POLICY_SUPPORT
+Abstract:
+```
+this PAPER_AIMS to analyze what happens with
+RENEWABLE_ENERGY_POWER_PLANTS, such as onshore WIND, PHOTOVOLTAICS and
+biomass, when the PUBLIC_POLICY_SUPPORT based on the RENEWABLE_ENERGY_LAW
+expires. with its expiration, the first RENEWABLE_ENERGY (and especially
+onshore WIND) POWER_PLANTS will have to be scrutinized as to whether they
+can economically continue operation, whether they have to be repowered,
+or whether they need to be decommissioned. the RELATIVE_MERITS of these
+three alternatives are evaluated by applying REAL_OPTIONS_ANALYSIS. in
+contrast to TRADITIONAL_PROJECT_EVALUATION_TECHNIQUES, the
+REAL_OPTIONS_APPROACH takes advantage of the use of UNCERTAIN_PARAMETERS
+included in the model, such as the development of the ELECTRICITY_PRICE
+or ELECTRICITY_OUTPUT. the results obtained suggest that parameters such
+as the level of FUTURE_OPERATION and MAINTENANCE_COSTS, the expected
+development of the ELECTRICITY_PRICE at the SPOT_MARKET, and the
+interrelations between these, as well as the development of the
+ELECTRICITY_OUTPUT from RENEWABLES can significantly affect the
+PROFITABILITY of these POWER_PLANTS and thus impact the decision about
+their further OPTIMAL_OPERATION.  2019 by the authors.
+```
+
+--
+
+Record-No: 92
+Citations: 6
+Record-ID: Qu J., 2022, ENERGY ENVIRON, V33, P263
+Title: price and SUBSIDY under UNCERTAINTY: REAL_OPTION_APPROACH to
+OPTIMAL_INVESTMENT_DECISIONS on ENERGY_STORAGE with SOLAR_PV
+Abstract:
+```
+RENEWABLE_GENERATION_SOURCES still have not achieved ECONOMIC_VALIDITY in
+many countries including KOREA, and require subsidies to support the
+transition to a low_carbon economy. an initial feed_in tariff (fit) was
+adopted to support the deployment of RENEWABLE_ENERGY in KOREA until 2011
+and then was switched to the RENEWABLE_PORTFOLIO standard (rps) to
+implement more market_oriented MECHANISMS. however, HIGH_VOLATILITIES in
+ELECTRICITY_PRICES and subsidies under the RPS_SCHEME have weakened
+INVESTMENT_INCENTIVES. in this study we estimate how the
+MULTIPLE_PRICE_VOLATILITIES under the RPS_SCHEME affect the
+OPTIMAL_INVESTMENT_DECISIONS of ENERGY_STORAGE_PROJECTS, whose importance
+is increasing rapidly because they can mitigate the variability and
+UNCERTAINTY of SOLAR and WIND generation in the POWER_SYSTEM. we applied
+MATHEMATICAL_ANALYSIS based on real_option methods to estimate the
+OPTIMAL_TRIGGER_PRICE for INVESTMENT in energy_storage projects with and
+without MULTIPLE_PRICE_VOLATILITIES. we found that the
+OPTIMAL_TRIGGER_PRICE of SUBSIDY called the RENEWABLE_ENERGY_CERTIFICATE
+(rec) under MULTIPLE_PRICE_VOLATILITIES is 10.5% higher than that under
+no PRICE_VOLATILITIES. if the VOLATILITY of the REC_PRICE gets doubled,
+the project requires a 26.6% higher OPTIMAL_INVESTMENT_PRICE to justify
+the INVESTMENT against the increased RISK. in the end, we propose an
+AUCTION_SCHEME that has the advantage of both rps and fit in order to
+minimize the FINANCIAL_BURDEN of the SUBSIDY_PROGRAM by eliminating
+SUBSIDY_VOLATILITY and find the minimum willingness_to_accept price for
+investors.  the author(s) 2021.
+```
+
+--
+
+Record-No: 36
+Citations: 5
+Record-ID: Bi Y./1, 2022, SUSTAIN PROD CONSUM, V32, P344
+Title: how to promote the WIDESPREAD_COMMERCIAL_ADOPTION of
+PHOTOVOLTAIC_MICROGRIDS under INVESTMENT_UNCERTAINTY? a
+REAL_OPTIONS_ANALYSIS in CHINA
+Abstract:
+```
+MICROGRIDS can integrate the PRODUCTION and CONSUMPTION_PROCESS of
+RENEWABLE_ENERGY and realize the SUSTAINABLE_DEVELOPMENT of
+POWER_SYSTEMS. however, it remains difficult to promote the
+WIDESPREAD_COMMERCIAL_ADOPTION of PHOTOVOLTAIC_MICROGRIDS due to
+HIGH_COSTS. this study develops a REAL_OPTIONS_MODEL for it to assess
+peak_valley ELECTRICITY_PRICES and ELECTRICITY_PRICE_SUBSIDIES under the
+uncertainties in the INITIAL_INVESTMENT dynamic. the ADJUSTMENT_MECHANISM
+is also established in the REAL_OPTIONS_MODEL to analyze the tendency of
+INCENTIVE_POLICIES changing with UNCERTAINTY. the results demonstrate
+that the OPTIMAL_ELECTRICITY_PRICE_SUBSIDIES of 31 provinces in
+CHINA_RANGE from 0.30 rmb/kwh to 1.05 rmb/kwh, and the OPTIMAL_RATES of
+peak_valley price range from 3.09 to 6.32. on this basis, we conduct a
+SENSITIVITY_ANALYSIS of OPTIMAL_ELECTRICITY_PRICE_SUBSIDY and peak_valley
+price rate and find that the threshold goes down significantly as the
+COST goes down. however, RAPID_COST_VARIATIONS and fluctuations make
+DEVELOPERS_HESITATE to invest, which will seriously hinder the
+WIDESPREAD_COMMERCIAL_ADOPTION of PV_MICROGRIDS. this study extends the
+understanding of participants' strategies in a DYNAMIC_FRAMEWORK by
+analyzing the impacts of UNCERTAINTY on INVESTMENT_DECISIONS. we suggest
+developers pay attention to the changes in the MARKET and reduce
+INVESTMENT_RISKS by signing OPTION_CONTRACTS. a
+STABLE_INVESTMENT_MARKET_CORRESPONDS to smaller peak_valley price rates
+and less ELECTRICITY_PRICE_SUBSIDIES. the policy_maker should provide
+flexible and EFFICIENT_INCENTIVES depending on the APPLICATION_SCENARIO.
+it is also suggested that in areas lacking SOLAR_RESOURCES, the
+GOVERNMENT should not only speed up the establishment of peak_valley
+ELECTRICITY_PRICES but also provide long_term subsidies.  2022
+ELSEVIER_LTD
+```
+
+---------------------------------------------------------------------------
+
+Improve and make more clear the explanation of the relationships among
+the keywords:
+
+COSTS; COST; COSTS; POWER_GENERATION; CONVENTIONAL_POWER_GENERATION;
+ELECTRIC_POWER_GENERATION; POWER_GENERATION; TOTAL_POWER_GENERATION;
+ENERGY_POLICY; ENERGY_POLICY; ELECTRICITY_PRICES; ELECTRICITY_PRICE;
+ELECTRICITY_PRICES; ELECTRICITY_SPOT_PRICE; ELECTRICITY_SPOT_PRICE_MODEL;
+VARIOUS_WHOLESALE_POWER_MARKETS; WHOLESALE_ELECTRICITY_SPOT_PRICE;
+ELECTRICITY_GENERATION; ELECTRICITY_GENERATION; ELECTRIC_GENERATORS;
+GENERATE_ELECTRICITY; FEED_IN_TARIFFS; FEEDIN_TARIFF; FEEDIN_TARIFFS;
+FEEDIN_TARIFFS_MECHANISM; FEED_IN_TARIFF; FEED_IN_TARIFFS;
+GENEROUS_FEEDIN_TARIFFS; RENEWABLE_ENERGY_FEEDIN_TARIFFS; WIND_ENERGY;
+WIND_ENERGY; WIND_POWER; OPTIMIZATION; OPTIMALITY; OPTIMIZATION;
+ECONOMIC_ANALYSIS; ECONOMICS_ANALYSIS; ECONOMIC_ANALYSIS; POWER_PLANTS;
+POWER_PLANT; POWER_PLANTS
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the
+information provided in the records presented below. Add cites to the
+added text using the corresponding Record-No value between brackets.
+
+Here are the text to improve and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+--
+
+Record-No: 67
+Citations: 4
+Record-ID: Das Gupta S., 2020, INT J ENERGY SECT MANAGE, V14, P757
+Title: evaluating INDIAS_ENERGY_TARGETS using REAL_OPTIONS_APPROACH
+Abstract:
+```
+purpose: the AUTHORS_FORMULATE_INDIAS_ENERGY_TARGETS in light of pushing
+for RENEWABLE_ENERGY_SOURCES and reducing the dependence on imported
+COAL. share of imported COAL in ELECTRICITY_GENERATION has been
+approximately 10 per cent in RECENT_YEARS. while INVESTMENTS in
+RENEWABLES have grown in RECENT_YEARS as seen in INSTALLED_CAPACITIES,
+coal_fired ELECTRICITY_GENERATION has grown because of rising demand for
+ELECTRICITY. the purpose of this study is to find a PLANNER_SOLUTION when
+HIGH_GLOBAL_COAL_PRICES_FORCE greater INVESTMENTS in RENEWABLE_ENERGIES.
+DESIGN/methodology/approach: the authors use REAL_OPTIONS_APPROACH where
+GLOBAL_COAL_PRICES are the STOCHASTIC_VARIABLE. they present an
+OPTIMAL_STOPPING_PROBLEM and solving the PROBLEM_BACKWARD, the revenues
+from continuing with the CURRENT_ENERGY_GENERATION_MIX and those from
+replacing imported COAL with WIND_AND_SOLAR is compared for each period.
+findings: the TRIGGER_PRICE for GLOBAL_COAL_PRICES when it is optimal for
+the SOCIAL_PLANNER to invest in ADDITIONAL_WIND and SOLAR_CAPACITIES is
+found. TRIGGER_PRICES is the threshold when INVESTMENT must be undertaken
+whatever be the FUTURE_EVOLUTION of COAL_PRICES; this gives the problem a
+value of waiting. INDIA cannot afford to wait to invest if faced with
+strict short_term goals. originality/value: the WORK_EVALUATES_INDIAS
+DOMESTIC_TARGETS and its PARIS_AGREEMENT_GOALS in light of using more of
+WIND and sun and replacing imported COAL. VARIOUS_DATA_SOURCES
+(GOVERNMENT_REPORTS, RESEARCH_ARTICLES) are consulted to predict shares
+of ELECTRICITY from VARIOUS_SOURCES in FUTURE and the authors find the
+OPERATING_COSTS and the INVESTMENT_COSTS associated with switching to
+RENEWABLES.  2020, emerald publishing limited.
+```
+
+--
+
+Record-No: 19
+Citations: 4
+Record-ID: Batac K.I.T., 2022, INTERNAT J RENE ENER DEVEL, V11, P801
+Title: DECISION_SUPPORT for INVESTMENTS in SUSTAINABLE_ENERGY_SOURCES under
+uncertainties
+Abstract:
+```
+INVESTMENT in SUSTAINABLE_ENERGY_SOURCES is one of the
+CLIMATE_MITIGATION_STRATEGIES that can significantly reduce
+GREENHOUSE_GAS_EMISSIONS in the ENERGY_SECTOR. however, in
+DEVELOPING_COUNTRIES, INVESTMENT is challenged by
+HIGH_CAPITAL_EXPENDITURES and several uncertainties. this PAPER_AIMS to
+provide DECISION_SUPPORT for INVESTMENT in SUSTAINABLE_ENERGY_PROJECTS by
+evaluating the COMPARATIVE_ATTRACTIVENESS of shifting ENERGY_SOURCES from
+FOSSIL_FUELS to RENEWABLES and nuclear. applying the
+REAL_OPTIONS_APPROACH (ROA), this PAPER_CALCULATES the value of the
+FLEXIBILITY to postpone the INVESTMENT_DECISION and identifies the
+OPTIMAL_TIMING (described here as the TRIGGER_PRICE of COAL) for shifting
+to SUSTAINABLE_ENERGY_SOURCES. then, VARIOUS_UNCERTAINTIES are
+considered, such as COAL and ELECTRICITY_PRICES, NEGATIVE_EXTERNALITY of
+using FOSSIL_FUELS, and the RISK of a NUCLEAR_ACCIDENT, which are
+modelled using GEOMETRIC_BROWNIAN_MOTION, POISSON_PROCESS, and
+BERNOULLI_PROBABILITY. applying the ROA_MODEL in the case of the
+PHILIPPINES, results find that investing in SUSTAINABLE_ENERGY is a
+better option than continuing to use COAL for ELECTRICITY_GENERATION.
+however, contrary to CONVENTIONAL_OPTION_VALUATION_RESULT that waiting is
+a better strategy, this study found that delaying or postponing the
+INVESTMENT_DECISIONS may lead to POSSIBLE_OPPORTUNITY_LOSSES. among the
+AVAILABLE_SUSTAINABLE_ENERGY_SOURCES, geothermal is the most attractive
+with TRIGGER_PRICES of COAL equal to usd 49.95/ton, followed by nuclear
+(usd 58.55/ton), WIND (usd 69.48/ton), SOLAR_PHOTOVOLTAIC (usd
+72.04/ton), and HYDROPOWER (usd 111.14/ton). also, the occurrence of jump
+(extreme) prices of COAL, raising the current feed_in_tariff, and
+considering NEGATIVE_EXTERNALITIES can decrease the TRIGGER_PRICES, which
+FAVOR_INVESTMENTS in SUSTAINABLE_ENERGIES. moreover, the RISK of a
+NUCLEAR_DISASTER favors INVESTMENT in RENEWABLE_ENERGY_SOURCES over
+nuclear due to the HUGE_DAMAGE_COSTS once an ACCIDENT_OCCURS. results
+provide bases for POLICY_RECOMMENDATIONS toward achieving a more secure
+and SUSTAINABLE_ENERGY_SECTOR for DEVELOPING_COUNTRIES that are highly
+dependent on imported FOSSIL_FUELS.  2022. the authors.
+```
+
+--
+
+Record-No: 85
+Citations: 4
+Record-ID: Venkatasubramanian B.V., 2021, IEEE ACCESS, V9, P120451
+Title: techno economic framework for OPTIMAL_CAPACITY_EXPANSION of
+ACTIVE_MICROGRID in the mediterranean: a CASE_STUDY of mcast
+Abstract:
+```
+the purpose of MICROGRIDS is to improve SYSTEM_FLEXIBILITY and RESILIENCE
+during normal and EMERGENCY_CONDITIONS. the
+CEASELESS_LOAD_GROWTH_MANDATES to increase MICROGRID's capacity, thereby
+improving the SYSTEM_FLEXIBILITY and RESILIENCE. however,
+CAPACITY_EXPANSION requires SIGNIFICANT_INVESTMENTS, making it essential
+to identify the OPTIMAL_CAPACITY of ENERGY_RESOURCES. the methodologies
+proposed in the LITERATURE_IDENTIFIES the MICROGRID's capacity with an
+assumption of INVESTMENTS with a single installment. this way of
+THEORETICAL_APPROACH leads to UNREALISTIC_SOLUTIONS. besides, MICROGRID's
+participation in a FLEXIBLE_MARKET will enhance its performance both in
+commercial and TECHNICAL_ASPECTS. therefore, this paper proposes a
+REALISTIC_FRAMEWORK with the concept 'expansion through time' inspired by
+'REAL_OPTIONS_THEORY.' this framework includes PRACTICAL_PARAMETERS like
+RESOURCE_LOAD_UNCERTAINTY, PHYSICAL_SPACE required to install, revenue
+generated by resources, and MAXIMUM_DEMAND_PENALTY, on top of
+ELECTRICAL_PARAMETERS; constrained with SIGNIFICANT_RETURN in INVESTMENTS
+to improve the OVERALL_SAVINGS. in addition, this paper proposes a
+MARKET_PARTICIPATION_MODEL for MICROGRID, which defines a bidding process
+with two components, such as regular and FLEXIBLE_PORTIONS under both
+normal and EXTREME_CONDITIONS. this STUDY_CONSIDERS renewable_based
+ENERGY_RESOURCES like solar_photovoltaic plants (spps) and
+BATTERY_ENERGY_STORAGE_SYSTEMS (besss) as MICROGRIDS' ENERGY_RESOURCES.
+the system chosen for testing the efficacy of the proposed framework is a
+real_world active_microgrid of MALTA_COLLEGE of arts,
+SCIENCE_AND_TECHNOLOGY (mcast), located on an island.  2013 ieee.
+```
+
+--
+
+Record-No: 84
+Citations: 4
+Record-ID: Secomandi N., 2017, FOUND TRENDS TECHNOL INF OPER MANAGE, V11, P144
+Title: approximations for HIGH_DIMENSIONAL_COMMODITY and
+ENERGY_MERCHANT_OPERATIONS_MODELS
+Abstract:
+```
+MERCHANT_OPERATIONS is an approach to MANAGE_COMMODITY and
+ENERGY_CONVERSION_ASSETS modeled as REAL_OPTIONS. firms operate networks
+of SUCH_ASSETS, e.g., MULTIPLE_WIND or SOLAR_FARMS that
+GENERATE_ELECTRICITY at DIFFERENT_GEOGRAPHICAL_LOCATIONS, may be coupled
+with local grid_level ENERGY_STORAGE facilities, and are connected to
+VARIOUS_WHOLESALE_POWER_MARKETS via capacitated TRANSMISSION_LINES. the
+CORRESPONDING_MODELS are typically intractable. this work describes
+methods to COMPUTE_APPROXIMATE OPERATING_POLICIES and assess their
+OPTIMALITY_GAPS for SUCH_MODELS. these approximations extend techniques
+developed for MODELS of single commodity and ENERGY_CONVERSION_ASSETS.
+```
+
+--
+
+Record-No: 12
+Citations: 3
+Record-ID: Yu G., 2022, ENERGY SCI ENG, V10, P3075
+Title: RESEARCH on the INVESTMENT_DECISIONS of PV micro GRID_ENTERPRISES under
+CARBON_TRADING MECHANISMS
+Abstract:
+```
+achieving CARBON_NEUTRALITY_TARGETS requires
+SUBSTANTIAL_FINANCIAL_SUPPORT. EFFECTIVE_UTILIZATION of RENEWABLE_ENERGY
+is an ESSENTIAL_MEANS of promoting energy_saving and EMISSION_REDUCTION
+to realize a green and CIRCULAR_ECONOMY. this paper combines
+CARBON_TRADING MECHANISMS with the OPERATIONAL_MODE of chinese micro_grid
+enterprises. this METHOD_USES the REAL_OPTIONS_THEORY to construct an
+INVESTMENT_DECISION_MODEL for PHOTOVOLTAIC (PV) micro_grid enterprises.
+the STUDY_AIMS to analyze the impact of CARBON_TRADING revenue on a
+NUMERICAL_SIMULATION of PV micro_grid enterprise INVESTMENT_DECISIONS.
+the findings demonstrate that when projected GROWTH_RATES, VOLATILITY
+STANDARD_DEVIATIONS, and risk_free INTEREST_RATES rise in the
+CARBON_TRADING MARKET, the CARBON_PRICE_THRESHOLD_RISES, causing
+businesses to seek out INVESTMENT_OPPORTUNITIES with higher
+FUTURE_CARBON_PRICES. the increase of micro_grid generation TECHNOLOGY
+acceptance PROBABILITY, the availability of resources to meet
+GENERATION_INVESTMENT_REQUIREMENTS, and the GENERATION_PROJECT_CYCLE will
+decrease the CARBON_PRICE_THRESHOLD and ACCELERATE_ENTERPRISE_INVESTMENT.
+studying the influence of CARBON_TRADING prices on micro_grid INVESTMENT
+has SPECIFIC_GUIDANCE and PRACTICAL_SIGNIFICANCE for
+FUTURE_GOVERNMENT_SUBSIDY_POLICIES and the INVESTMENT_STRATEGIES of
+GRID_ENTERPRISES.  2022 the authors. ENERGY_SCIENCE & ENGINEERING
+published by the society of CHEMICAL_INDUSTRY and JOHN_WILEY & SONS_LTD.
+```
+
+---------------------------------------------------------------------------
+
+Improve and make more clear the explanation of the relationships among
+the keywords:
+
+COSTS; COST; COSTS; POWER_GENERATION; CONVENTIONAL_POWER_GENERATION;
+ELECTRIC_POWER_GENERATION; POWER_GENERATION; TOTAL_POWER_GENERATION;
+ENERGY_POLICY; ENERGY_POLICY; ELECTRICITY_PRICES; ELECTRICITY_PRICE;
+ELECTRICITY_PRICES; ELECTRICITY_SPOT_PRICE; ELECTRICITY_SPOT_PRICE_MODEL;
+VARIOUS_WHOLESALE_POWER_MARKETS; WHOLESALE_ELECTRICITY_SPOT_PRICE;
+ELECTRICITY_GENERATION; ELECTRICITY_GENERATION; ELECTRIC_GENERATORS;
+GENERATE_ELECTRICITY; FEED_IN_TARIFFS; FEEDIN_TARIFF; FEEDIN_TARIFFS;
+FEEDIN_TARIFFS_MECHANISM; FEED_IN_TARIFF; FEED_IN_TARIFFS;
+GENEROUS_FEEDIN_TARIFFS; RENEWABLE_ENERGY_FEEDIN_TARIFFS; WIND_ENERGY;
+WIND_ENERGY; WIND_POWER; OPTIMIZATION; OPTIMALITY; OPTIMIZATION;
+ECONOMIC_ANALYSIS; ECONOMICS_ANALYSIS; ECONOMIC_ANALYSIS; POWER_PLANTS;
+POWER_PLANT; POWER_PLANTS
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the
+information provided in the records presented below. Add cites to the
+added text using the corresponding Record-No value between brackets.
+
+Here are the text to improve and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+--
+
+Record-No: 55
+Citations: 1
+Record-ID: Ofori C.G., 2022, CLIM POLICY, V22, P851
+Title: a REAL_OPTIONS_APPROACH to assessing the COST_SAVINGS_POTENTIAL of
+RENEWABLE_ENERGY_ADOPTION among smes in GHANA
+Abstract:
+```
+small and MEDIUM_SCALE_ENTERPRISES (smes) are integral to
+ECONOMIC_DEVELOPMENT. however, they face significant challenges within
+their operations, of which access to an AFFORDABLE_POWER supply is
+profound. self_generation options have the potential to curtail these
+challenges to an extent, but SMES_NEED to choose options that provide
+SIGNIFICANT_COST_SAVINGS. this study proposes a simulation_based
+REAL_OPTIONS_MODEL using SECONDARY_DATA to evaluate the
+COST_SAVINGS_POTENTIAL for smes in switching from CONVENTIONAL_POWER
+generating sources to RENEWABLE_ENERGY based on three MAIN_SCENARIOS:
+using RENEWABLE_ENERGY as a backup; a COMPLETE_TRANSITION to
+RENEWABLE_ENERGY_GENERATION; and a PARTIAL_TRANSITION to
+RENEWABLE_ENERGY_SOURCES. the results show that using RENEWABLE_ENERGY as
+BACKUP_SOURCES of ENERGY does not provide SIGNIFICANT_COST_SAVINGS to the
+sme. however, a complete or a PARTIAL_TRANSITION from conventional to
+RENEWABLE_ENERGY_RESOURCES offers SUBSTANTIAL_COST_SAVINGS for the sme
+over the life of the RENEWABLE_ENERGY_TECHNOLOGY. smes must consider
+CAPACITY_FACTORS of RENEWABLE_ENERGY_TECHNOLOGIES, tariffs for
+CONVENTIONAL_POWER supply, SYSTEM_RELIABILITY of CONVENTIONAL_SYSTEMS,
+and the INVESTMENT_COSTS for RENEWABLE_ENERGY_GENERATION as critical
+determining factors for RENEWABLE_ENERGY_INVESTMENTS.
+SUCCESSFUL_INTEGRATION of RENEWABLE_ENERGY by smes also requires
+POLICY_SUPPORT towards educating smes on its importance and
+TECHNICAL_REQUIREMENTS. KEY_POLICY_INSIGHTS RENEWABLE_ENERGY_INTEGRATION
+can allow smes to make SUBSTANTIAL_SAVINGS in their
+POWER_CONSUMPTION_COSTS. smes must be mindful of an approach towards
+investing in RENEWABLE_ENERGY_TECHNOLOGIES so that it also maximises
+their gains in RENEWABLE_ENERGY_INTEGRATION. GOVERNMENT_POLICY must focus
+on creating an enabling environment for smes to reap the benefits of
+RENEWABLE_ENERGY_INTEGRATION.  2022 INFORMA_UK limited, trading as taylor
+& FRANCIS_GROUP.
+```
+
+--
+
+Record-No: 50
+Citations: 1
+Record-ID: Al-Obaidli H., 2021, COMPUT AIDED CHEM ENG, V50, P1795
+Title: statistical decision theoretic RISK_MANAGEMENT for planning
+RENEWABLE_ENERGY_PATHWAYS
+Abstract:
+```
+the world has witnessed an increase in the level of INVESTMENTS for
+RENEWABLE_ENERGY_TECHNOLOGIES in the PAST_DECADE mainly owing to the
+pressure for mitigating GREENHOUSE_GAS (ghg) EMISSIONS, whilst addressing
+the issue of CLIMATE_CHANGE. according to RECENT_STATISTICS,
+GLOBAL_INVESTMENTS edged up by 2 % in 2019 to $301.7 billion, taking the
+value of CUMULATIVE_INVESTMENTS since 2004 to $3.5 trillion, which has
+been attributed to the falling COSTS of SOLAR and WIND technologies. with
+the commissioning of ADDITIONAL_CAPACITIES from RENEWABLE_ENERGY_SOURCES
+each year, there is a growing need for managing the associated
+RISKS_AND_UNCERTAINTIES from the perspective of DIFFERENT_STAKEHOLDERS
+throughout the planning, development and OPERATIONAL_PHASES.
+RENEWABLE_ENERGY_SOURCES entail CONSIDERABLE_TECHNOLOGICAL and
+FINANCIAL_RISKS_EXPOSURE, depending on the location where the
+technologies are implemented, and thus needs to be managed using
+techniques that would provide both the quantification of RISKS and
+OPTIMAL_DECISIONS that lead to RISK MITIGATION. the objective of the
+proposed RESEARCH is to develop a PROBABILISTIC_FRAMEWORK which broadly
+includes: (a) statistical modelling of FINANCIAL_RISKS _ such as
+variability of revenue due to ELECTRICITY_PRICE, DEMAND_FLUCTUATIONS,
+GENERATION_COSTS, or other MARKET_CONDITIONS; and (b) evaluating options
+that maximise the stakeholders utility/reward functions, or
+MINIMISE_RISKS, for a given TECHNOLOGY_MIX. this RESEARCH_DEMONSTRATES
+the implementation of BINOMIAL_LATTICE_MODEL in REAL_OPTIONS_ANALYSIS
+(ROA) for the VALUATION of INVESTMENTS on diversified ENERGY_PORTFOLIOS.
+the framework is applied to analyse the impact of RISKS_AND_UNCERTAINTIES
+on CAPITAL budgeting decisions relating to PROJECT_SIZE (expand or
+contract); PROJECT_LIFE and timing (initiation, deferment or abandon);
+and PROJECT_OPERATION (FLEXIBILITY in the TECHNOLOGY_MIX) for scenarios
+involving large_scale deployment of RENEWABLE_ENERGY_SOURCES.  2021
+elsevier b.v.
+```
+
+--
+
+Record-No: 42
+Citations: 1
+Record-ID: Acevedo Prins N.M., 2018, ESPACIOS, V39
+Title: EVALUATION of certified EMISSION_REDUCTIONS in POWER_GENERATION_PROJECT
+through REAL_OPTIONS;
+Abstract:
+```
+this ARTICLE_EVALUATES a POWER_GENERATION_PROJECT from SOLAR_SOURCE in
+COLOMBIA. it considers the INCENTIVE by certified
+EMISSION_REDUCTIONS_SALES. it is evaluated by TRADITIONAL_METHOD and
+REAL_OPTIONS_METHOD with the ENERGY_PRICE as an uncertain variable.
+initially, the project is not profitable for investors, however, with the
+deferment REAL_OPTION the project is profitable as long as the
+ENERGY_PRICE takes HIGH_VALUES.  2018, revistaespacios.com.
+```
+
+--
+
+Record-No: 73
+Citations: 0
+Record-ID: Yang C., 2022, FRONT ENERGY RES, V10
+Title: EVALUATION of INVESTMENT_STRATEGIES for rooftop distributed PV and
+CCS_TECHNOLOGIES in CHINA under MULTIPLE_SCENARIOS
+Abstract:
+```
+CCS_TECHNOLOGY is significant to achieve CARBON_EMISSION_REDUCTION in the
+current coal_based ENERGY_MIX in CHINA, just as PV received more
+POLICY_SUBSIDIES from the CHINESE_GOVERNMENT to promote its
+INDUSTRY_DEVELOPMENT in the EARLY_STAGE, and all parties in the society,
+including the GOVERNMENT and enterprises, have paid attention to and
+supported the development of CCS_TECHNOLOGY to promote the implementation
+of CARBON_EMISSION_REDUCTION. this PAPER_EVALUATES the
+REGIONAL_INVESTMENT_BENEFITS and INVESTMENT_TIMING of CCS_RETROFITTING
+and rtdpv in DIFFERENT_SCENARIOS for each province in CHINA based on the
+REAL_OPTION_APPROACH. the results show that the INITIAL_COST_SUBSIDY and
+participation in the CARBON_MARKET are not as effective as the feed_in
+tariff SUBSIDY, and the INVESTMENT_RETURN of CCS_RETROFIT is better than
+rtdpv in the scenario with feed_in tariff SUBSIDY, and most provinces can
+achieve IMMEDIATE_INVESTMENT. rtdpv without subsidies cannot achieve
+FULL_PARITY nationwide yet, and some provinces are not suitable for
+INVESTMENT without participating in the CARBON_MARKET. the net
+PRESENT_VALUE_APPROACH would underestimate the INVESTMENT_VALUE of ccs
+and rtdpv and prematurely REJECT_INVESTMENT in many scenarios, while
+provinces under the REAL_OPTION_APPROACH tend to DELAY_INVESTMENT to
+obtain OPTIMAL_INVESTMENT_RETURNS. this paper provides a reference for
+investors to make INVESTMENT_DECISIONS in low_carbon technologies and for
+governments to develop CCS_INCENTIVES. copyright  2022 yang, cui, he and
+jiang.
+```
+
+--
+
+Record-No: 51
+Citations: 0
+Record-ID: [Anonymous], 2020, RENEW ENERGY FOCUS, V34, P57
+Title: erratum regarding previously published articles (RENEWABLE_ENERGY_FOCUS
+(2019) 31 (18), (s1755008418302114), (10.1016/j.ref.2019.05.001))
+Abstract:
+```
+the conflict of INTEREST_STATEMENTS were not included in the published
+versions of the following articles, that appeared in PREVIOUS_ISSUES of
+RENEWABLE_ENERGY_FOCUS. the APPROPRIATE_CONFLICT of INTEREST_STATEMENTS
+are included below. a method of LOW_VOLTAGE residential micro_grids
+MANAGEMENT using ami/GIS_SYSTEMS and its application benefits [renew.
+ENERGY_FOCUS 32 (2020) 19] conflict of interest: none to declare.
+FLEXIBLE_DESIGN at BATOKA_DAM: how REAL_OPTIONS_ANALYSIS_COMPARES to
+other decision_making tools [renew. ENERGY_FOCUS 31 (2019) 18] conflict
+of interest: none to declare. taxonomy of islanding DETECTION_TECHNIQUES
+for DISTRIBUTED_GENERATION in MICROGRID [renew. ENERGY_FOCUS 31 (2019)
+930] conflict of interest: none to declare. a review of
+POWER_QUALITY_COMPATIBILITY of WIND ENERGY_CONVERSION_SYSTEMS with the
+south african utility grid [renew. ENERGY_FOCUS 31 (2019) 6372] conflict
+of interest: none to declare. long_term ELECTRICITY_SECTOR expansion
+planning: a UNIQUE_OPPORTUNITY for a least COST_ENERGY_TRANSITION in
+south africa [renew. ENERGY_FOCUS 30 (2019) 2145] conflict of interest:
+none to declare. ECONOMIC_ENVIRONMENTAL_DISPATCH of
+solar_wind_hydro_thermal POWER_SYSTEM [renew. ENERGY_FOCUS 30 (2019)
+107122] conflict of interest: none to declare. DESIGN of a
+PEM_FUEL_CELL_MODEL for flooding and drying diagnosis using FUZZY_LOGIC
+clustering [renew. ENERGY_FOCUS 30 (2019) 123130] conflict of interest:
+none to declare. CASTOR_OIL, a source for BIODIESEL_PRODUCTION and its
+impact on the diesel engine performance [renew. ENERGY_FOCUS 28 (2019)
+110] conflict of interest: none to declare. a biomass small_scale
+externally fired combined CYCLE_PLANT for heat and POWER_GENERATION in
+rural communities [renew. ENERGY_FOCUS 28 (2019) 3646] conflict of
+interest: none to declare.  2020 ELSEVIER_LTD
+```
+
+---------------------------------------------------------------------------
+
+Improve and make more clear the explanation of the relationships among
+the keywords:
+
+COSTS; COST; COSTS; POWER_GENERATION; CONVENTIONAL_POWER_GENERATION;
+ELECTRIC_POWER_GENERATION; POWER_GENERATION; TOTAL_POWER_GENERATION;
+ENERGY_POLICY; ENERGY_POLICY; ELECTRICITY_PRICES; ELECTRICITY_PRICE;
+ELECTRICITY_PRICES; ELECTRICITY_SPOT_PRICE; ELECTRICITY_SPOT_PRICE_MODEL;
+VARIOUS_WHOLESALE_POWER_MARKETS; WHOLESALE_ELECTRICITY_SPOT_PRICE;
+ELECTRICITY_GENERATION; ELECTRICITY_GENERATION; ELECTRIC_GENERATORS;
+GENERATE_ELECTRICITY; FEED_IN_TARIFFS; FEEDIN_TARIFF; FEEDIN_TARIFFS;
+FEEDIN_TARIFFS_MECHANISM; FEED_IN_TARIFF; FEED_IN_TARIFFS;
+GENEROUS_FEEDIN_TARIFFS; RENEWABLE_ENERGY_FEEDIN_TARIFFS; WIND_ENERGY;
+WIND_ENERGY; WIND_POWER; OPTIMIZATION; OPTIMALITY; OPTIMIZATION;
+ECONOMIC_ANALYSIS; ECONOMICS_ANALYSIS; ECONOMIC_ANALYSIS; POWER_PLANTS;
+POWER_PLANT; POWER_PLANTS
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the
+information provided in the records presented below. Add cites to the
+added text using the corresponding Record-No value between brackets.
+
+Here are the text to improve and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+--
+
+Record-No: 138
+Citations: 0
+Record-ID: Ariki W., 2009, IEEJ TRANS POWER ENERGY, V129, P1486
+Title: RISK_ASSESSMENT of INVESTMENT_STRATEGY in distributed ENERGY_SYSTEM under
+UNCERTAINTY of fuel and ELECTRICITY_PRICES
+Abstract:
+```
+this PAPER_DISCUSSES_INVESTMENT_STRATEGIES in distributed ENERGY_SYSTEM
+consisting of COGENERATION_SYSTEM and RENEWABLE_POWER_GENERATION, under
+UNCERTAINTY in the NATURAL_GAS and the ELECTRICITY_PRICES as well as
+related RISK_ASSESSMENT of INVESTMENT_STRATEGIES. although incentives for
+introducing distributed ENERGY_SYSTEM_INCREASE these days, volatile
+NATURAL_GAS_PRICES make its INVESTMENT_RISKY. therefore, it is important
+to evaluate the RISK under UNCERTAINTY and find strategies which reduce
+the exposure to VOLATILITY. we take the REAL_OPTION_APPROACH to
+ANALYZE_INVESTMENT_DECISION. by varying the parameters of
+PRICES_VOLATILITY and correlation between UNCERTAINTY of
+NATURAL_GAS_PRICE with that of ELECTRICITY_PRICE, we find that the
+OPTIMAL_INVESTMENT_STRATEGY depends on the level of UNCERTAINTY and
+correlation. when VOLATILITY is large and correlation is small,
+strategies with INSTALLATION_OPTION of SMALL_RENEWABLE_POWER_GENERATION,
+here, PHOTOVOLTAIC_GENERATION, and SMALL_COGENERATION_SYSTEM become
+attractive in terms of RISK_REDUCTION.
+```
+
+--
+
+Record-No: 109
+Citations: 0
+Record-ID: [Anonymous], 2001, AIAA SPACE 2001 CONF EXP
+Title: AIAA_SPACE 2001 conference and exposition
+Abstract:
+```
+the proceedings contain 171 papers. the SPECIAL_FOCUS in this conference
+is on space and exposition. the topics include: fundamentals of
+COST_RISK_ASSESSMENT in AEROSPACE_PROGRAMS; SPACE_SYSTEM_COST_VARIANCE
+and estimating UNCERTAINTY; strategies for the SCIENTIFIC_EXPLORATION of
+the moon; generating HIGH_QUALITY_REQUIREMENTS; re_engineering
+LEGACY_MISSION SCIENTIFIC_SOFTWARE; REQUIREMENTS_RISK_ANALYSIS and the
+aiaa recommended practice for SOFTWARE_RELIABILITY; AUTONOMOUS_SATELLITE
+docking system; development of a servicing SATELLITE_SIMULATOR;
+streamlined access to space for dod SMALL_SPACECRAFT;
+ROBOTIC_CAPABILITIES for COMPLEX_SPACE_OPERATIONS; a survey of
+SERVICEABLE_SPACECRAFT_FAILURES; looking at the past to establish
+FUTURE_RLV_DEVELOPMENT_GOALS; a comparison of modern and HISTORIC_MASS
+estimating relationships on a two stage to ORBIT_LAUNCH_VEHICLE; JAPAN's
+perspective for FUTURE_SPACE_TRANSPORTATION_SYSTEM; designing
+REUSABLE_LAUNCH_VEHICLES for FUTURE_SPACE_MARKETS; INTEGRATION of the
+gps_based BALLISTIC_MISSILE_RANGE TRACKING system; enabling
+RESEARCH_AND_DEVELOPMENT for FLIGHT_DEMONSTRATION of SPARSE_APERTURE
+sensing; innovative space_based SURVEILLANCE_CONCEPTS; cost_effective
+SPACECRAFT dependent upon frequent non_intrusive servicing; RESEARCH for
+an INNOVATIVE_APPROACH to SATELLITE_TECHNOLOGY; naval postgraduate school
+pansat _ lessons learned; AUTONOMOUS_SYSTEM for
+MISSE_TEMPERATURE_MEASUREMENTS; a stepping STONE_APPROACH to HUMAN and
+ROBOTIC_EXPLORATION of space; IONIC_POLYMER_DEVICES for optical
+positioning systems; RISK_MANAGEMENT_STRATEGIES for developing
+COMPLEX_SPACE_SYSTEMS; application of REAL_OPTIONS to
+STRATEGIC_MANAGEMENT of MILITARY_SATELLITE_COMMUNICATIONS; quantifying
+embedded UNCERTAINTY of SPACE_SYSTEMS_ARCHITECTURES in CONCEPTUAL_DESIGN;
+SMALL_METAL_ASTEROID MINING and FABRICATION_CONCEPTS; KINETICS of
+interaction between ch4 and ilmenite at HIGH_TEMPERATURE; ICE_ADHESION to
+SPACE_ROVER_WHEELS; MULTIPLE_PAYLOAD_ADAPTORS for LOW_COST_ACCESS to
+space; MULTIFUNCTIONAL_STRUCTURES; strain monitoring of
+SMART_COMPOSITE_STRUCTURES using FIBER_BRAGG grating SENSOR_SYSTEM;
+HIGH_STIFFNESS latching of DEPLOYABLE_SPACE_STRUCTURE_JOINTS using
+melting METAL_TECHNOLOGY; an EXPERIMENTAL_INVESTIGATION of
+DEXTEROUS_ROBOTS using eva tools and interfaces; ONBOARD_SCIENCE_ANALYSIS
+and replanning for increased SCIENCE_RETURN; AUTONOMOUS_ROCK_DETECTION
+for MARS_TERRAIN; EVALUATION of ionic_metal polymer composites (impc) for
+use as near_dc MECHANICAL_SENSORS; application of
+ELASTIC_MEMORY_COMPOSITE_MATERIALS to DEPLOYABLE_SPACE_STRUCTURES;
+TECHNOLOGY_DEVELOPMENT_ROADMAP for the SPACE_OPERATIONS_VEHICLE;
+perspective in BASIC_RESEARCH_ACTIVITIES on CRYOGENIC_COMPOSITE_TANKS for
+rlv in JAPAN; CURRENT_STATUS and prospects of the
+KOREAN_AEROSPACE_INDUSTRY; establishing criteria for evaluating a problem
+solving system; interferometric imaging concepts with reduced
+formation_keeping constraints; a simple testbed for
+EXPERIMENTAL_INTERFEROMETRIC_IMAGE_FORMATION; advanced imaging
+technologies; mars DIRECT_SAMPLE_RETURN_MISSION_DESIGN; analysis of a
+SMALL_ROBOT for MARTIAN_REGOLITH_EXCAVATION; SAFETY_ISSUES and
+considerations concerning humans aboard commercial
+REUSABLE_LAUNCH_VEHICLES; a study of AIR_LAUNCH_METHODS for rlvs;
+QUALITY_INITIATIVES in the AIR_FORCE_DEVELOPMENT of
+REUSABLE_LAUNCH_VEHICLES; four YEARS of operations and results with
+forte; MULTISPECTRAL_THERMAL_IMAGER (mti) SATELLITE_LAUNCH, orbit and
+status; SPACE_SYSTEMS_FLEXIBILITY provided by on_orbit servicing. ii;
+tools for coordinated planning between observatories;
+VIRTUAL_SYSTEM_DESIGN_ENVIRONMENT; G_PREDICTIVE_NONLINEAR MODELING for
+control; stochastic_based ADAPTIVE_CONTROL_VIBRATION_CONTROL for MACE_II;
+a HOLISTIC_APPROACH to SPACECRAFT_TEST; rapidly porting commercial
+ELECTRONIC_DESIGNS to radiation_hardened domain; characteristics of a
+hermetic 6h_sic pressure sensor at 600 c; GLOBAL_SCALE_OBSERVATIONS of
+IONOSPHERIC_INSTABILITIES from gps in LOW_EARTH_ORBIT; CLUSTER_DESIGN for
+scanned PATTERN_INTERFEROMETRIC_RADAR (spir); SPACEWATCH_STUDIES of the
+population of earth_approaching asteroids; CARBON_DIOXIDE_COLLECTION and
+PURIFICATION_SYSTEM for mars; network of BENNETT_LINKAGES as
+DEPLOYABLE_STRUCTURES; SILICON_MOON _ the foundations of a
+CISLUNAR_ECONOMY; the UNCONVENTIONAL_STELLAR_ASPECT (usa) experiment on
+argos; the COHERENT_ELECTROMAGNETIC_RADIO_TOMOGRAPHY (certo) experiment
+on argos; the LOW_POWER_TRANSCEIVER (lpt) for SPACE_APPLICATIONS;
+economic_based distributed OPTIMAL_DESIGN;
+EVOLUTIONARY_SPACE_TRANSPORTATION_PLAN for mars cycling concepts;
+leveraging middleware_based infrastructure for REMOTE_EXPLORATION;
+landing enabled by INTELLIGENT_FUNCTIONS (leif); formation flying
+experiments on the orion_emerald mission; microfabricated
+CHEMICAL_SENSORS for SPACE_HEALTH monitoring applications; the role of
+man in MILITARY_SPACE_OPERATIONS; crater and ROCK_HAZARD MODELING for
+mars landing; ROCKOT _ a LIGHT_CLASS_LAUNCH_SYSTEM for RELIABLE_ACCESS to
+leo; the COSMOS_LAUNCH_SERVICES and LAUNCH_SYSTEM_MODERNIZATION_PROGRAM;
+sprite mini_lift, an AFFORDABLE_SMALL_EXPENDABLE_LAUNCHER; mahrsi and
+CRISTA_OBSERVATIONS of the ARCTIC_SUMMER_MESOSPHERE; EVALUATION of
+FLIGHT_PERFORMANCE of LOW_HERITAGE_SPACECRAFT_HARDWARE on STP_VEHICLES;
+pointing performance of space_based
+CROSSLINK_LASER_COMMUNICATIONS_SYSTEMS; NASA_COST_ESTIMATION and
+ANALYSIS_STRATEGY; OBJECTIVE_COST_ANALYSIS_TREATMENT of air and
+SPACE_FORCE_MIX_OPTIONS; the use of CLUSTER_COMPUTER_SYSTEMS for nasa/jpl
+applications; development of a device to track the motion of the sun;
+FLIGHT_TEST of solid oxide micro_sensors on a RUSSIAN_REENTRY probe;
+ADAPTIVE_SIGNAL_PROCESSING for a spaceborne distributed aperture;
+near_earth asteriod sample return missions; advanced spacelift _ need for
+operability; DESIGN for SPACE_TOURISM; a SYSTEMS_STUDY on how to dispose
+of fleets of SMALL_SATELLITES; COMMERCIAL_APPLICATIONS for
+microsatellites; flight manifesting process for
+NASA_MICROGRAVITY_PAYLOADS; overview of the space_based laser integrated
+FLIGHT_EXPERIMENT; SYSTEMIC_FACTORS in software_related
+SPACECRAFT_ACCIDENTS; MARS_SURFACE DIRECT_COMMUNICATION and an overview
+of a SOLAR_THERMAL_PROPULSION and POWER_SYSTEM_DEMONSTRATION applicable
+to heds.
+```
+
+

@@ -1,0 +1,1 @@
+pip3 install -e /Volumes/GitHub/techminer2 --force-reinstall

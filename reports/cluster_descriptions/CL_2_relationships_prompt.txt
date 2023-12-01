@@ -1,0 +1,884 @@
+You are an automated scientific writer assistant. Use only the
+information provided in the following records to write one paragraph
+explaining and exemplifying the relationships among the following
+keywords:
+
+UNCERTAINTY_ANALYSIS; UNCERTAINTY_ANALYSIS; MONTE_CARLO_METHODS;
+MIXES_MONTE_CARLO_SIMULATION; MONTE; MONTECARLO_METHODS;
+MONTECARLO_SIMULATION; MONTE_CARLO; MONTE_CARLO'S_SIMULATION;
+MONTE_CARLO_ANALYSIS; MONTE_CARLO_METHOD; MONTE_CARLO_METHODS;
+MONTE_CARLO_SIMULATION; MONTE_CARLO_SIMULATIONS;
+MONTE_CARLO_SIMULATION_METHOD; MONTE_CARLO_SIMULATION_METHODS;
+CARBON_EMISSIONS; CARBON_DIOXIDE_EMISSIONS; CARBON_EMISSION;
+CARBON_EMISSIONS; CARBON_FOOTPRINT; CARBON_FOOTPRINTS; CO2_EMISSIONS;
+CURB_CARBON_EMISSIONS; GAS_EMISSIONS; GHG_EMISSIONS; GREENHOUSES_GAS;
+GREENHOUSE_GAS; GREENHOUSE_GASES; GREENHOUSE_GAS_EMISSIONS;
+LOW_CARBON_EMISSIONS; NATIONWIDE_CARBON_EMISSION; UNCERTAINTY;
+UNCERTAINTY; INVESTMENT_COSTS; INVESTMENT_COST; INVESTMENT_COSTS;
+SENSITIVITY_ANALYSIS; SENSITIVITY_ANALYSIS; CARBON; CARBON;
+CARBON_DIOXIDE; LEAST_SQUARE_MONTE_CARLO;
+LEASTSQUARES_MONTE_CARLO_ALGORITHM; LEASTSQUARES_MONTE_CARLO_METHOD;
+LEAST_SQUARE; LEAST_SQUARES_APPROXIMATIONS; LEAST_SQUARES_METHOD;
+LEAST_SQUARES_MONTE_CARLO; LEAST_SQUARES_MONTE_CARLO (LSMC);
+LEAST_SQUARES_MONTE_CARLO_SIMULATION; LEAST_SQUARE_MONTE_CARLO;
+SQUARES_MONTE; SQUARES_MONTE_CARLO; SQUARES_MONTE_CARLO_METHOD;
+SQUARES_MONTE_CARLO_SIMULATION_METHOD; SQUARE_MONTE_CARLO_METHOD;
+OPTIMAL_INVESTMENT_TIMING; OPTIMAL_INVESTMENT_TIME;
+OPTIMAL_INVESTMENT_TIMING; CARBON_PRICES; CARBON_DIOXIDE_PRICE;
+CARBON_PRICE; CARBON_PRICES; CO2_MARKET_PRICE; CO2_PRICE; CO2_PRICES;
+FUTURE_CARBON_PRICES
+
+Use the Record-No value between brackets to indicate the reference to the
+record. For example, [1] means that the information is in the Record-No
+1. Use notes below of the generated text to justify the affirmation. Use
+only phrases appearing in the provided text.
+
+Do not generate lists. Do not write keywords in upper case. Do not use
+'_' in keywords.
+
+Here are the records:
+
+--
+
+Record-No: 125
+Citations: 129
+Record-ID: Zhang M.M., 2016, ENERGY ECON, V59, P213
+Title: a REAL_OPTIONS_MODEL for RENEWABLE_ENERGY_INVESTMENT with application to
+SOLAR_PHOTOVOLTAIC_POWER_GENERATION in CHINA
+Abstract:
+```
+this paper proposes a REAL_OPTIONS_MODEL for evaluating
+RENEWABLE_ENERGY_INVESTMENT by considering UNCERTAIN_FACTORS such as
+CO2_PRICE, non_renewable ENERGY COST, INVESTMENT_COST and MARKET_PRICE of
+ELECTRICITY. a phase_out mechanism is built into the model to reflect the
+long_term changes of SUBSIDY_POLICY. we apply the proposed model to
+empirically evaluate the INVESTMENT_VALUE and OPTIMAL_TIMING for
+SOLAR_PHOTOVOLTAIC_POWER_GENERATION in CHINA. our EMPIRICAL_RESULTS show
+that the CURRENT_INVESTMENT_ENVIRONMENT in CHINA may not be able to
+attract IMMEDIATE_INVESTMENT, while the development of CARBON_MARKET
+helps advance the OPTIMAL_INVESTMENT_TIME. a SENSITIVITY_ANALYSIS is
+conducted to investigate the dynamics of INVESTMENT_VALUE and
+OPTIMAL_TIMING under the changes of unit generating capacity,
+SUBSIDY_LEVEL, MARKET_PRICE of ELECTRICITY, CO2_PRICE and
+INVESTMENT_COST. it is found that the HIGH_INVESTMENT_COST and the
+VOLATILITY of ELECTRICITY and CO2_PRICES, are not conducive to attract
+IMMEDIATE_INVESTMENT. instead, increasing the level of SUBSIDY, promoting
+TECHNOLOGICAL_PROGRESS and maintaining the stability of MARKET are useful
+to STIMULATE_INVESTMENT.  2016 elsevier b.v.
+```
+
+--
+
+Record-No: 105
+Citations: 85
+Record-ID: Zhang M.M., 2016, ENERGY POLICY, V97, P181
+Title: optimal FEED_IN_TARIFF for SOLAR_PHOTOVOLTAIC_POWER_GENERATION in CHINA:
+a REAL_OPTIONS_ANALYSIS
+Abstract:
+```
+the feed_in tariff policy is widely used to promote the development of
+RENEWABLE_ENERGY. CHINA also adopts feed_in tariff policy to attract
+greater INVESTMENT in SOLAR_PHOTOVOLTAIC_POWER_GENERATION. this study
+employs REAL_OPTIONS_METHOD to assess the OPTIMAL_LEVELS of feed_in
+tariffs in 30 provinces of CHINA. the uncertainties in CO2_PRICE and
+INVESTMENT_COST are considered. a method that integrates the backward
+DYNAMIC_PROGRAMMING ALGORITHM and least_squares MONTE_CARLO_METHOD is
+used to solve the model. the results demonstrate that the feed_in tariffs
+of 30 PROVINCES_RANGE from 0.68 rmb/kwh to 1.71 rmb/kwh, and the
+AVERAGE_LEVEL is 1.01 rmb/kwh. on this basis, we find that the levels of
+sub_regional feed_in tariff announced in 2013 are no longer appropriate
+and should be adjusted as soon as possible. we have also identified the
+implications of TECHNOLOGICAL_PROGRESS and CARBON_EMISSION trading
+schemes, as well as the importance of strengthening
+ELECTRICITY_TRANSMISSION. it has been suggested that the
+CHINESE_GOVERNMENT takes DIVERSE_MEASURES, including increasing RESEARCH
+and DEVELOPMENT_INVESTMENT, establishing and improving a
+NATIONWIDE_CARBON_EMISSION trading scheme and accelerating the
+construction of electricity_transmission infrastructure, to reduce the
+required feed_in tariff and promote the development of
+SOLAR_PHOTOVOLTAIC_POWER_GENERATION.  2016 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 72
+Citations: 71
+Record-ID: Zhang M.M., 2019, APPL ENERGY, V240, P1049
+Title: evaluating UNCERTAIN_INVESTMENT_DECISIONS in LOW_CARBON_TRANSITION toward
+RENEWABLE_ENERGY
+Abstract:
+```
+this paper proposed a model for solving the
+INVESTMENT_DECISIONS_AMIDST_UNCERTAINTY in the low_carbon transition
+toward RENEWABLE_ENERGY. the REAL_OPTION_METHOD is used and numerous
+influencing factors are considered, including the MARKET_PRICE of
+ELECTRICITY, FOSSIL_FUEL_COST, CARBON_DIOXIDE_PRICE, INVESTMENT_COST and
+long_term changes of feed_in tariff policy associated with
+RENEWABLE_ENERGY. the INVESTMENT_DECISIONS related to the transition from
+a coal_fired POWER_PLANT to a SOLAR_PHOTOVOLTAIC_POWER_PLANT in CHINA
+have been analyzed in detail. the results indicate the
+OPTIMAL_TRANSITION_INVESTMENT_STRATEGY and elucidate the effects of
+MULTIPLE_FACTORS on the INVESTMENT_STRATEGY. this provides a
+CLEAR_SUGGESTION for both the GOVERNMENT and investor how to
+scientifically ADDRESS_UNCERTAINTY and make OPTIMAL_INVESTMENT_DECISION
+to accelerate the low_carbon transition.  2019 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 27
+Citations: 62
+Record-ID: Zhang M.M., 2017, RENEWABLE SUSTAINABLE ENERGY REV, V71, P873
+Title: OPTIMAL_DESIGN of SUBSIDY to stimulate RENEWABLE_ENERGY_INVESTMENTS: the
+case of CHINA
+Abstract:
+```
+this paper proposes a REAL_OPTIONS_MODEL for estimating the
+OPTIMAL_SUBSIDY for RENEWABLE_ENERGY_POWER_GENERATION_PROJECT by using
+STOCHASTIC_PROCESS to describe the MARKET_PRICE of ELECTRICITY, co2price
+and INVESTMENT_COST. two indicators, i.e., PROJECT_VALUE and
+THRESHOLD_VALUE, are used to derive the OPTIMAL_SUBSIDY. the least
+SQUARES_MONTE_CARLO_SIMULATION_METHOD is used to solve the model. the
+proposed model is used to empirically evaluate the OPTIMAL_LEVEL of
+SUBSIDY for SOLAR_PHOTOVOLTAIC_POWER_GENERATION in CHINA. the results
+show that CARBON_EMISSION trading scheme helps reduce SUBSIDY. unit
+generating capacity, MARKET_PRICE of ELECTRICITY, co2price and the
+VOLATILITY of INVESTMENT_COST are negatively related with SUBSIDY,
+WHEREAS_INVESTMENT_COST and the VOLATILITY of ELECTRICITY_PRICE and
+co2price are positively related with SUBSIDY. it is suggested that
+CHINESE_GOVERNMENTS take some measures, e.g., promoting
+TECHNOLOGICAL_PROGRESS, establishing a NATIONWIDE_CARBON_EMISSION trading
+MARKET, promoting the COMPETITION in RENEWABLE_ENERGY_INDUSTRY as well as
+maintaining the stability of co2price and ELECTRICITY_PRICE, to reduce
+the required SUBSIDY.  2016 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 70
+Citations: 48
+Record-ID: Tian L., 2017, APPL ENERGY, V201, P354
+Title: the VALUATION of PHOTOVOLTAIC_POWER_GENERATION under
+CARBON_MARKET_LINKAGE based on REAL_OPTIONS
+Abstract:
+```
+this paper provides a REAL_OPTION_APPROACH to ANALYZE_INVESTMENT_VALUE
+for PHOTOVOLTAIC_POWER_GENERATION under CARBON_MARKET_LINKAGE. the
+PRIMARY_PURPOSE is to evaluate PHOTOVOLTAIC_POWER_GENERATION under
+uncertainties from the perspective of POWER_GENERATION_ENTERPRISES.
+uncertainties in INVESTMENT_COSTS, ELECTRICITY_PRICES, CARBON_PRICES and
+SUBSIDY_PAYMENTS are considered. in addition, the MARKET co_movements of
+INVESTMENT_COSTS are considered in this study. DUNHUANG is taken as a
+CASE_STUDY to evaluate the value of PHOTOVOLTAIC_POWER_GENERATION through
+SCENARIO_ANALYSIS. the RESULT_SHOWS that the INVESTMENT_VALUE of
+PHOTOVOLTAIC_POWER_GENERATION is negative. enterprise should give up the
+INVESTMENT or DELAY_INVESTMENT until MATURE_CONDITIONS. moreover, the
+INVESTMENT_VALUE can be improved by TECHNICAL_IMPROVEMENT, increasing a
+CERTAIN_RANGE of SUBSIDY_PAYMENTS, etc. the RESEARCH presented would be
+useful for PHOTOVOLTAIC_POWER_GENERATION_PROJECT_EVALUATION and related
+decision_marking.  2016 ELSEVIER_LTD
+```
+
+---------------------------------------------------------------------------
+
+Improve and make more clear the explanation of the relationships among
+the keywords:
+
+UNCERTAINTY_ANALYSIS; UNCERTAINTY_ANALYSIS; MONTE_CARLO_METHODS;
+MIXES_MONTE_CARLO_SIMULATION; MONTE; MONTECARLO_METHODS;
+MONTECARLO_SIMULATION; MONTE_CARLO; MONTE_CARLO'S_SIMULATION;
+MONTE_CARLO_ANALYSIS; MONTE_CARLO_METHOD; MONTE_CARLO_METHODS;
+MONTE_CARLO_SIMULATION; MONTE_CARLO_SIMULATIONS;
+MONTE_CARLO_SIMULATION_METHOD; MONTE_CARLO_SIMULATION_METHODS;
+CARBON_EMISSIONS; CARBON_DIOXIDE_EMISSIONS; CARBON_EMISSION;
+CARBON_EMISSIONS; CARBON_FOOTPRINT; CARBON_FOOTPRINTS; CO2_EMISSIONS;
+CURB_CARBON_EMISSIONS; GAS_EMISSIONS; GHG_EMISSIONS; GREENHOUSES_GAS;
+GREENHOUSE_GAS; GREENHOUSE_GASES; GREENHOUSE_GAS_EMISSIONS;
+LOW_CARBON_EMISSIONS; NATIONWIDE_CARBON_EMISSION; UNCERTAINTY;
+UNCERTAINTY; INVESTMENT_COSTS; INVESTMENT_COST; INVESTMENT_COSTS;
+SENSITIVITY_ANALYSIS; SENSITIVITY_ANALYSIS; CARBON; CARBON;
+CARBON_DIOXIDE; LEAST_SQUARE_MONTE_CARLO;
+LEASTSQUARES_MONTE_CARLO_ALGORITHM; LEASTSQUARES_MONTE_CARLO_METHOD;
+LEAST_SQUARE; LEAST_SQUARES_APPROXIMATIONS; LEAST_SQUARES_METHOD;
+LEAST_SQUARES_MONTE_CARLO; LEAST_SQUARES_MONTE_CARLO (LSMC);
+LEAST_SQUARES_MONTE_CARLO_SIMULATION; LEAST_SQUARE_MONTE_CARLO;
+SQUARES_MONTE; SQUARES_MONTE_CARLO; SQUARES_MONTE_CARLO_METHOD;
+SQUARES_MONTE_CARLO_SIMULATION_METHOD; SQUARE_MONTE_CARLO_METHOD;
+OPTIMAL_INVESTMENT_TIMING; OPTIMAL_INVESTMENT_TIME;
+OPTIMAL_INVESTMENT_TIMING; CARBON_PRICES; CARBON_DIOXIDE_PRICE;
+CARBON_PRICE; CARBON_PRICES; CO2_MARKET_PRICE; CO2_PRICE; CO2_PRICES;
+FUTURE_CARBON_PRICES
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the
+information provided in the records presented below. Add cites to the
+added text using the corresponding Record-No value between brackets.
+
+Here are the text to improve and make more clear:
+
+<<<
+In the realm of renewable energy investment, particularly in solar photovoltaic power generation in China, uncertainty analysis plays a pivotal role in shaping investment decisions and strategies. Zhang M.M.'s studies underscore this by integrating real options modeling and least squares Monte Carlo simulation methods to address various uncertainties, including investment costs, carbon prices, and market prices of electricity [125, 105, 72, 27]. These methods allow for a comprehensive evaluation of investment value and optimal investment timing under fluctuating market conditions and policy changes. For instance, the impact of carbon emissions trading schemes on investment decisions is a recurrent theme in these studies. Zhang's work indicates that such schemes can advance optimal investment timing and reduce the need for subsidies in renewable energy projects [125, 27]. Additionally, the volatility of investment costs and the prices of electricity and carbon dioxide are highlighted as significant factors influencing immediate investment decisions [125]. This body of research exemplifies the intricate interplay between Monte Carlo simulation methods and uncertainty analysis in guiding investment strategies in the renewable energy sector, particularly under the influence of carbon market dynamics and policy frameworks in China.
+>>>
+
+Here are the records:
+
+--
+
+Record-No: 18
+Citations: 35
+Record-ID: Sim J., 2018, J CLEAN PROD, V189, P297
+Title: the economic and ENVIRONMENTAL_VALUES of the r&D_INVESTMENT in a
+RENEWABLE_ENERGY_SECTOR in SOUTH_KOREA
+Abstract:
+```
+although a fossil_based FUEL_ECONOMY has allowed SOUTH_KOREA to rapidly
+develop, the ECONOMIC_GROWTH means that SOUTH_KOREA is now one of the
+largest sources of CARBON_EMISSIONS. the south KOREAN_GOVERNMENT has
+recently made a RENEWABLE_ENERGY_INVESTMENT_PLAN to convert the economy
+based on FOSSIL_FUELS to an economy based on RENEWABLE_ENERGY. in order
+to analyze the ECONOMIC_FEASIBILITY of the RESEARCH_AND_DEVELOPMENT (r&d)
+INVESTMENT required for this change, this STUDY_EVALUATES the
+r&D_INVESTMENT in the six types of RENEWABLE_ENERGY_SOURCES  biomass
+ENERGY, WASTE_ENERGY, PHOTOVOLTAIC_ENERGY, SOLAR_THERMAL_ENERGY,
+MARINE_ENERGY, and WIND POWER_ENERGY, while considering several
+UNCERTAINTY_FACTORS  a RENEWABLE_ENERGY_PRODUCTION amount, an
+r&D_INVESTMENT amount, a UNIT_PRICE, and a risk_free INTEREST_RATE. this
+STUDY_UTILIZES the SYSTEM_DYNAMICS_APPROACH using the black_scholes model
+and CONDUCTS_SENSITIVITY_ANALYSES of the UNCERTAINTY_FACTORS. the results
+indicate that the RENEWABLE_ENERGY_PRODUCTION amount has a relatively
+LARGE_INFLUENCE on both the r&D_INVESTMENT_VALUE and the
+CARBON_EMISSION_REDUCTION amount. in the MONTE_CARLO_SIMULATION, a
+risk_free INTEREST_RATE has annually a SMALL_IMPACT on the
+r&D_INVESTMENT_VALUE.  2018 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 94
+Citations: 25
+Record-ID: Zhang M.M., 2020, ENERGY ECON, V92
+Title: valuing INVESTMENT_DECISIONS of RENEWABLE_ENERGY_PROJECTS considering
+CHANGING_VOLATILITY
+Abstract:
+```
+VOLATILITY is an IMPORTANT_PARAMETER when evaluating INVESTMENTS using
+the REAL_OPTIONS_METHOD. for RENEWABLE_ENERGY_INVESTMENTS, the VOLATILITY
+of CASH_FLOW continuously changes, because as NEW_INFORMATION and
+knowledge are gathered, there is less FORESEEN_VARIATION. this paper
+proposes an extended recombining TRINOMIAL_TREE_MODEL, where the
+CHANGING_VOLATILITY is used to GENERATE_TRANSITION_PROBABILITIES. the
+CHANGING_VOLATILITY is generated using a CONSOLIDATION_PROCESS where
+MULTIPLE_RANDOM_VARIABLES, including the MARKET_PRICE of ELECTRICITY,
+CARBON_PRICE, and lending rate, are integrated into a low_dimension
+STOCHASTIC_PROCESS. a two_factor LEARNING_CURVE is used to model the
+changes of INVESTMENT_COST. we apply the proposed model to
+ANALYZE_SOLAR_PHOTOVOLTAIC (PV) POWER_GENERATION_INVESTMENT in CHINA. the
+results show VOLATILITY with changing feature. compared with
+CONSTANT_VOLATILITY, CHANGING_VOLATILITY may advance INVESTMENT_DECISIONS
+and change the PROJECT_VALUE. COMPLETE_GRID_PARITY_POLICY in the
+SOLAR_PV_INDUSTRY is infeasible because the OPPORTUNITY_COST brought by
+the option of delaying cannot be offset. the CHANGING_VOLATILITY may
+produce a lower and equally EFFECTIVE_SUBSIDY_LEVEL compared with
+CONSTANT_VOLATILITY. a CARBON_EMISSION trading scheme is helpful in
+advancing INVESTMENTS in RENEWABLE_ENERGY, which is reflected in
+improvements in PROJECT_VALUE, advancements in INVESTMENT_DECISIONS, and
+reductions in the required SUBSIDY_LEVEL.  2020 elsevier b.v.
+```
+
+--
+
+Record-No: 129
+Citations: 25
+Record-ID: Welling A., 2016, EUR J OPER RES, V251, P1016
+Title: the paradox effects of UNCERTAINTY and FLEXIBILITY on INVESTMENT in
+RENEWABLES under GOVERNMENTAL_SUPPORT
+Abstract:
+```
+given that companies have the FLEXIBILITY to decide about size and timing
+of a RENEWABLE_ELECTRICITY_INVESTMENT, the existence of four paradox
+effects is proven: only the type but not the amount of
+GOVERNMENTAL_SUPPORT has an influence on the OPTIMAL_CAPACITY of a
+RENEWABLE_ELECTRICITY GENERATING_SYSTEM. a decrease of
+GOVERNMENTAL_SUPPORT over time may result in higher capacities of
+RENEWABLES installed on an INDUSTRY_LEVEL, at least on the SHORT_TERM.
+likewise, higher UNCERTAINTY may encourage an expansion of these
+capacities. in contrast, TECHNOLOGICAL_PROGRESS may hamper the expansion
+of capacities. finally, these four paradox effects are exemplified in a
+germany_based CASE_STUDY regarding a PHOTOVOLTAIC_PROJECT.  2016 elsevier
+b.v.
+```
+
+--
+
+Record-No: 136
+Citations: 20
+Record-ID: Gazheli A., 2013, AGRIC FINANC REV, V73, P507
+Title: LAND_USE change and SOLAR_ENERGY_PRODUCTION: a REAL_OPTION_APPROACH
+Abstract:
+```
+purpose  in this paper, a REAL_OPTION_MODEL is developed to examine the
+CRITICAL_FACTORS affecting the decision to lease AGRICULTURAL_LAND to a
+company installing a PV_POWER_PLANT. subsidies introduced by governments
+for the PRODUCTION of RENEWABLE_ENERGIES have increased the INVESTMENTS
+in this sector. since ground_based SOLAR_CELLS_NEED_LAND for
+ENERGY_PRODUCTION, then potential trade_off with AGRICULTURE in terms of
+LAND_EXISTS. the PAPER_AIMS to discuss these issues.
+DESIGN/methodology/approach  the PAPER_USES the REAL_OPTION_APPROACH in
+order to take into account for UNCERTAINTY and IRREVERSIBILITY of the
+FARMERS_DECISION. findings  by applying the model to the province of
+bologna (ITALY), the PAPER_ILLUSTRATES the possible land_use change
+scenarios in this area. the PAPER_CONCLUDES by discussing the importance
+of PV_ENERGY_PRODUCTION as a source of income for farmers and its
+implications from a SOCIAL_PERSPECTIVE. originality/value  the RESEARCH
+is applied to the province of bologna (ITALY) where INVESTMENTS in
+ground_based SOLAR_CELLS are becoming quite common. the originality lies
+in the fact of considering the INVESTMENT as irreversible, since it is a
+20_year commitment from the farmers. the paper also takes into account
+the UNCERTAINTY in AGRICULTURAL_COMMODITIES_PRICES.  EMERALD_GROUP
+publishing limited.
+```
+
+--
+
+Record-No: 137
+Citations: 17
+Record-ID: Sarkis J., 2008, EMISSIONS TRDG INSTITUTIONAL DES DECIS MAK AND CORP
+STRATEGIES, P103
+Title: REAL_OPTIONS_ANALYSIS for RENEWABLE_ENERGY_TECHNOLOGIES in a
+GHG_EMISSIONS trading environment
+Abstract:
+```
+GREEN_HOUSE_GAS (ghg) EMISSIONS have been tied to GLOBAL_CLIMATE change.
+governments are seeking ways to help improve performance of their
+countries on this ENVIRONMENTAL_ISSUE through introduction of
+VARIOUS_POLICY_INSTRUMENTS. one POPULAR_POLICY_INSTRUMENT that seems to
+have gained credibility with explicit mention of its application in the
+KYOTO_PROTOCOL is the use of permit trading and cap_and_trade MECHANISMS.
+VARIOUS_POLITICAL_REGIONS, countries, and even corporations have
+introduced, are introducing or seek to introduce this mechanism.
+organizations functioning within this environment will need to manage
+their resources appropriately to remain competitive. organizations will
+either have the opportunity to purchase EMISSIONS_CREDITS (offsets) from
+a MARKET trading scheme or seek to reduce their EMISSIONS through
+DIFFERENT_MEASURES. some measures may include INVESTMENT in
+NEW_TECHNOLOGIES that will reduce their reliance on ghg emitting
+practices. in many countries, LARGE_ORGANIZATIONS and
+INSTITUTIONS_GENERATE their OWN_POWER to operate their facilities. much
+of this power is generated (or bought) from ghg producing TECHNOLOGY.
+SPECIFIC_RENEWABLE_ENERGY_SOURCES such as WIND and
+SOLAR_PHOTOVOLTAIC_TECHNOLOGY may become more FEASIBLE_ALTERNATIVES
+available to a LARGE_PERCENTAGE of these organizations if they are able
+to take advantage and incorporate the MARKET for GHG_EMISSIONS trading in
+their analyses. to help organizations evaluate INVESTMENT in these
+RENEWABLE_ENERGY_TECHNOLOGIES we introduce a REAL_OPTIONS based model
+that will take into CONSIDERATION_UNCERTAINTIES associated with the
+TECHNOLOGY and those associated with the ghg trading MARKET. the
+REAL_OPTIONS_ANALYSIS will consider both the stochastic (UNCERTAINTY)
+nature of the exercise price of the TECHNOLOGY and the STOCHASTIC_NATURE
+of the MARKET trading price of the GHG_EMISSIONS. managerial and
+POLICY_IMPLICATIONS will be discussed.  2008 springer NEW_YORK.
+```
+
+---------------------------------------------------------------------------
+
+Improve and make more clear the explanation of the relationships among
+the keywords:
+
+UNCERTAINTY_ANALYSIS; UNCERTAINTY_ANALYSIS; MONTE_CARLO_METHODS;
+MIXES_MONTE_CARLO_SIMULATION; MONTE; MONTECARLO_METHODS;
+MONTECARLO_SIMULATION; MONTE_CARLO; MONTE_CARLO'S_SIMULATION;
+MONTE_CARLO_ANALYSIS; MONTE_CARLO_METHOD; MONTE_CARLO_METHODS;
+MONTE_CARLO_SIMULATION; MONTE_CARLO_SIMULATIONS;
+MONTE_CARLO_SIMULATION_METHOD; MONTE_CARLO_SIMULATION_METHODS;
+CARBON_EMISSIONS; CARBON_DIOXIDE_EMISSIONS; CARBON_EMISSION;
+CARBON_EMISSIONS; CARBON_FOOTPRINT; CARBON_FOOTPRINTS; CO2_EMISSIONS;
+CURB_CARBON_EMISSIONS; GAS_EMISSIONS; GHG_EMISSIONS; GREENHOUSES_GAS;
+GREENHOUSE_GAS; GREENHOUSE_GASES; GREENHOUSE_GAS_EMISSIONS;
+LOW_CARBON_EMISSIONS; NATIONWIDE_CARBON_EMISSION; UNCERTAINTY;
+UNCERTAINTY; INVESTMENT_COSTS; INVESTMENT_COST; INVESTMENT_COSTS;
+SENSITIVITY_ANALYSIS; SENSITIVITY_ANALYSIS; CARBON; CARBON;
+CARBON_DIOXIDE; LEAST_SQUARE_MONTE_CARLO;
+LEASTSQUARES_MONTE_CARLO_ALGORITHM; LEASTSQUARES_MONTE_CARLO_METHOD;
+LEAST_SQUARE; LEAST_SQUARES_APPROXIMATIONS; LEAST_SQUARES_METHOD;
+LEAST_SQUARES_MONTE_CARLO; LEAST_SQUARES_MONTE_CARLO (LSMC);
+LEAST_SQUARES_MONTE_CARLO_SIMULATION; LEAST_SQUARE_MONTE_CARLO;
+SQUARES_MONTE; SQUARES_MONTE_CARLO; SQUARES_MONTE_CARLO_METHOD;
+SQUARES_MONTE_CARLO_SIMULATION_METHOD; SQUARE_MONTE_CARLO_METHOD;
+OPTIMAL_INVESTMENT_TIMING; OPTIMAL_INVESTMENT_TIME;
+OPTIMAL_INVESTMENT_TIMING; CARBON_PRICES; CARBON_DIOXIDE_PRICE;
+CARBON_PRICE; CARBON_PRICES; CO2_MARKET_PRICE; CO2_PRICE; CO2_PRICES;
+FUTURE_CARBON_PRICES
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the
+information provided in the records presented below. Add cites to the
+added text using the corresponding Record-No value between brackets.
+
+Here are the text to improve and make more clear:
+
+<<<
+In the context of renewable energy investment, particularly solar photovoltaic power generation in China, uncertainty analysis and Monte Carlo simulation methods are crucial for evaluating investment decisions and strategies. Zhang M.M.'s research emphasizes the use of real options modeling and least squares Monte Carlo simulations to navigate uncertainties such as investment costs, carbon prices, and electricity market prices [125, 105, 72, 27]. These approaches facilitate a thorough assessment of investment value and the ideal timing for investments, considering the fluctuating market conditions and policy changes. The influence of carbon emissions trading schemes on investment decisions emerges consistently across these studies. Zhang's work indicates that these schemes can improve the timing for optimal investments and diminish the need for subsidies in renewable energy projects [125, 27]. Furthermore, the volatility of investment costs and the prices of electricity and carbon dioxide are highlighted as key factors affecting immediate investment decisions [125].
+
+In addition to Zhang M.M.'s studies, Sim J. [18] and Zhang M.M. [94] also underscore the importance of uncertainty analysis in renewable energy investment. Sim J.'s study on South Korea's transition from a fossil-based fuel economy to renewable energy highlights the role of uncertainty factors such as renewable energy production amount, investment amount, unit price, and interest rate in evaluating the economic feasibility of renewable energy R&D investment [18]. Similarly, Zhang M.M. [94] demonstrates how the volatility of cash flow in renewable energy investments can affect investment decisions. By using a trinomial tree model and a consolidation process that integrates multiple random variables, this research offers insights into the changing volatility in the solar photovoltaic power generation investment in China. The findings from these studies underline the dynamic nature of renewable energy investment decisions, influenced by various market and policy uncertainties.
+
+Moreover, Welling A. [129], Gazheli A. [136], and Sarkis J. [137] provide additional perspectives on the complexity of renewable energy investments under uncertainty. Welling A. reveals the paradoxical effects of uncertainty and flexibility on renewable energy investments under governmental support, indicating that higher uncertainty may encourage the expansion of renewable energy capacities [129]. Gazheli A. explores the critical factors affecting the decision to lease agricultural land for solar energy production, emphasizing the irreversibility of the investment and the uncertainty in agricultural commodities prices [136]. Sarkis J. discusses the role of greenhouse gas emissions trading in evaluating investments in renewable energy technologies, incorporating uncertainties associated with technology and the emissions trading market [137]. These studies collectively illustrate the intricate relationship between uncertainty analysis, Monte Carlo simulation methods, and renewable energy investment strategies, highlighting the significant impact of market dynamics, carbon pricing, and policy frameworks on investment decisions in the renewable energy sector.
+>>>
+
+Here are the records:
+
+--
+
+Record-No: 151
+Citations: 17
+Record-ID: Weibel S., 2015, ENERGY CONVERS MANAGE, V103, P871
+Title: COST effective DESIGN of RINGWALL_STORAGE_HYBRID_POWER_PLANTS: a
+REAL_OPTIONS_ANALYSIS
+Abstract:
+```
+abstract we study the ECONOMIC_VIABILITY and optimal sizing and siting of
+a HYBRID_PLANT that combines a RINGWALL_HYDRO_STORAGE_SYSTEM with WIND
+and SOLAR_POWER_PLANTS (RINGWALL_STORAGE_HYBRID_POWER_PLANT, rshpp). a
+REAL_OPTIONS_MODEL is introduced to analyze the ECONOMICS of an
+ONSHORE_RSHPP, and in particular of the varying STORAGE_VOLUME in light
+of the STOCHASTIC_CHARACTER of WIND and SOLAR_POWER, as well as the
+OPTIMAL_INVESTMENT_TIMING under UNCERTAINTY. in fact, many uncertainties
+arise in such a project. ENERGY_PRODUCTION is determined by the
+STOCHASTIC_CHARACTER of WIND and SOLAR_POWER, and affects the
+OPTIMAL_SIZE of the STORAGE_DEVICE. MONTE_CARLO_SIMULATION is performed
+to analyze the following sources of UNCERTAINTY: (i) WIND intensity and
+SOLAR_IRRADIATION; (ii) FUTURE_ELECTRICITY_PRICE; and (iii)
+INVESTMENT_COSTS. the RESULTS_YIELD the OPTIMAL_SIZE of the
+STORAGE_DEVICE; the ENERGY_MARKET on which the operator should sell the
+ELECTRICITY generated; NUMERICAL_EXAMPLES for two
+DIFFERENT_RSHPP_SCENARIOS; and a REAL_OPTIONS_MODEL for analyzing the
+opportunity to defer the PROJECT_INVESTMENT and thus to exploit the value
+of waiting.  2015 ELSEVIER_LTD.
+```
+
+--
+
+Record-No: 16
+Citations: 16
+Record-ID: Assereto M., 2021, RENEWABLE SUSTAINABLE ENERGY REV, V143
+Title: no REAL_OPTION for SOLAR in IRELAND: a REAL_OPTION_VALUATION of
+UTILITY_SCALE_SOLAR_INVESTMENT in IRELAND
+Abstract:
+```
+the IRISH_GOVERNMENT recently unveiled plans to have 70% of ELECTRICITY
+in the state generated from RENEWABLE_ENERGY_SOURCES by 2030. currently
+very little ELECTRICITY is generated by SOLAR_PHOTOVOLTAIC in IRELAND. in
+this study, a REAL_OPTIONS_FRAMEWORK is applied to assess the
+ECONOMIC_FEASIBILITY of utility_scale SOLAR in IRELAND. initially,
+ELECTRICITY_PRICES are identified as the MAIN_SOURCE of UNCERTAINTY and
+the least SQUARE_MONTE_CARLO_METHOD is used to price the REAL_OPTION. the
+findings are that, in the absence of COMPREHENSIVE_POLICY_SUPPORT,
+large_scale INVESTMENT in SOLAR in IRELAND is not commercially viable and
+that, where the REAL_OPTION has value, the OPTIMAL_STRATEGY is to
+DEFER_INVESTMENT. SENSITIVITY_ANALYSIS_SHOWS that the results are robust
+and the analysis allows investors to make an informed bid to the newly
+introduced RENEWABLE_ELECTRICITY_SUPPORT_SCHEME (ress). when
+POLICY_SUPPORT is introduced, a LARGE_REAL_OPTION_VALUE is obtained, and
+UTILITY_SCALE_SOLAR_INVESTMENT is profitable. the implications are that
+solar_specific policy supports may work better than policies that include
+all RENEWABLE_TECHNOLOGIES because the dominance of onshore WIND_ENERGY
+in IRELAND may price other RENEWABLE_SOURCES out.  2021
+```
+
+--
+
+Record-No: 44
+Citations: 10
+Record-ID: Chen W., 2018, MITIGATION ADAPT STRATEG GLOBAL CHANGE, V23, P667
+Title: ELECTRICITY_PRICE_SUBSIDY or CARBON_TRADING SUBSIDY: which is more
+efficient to develop PHOTOVOLTAIC_POWER_GENERATION from a
+GOVERNMENT_PERSPECTIVE?
+Abstract:
+```
+PHOTOVOLTAIC (PV) POWER_GENERATION has HIGH_INVESTMENT_COSTS and
+LONG_PAYBACK_PERIODS. therefore, during EARLY_DEPLOYMENT, subsidies are
+fundamental and necessary to accelerate its development. we consider the
+question of how to promote PV_INDUSTRY_DEVELOPMENT and which supporting
+policy is more efficient in accelerating adoption. based on
+REAL_OPTIONS_METHOD, we establish a SUBSIDY_EFFICIENCY_MODEL for
+ELECTRICITY_PRICE_SUBSIDIES and carbon_trading subsidies under two
+sources of UNCERTAINTY_POWER_DEMAND for PV and the INVESTMENT
+cost_reduction PROBABILITY. this STUDY_AIMS to compare the two forms of
+subsidies from the perspective of promoting IMMEDIATE_INVESTMENT and
+maximizing the SUBSIDY_POLICY_EFFICIENCY for the GOVERNMENT (minimizing
+the unit carbon_mitigation COST) and advance RELEVANT_POLICY_PROPOSALS.
+an example of CHINA is provided to test the effectiveness of the model
+and to illustrate the implications of the solutions. the results show
+that a carbon_trading SUBSIDY is better than an ELECTRICITY_PRICE_SUBSIDY
+and that it is essential to improve the demand for the power produced by
+the PV power_generation projects. lower MARKET_RISK and driving
+TECHNOLOGY_PROGRESS are both conducive to improving the
+SUBSIDY_EFFICIENCY. this study also provides a MEANINGFUL_REFERENCE for
+GOVERNMENTS_WORLDWIDE to FORMULATE_SUBSIDY_PROGRAMS to SUPPORT_PV
+power_generation projects.  2017, springer science+business media b.v.
+```
+
+--
+
+Record-No: 35
+Citations: 9
+Record-ID: Li Y., 2018, ENERGIES, V11
+Title: an EVALUATION of INVESTMENT in a PV_POWER_GENERATION_PROJECT in the
+GOBI_DESERT using a REAL_OPTIONS_MODEL
+Abstract:
+```
+this paper presents a POLICY_BENEFIT_MODEL of a PHOTOVOLTAIC (PV)
+POWER_GENERATION_PROJECT based on REAL_OPTIONS_ANALYSIS (ROA) and the
+two_factor LEARNING_CURVE model. the MAIN_PURPOSE is to examine the
+INVESTMENT_BEHAVIOR of developing a PV_PROJECT in the GOBI_DESERT
+considering MULTIPLE_UNCERTAIN_FACTORS. we take the ENVIRONMENTAL_COST of
+DESERTIFICATION_CONTROL into account for the first time in the
+literature. four other UNCERTAIN_FACTORS are THERMAL_POWER_COST,
+PV_POWER_GENERATION_COST, CARBON_PRICES, and GOVERNMENT_SUBSIDY. a
+BINARY_TREE_METHOD is applied to solve the proposed model, and we obtain
+both UNIT_DECISION_VALUE and OPTIMAL_INVESTMENT_TIME. our
+BASELINE_SCENARIO_ILLUSTRATES that ROA is more effective than net
+PRESENT_VALUE (NPV) analysis when dealing with UNCERTAINTY. our
+SIMULATION_RESULTS show that the GOVERNMENT could suffer a loss in
+accordance with the existing SUBSIDY_POLICY when investing in a
+PV_PROJECT. therefore, the SUBSIDY should be gradually reduced. finally,
+the influence of the SUBSIDY_POLICY on DECISION_VALUE is discussed, and
+an APPROPRIATE_SUBSIDY is determined accordingly.  2018 by the authors.
+LICENSEE_MDPI, basel, switzerland.
+```
+
+--
+
+Record-No: 110
+Citations: 7
+Record-ID: Kim K., 2016, IOP CONF SER EARTH ENVIRON SCI, V40
+Title: REAL_OPTIONS_ANALYSIS for PHOTOVOLTAIC_PROJECT under CLIMATE_UNCERTAINTY
+Abstract:
+```
+the decision on PHOTOVOLTAIC_PROJECT depends on the level of
+CLIMATE_ENVIRONMENTS. changes in temperature and insolation affect
+PHOTOVOLTAIC_OUTPUT. it is important for investors to consider
+FUTURE_CLIMATE_CONDITIONS for determining INVESTMENTS on
+PHOTOVOLTAIC_PROJECTS. we propose a real options_based framework to
+assess ECONOMIC_FEASIBILITY of PHOTOVOLTAIC_PROJECT under CLIMATE_CHANGE.
+the FRAMEWORK_SUPPORTS_INVESTORS to evaluate CLIMATE_CHANGE impact on
+PHOTOVOLTAIC_PROJECTS under FUTURE_CLIMATE_UNCERTAINTY.  published under
+licence by iop publishing ltd.
+```
+
+---------------------------------------------------------------------------
+
+Improve and make more clear the explanation of the relationships among
+the keywords:
+
+UNCERTAINTY_ANALYSIS; UNCERTAINTY_ANALYSIS; MONTE_CARLO_METHODS;
+MIXES_MONTE_CARLO_SIMULATION; MONTE; MONTECARLO_METHODS;
+MONTECARLO_SIMULATION; MONTE_CARLO; MONTE_CARLO'S_SIMULATION;
+MONTE_CARLO_ANALYSIS; MONTE_CARLO_METHOD; MONTE_CARLO_METHODS;
+MONTE_CARLO_SIMULATION; MONTE_CARLO_SIMULATIONS;
+MONTE_CARLO_SIMULATION_METHOD; MONTE_CARLO_SIMULATION_METHODS;
+CARBON_EMISSIONS; CARBON_DIOXIDE_EMISSIONS; CARBON_EMISSION;
+CARBON_EMISSIONS; CARBON_FOOTPRINT; CARBON_FOOTPRINTS; CO2_EMISSIONS;
+CURB_CARBON_EMISSIONS; GAS_EMISSIONS; GHG_EMISSIONS; GREENHOUSES_GAS;
+GREENHOUSE_GAS; GREENHOUSE_GASES; GREENHOUSE_GAS_EMISSIONS;
+LOW_CARBON_EMISSIONS; NATIONWIDE_CARBON_EMISSION; UNCERTAINTY;
+UNCERTAINTY; INVESTMENT_COSTS; INVESTMENT_COST; INVESTMENT_COSTS;
+SENSITIVITY_ANALYSIS; SENSITIVITY_ANALYSIS; CARBON; CARBON;
+CARBON_DIOXIDE; LEAST_SQUARE_MONTE_CARLO;
+LEASTSQUARES_MONTE_CARLO_ALGORITHM; LEASTSQUARES_MONTE_CARLO_METHOD;
+LEAST_SQUARE; LEAST_SQUARES_APPROXIMATIONS; LEAST_SQUARES_METHOD;
+LEAST_SQUARES_MONTE_CARLO; LEAST_SQUARES_MONTE_CARLO (LSMC);
+LEAST_SQUARES_MONTE_CARLO_SIMULATION; LEAST_SQUARE_MONTE_CARLO;
+SQUARES_MONTE; SQUARES_MONTE_CARLO; SQUARES_MONTE_CARLO_METHOD;
+SQUARES_MONTE_CARLO_SIMULATION_METHOD; SQUARE_MONTE_CARLO_METHOD;
+OPTIMAL_INVESTMENT_TIMING; OPTIMAL_INVESTMENT_TIME;
+OPTIMAL_INVESTMENT_TIMING; CARBON_PRICES; CARBON_DIOXIDE_PRICE;
+CARBON_PRICE; CARBON_PRICES; CO2_MARKET_PRICE; CO2_PRICE; CO2_PRICES;
+FUTURE_CARBON_PRICES
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the
+information provided in the records presented below. Add cites to the
+added text using the corresponding Record-No value between brackets.
+
+Here are the text to improve and make more clear:
+
+<<<
+In the evolving landscape of renewable energy investment, particularly solar photovoltaic power generation, the interplay between uncertainty analysis and Monte Carlo methods stands out as a fundamental aspect in guiding investment strategies. The research of Zhang M.M. extensively utilizes real options modeling combined with least squares Monte Carlo simulations to effectively manage uncertainties related to investment costs, carbon pricing, and electricity market prices [125, 105, 72, 27]. These methods are instrumental in providing a detailed valuation of investment opportunities and determining the most advantageous timing for investments amidst fluctuating market conditions and evolving policy frameworks. Zhang’s research consistently indicates that carbon emissions trading schemes positively influence investment strategies, promoting timely investments and reducing the reliance on subsidies for renewable energy projects [125, 27]. Moreover, factors such as the volatility of investment costs, electricity prices, and carbon dioxide prices are identified as crucial in impacting immediate investment decisions [125].
+
+Complementing Zhang's work, other studies by Sim J. [18] and Zhang M.M. [94] further highlight the critical role of uncertainty analysis in the renewable energy sector. Sim J.’s investigation into South Korea's energy transition strategy showcases the significance of various uncertainty factors - including renewable energy production, investment amounts, and unit prices - in assessing the economic feasibility of renewable energy R&D investments [18]. Zhang M.M. [94] underscores the dynamic nature of volatility in cash flows within renewable energy investments, employing a trinomial tree model to integrate multiple random variables, such as electricity market prices and carbon prices. This approach provides a nuanced understanding of how volatility can influence investment decisions in solar photovoltaic power generation in China [94].
+
+Beyond these, studies by Weibel S. [151], Assereto M. [16], Chen W. [44], Li Y. [35], and Kim K. [110] offer additional insights into the complexities of renewable energy investments in the face of uncertainty. Weibel S. focuses on the economic viability and optimal sizing of hybrid power plants, utilizing Monte Carlo simulation to analyze uncertainties in wind intensity, solar irradiation, future electricity prices, and investment costs [151]. Assereto M. evaluates the economic feasibility of large-scale solar investments in Ireland, highlighting the importance of policy support in enhancing the commercial viability of such projects [16]. Chen W. examines the efficiency of electricity price subsidies versus carbon trading subsidies in developing photovoltaic power generation, emphasizing the need to balance immediate investment incentives with government subsidy efficiency [44]. Li Y. explores investment behavior in a photovoltaic project in the Gobi Desert, taking into account environmental costs and multiple uncertain factors like thermal power costs and carbon prices [35]. Lastly, Kim K. proposes a real options-based framework for assessing the economic feasibility of photovoltaic projects under climate uncertainty, emphasizing the importance of considering future climate conditions in investment decisions [110].
+
+In summary, the relationship between uncertainty analysis, Monte Carlo simulation methods, and renewable energy investment strategies is multifaceted and dynamic. These studies collectively highlight the substantial impact of market dynamics, carbon pricing, and policy frameworks on decision-making processes in the renewable energy sector, underscoring the necessity of comprehensive analytical approaches to navigate the complexities of this evolving field.
+>>>
+
+Here are the records:
+
+--
+
+Record-No: 7
+Citations: 7
+Record-ID: Pan Y., 2019, ENERGY ECON, V78, P454
+Title: POLICY_UNCERTAINTIES: what INVESTMENT_CHOICE for SOLAR_PANEL_PRODUCERS?
+Abstract:
+```
+SOLAR_POWER has achieved GREAT_DEVELOPMENT in the last decade, and it
+should continue to play a CENTRAL_ROLE in the face of CLIMATE_CHANGE and
+SUSTAINABLE_DEVELOPMENT challenges. this PAPER_BUILDS a
+REAL_OPTIONS_MODEL that provides a MICROECONOMIC_ANALYTICAL_FRAMEWORK
+with the least SQUARES_MONTE_CARLO (lsm) method to assess the
+INVESTMENT_CHOICES of a TYPICAL_SOLAR_PANEL_PRODUCER in CHINA facing
+trade and domestic supply_ and demand_side POLICY_UNCERTAINTIES. it
+builds a BASELINE_SCENARIO and three POLICY_SCENARIOS with decreasing
+anti_dumping and countervailing charges, constant feed_in tariff (fit)
+level and reduced INVESTMENT_COST. a TYPICAL_PRODUCER will have to make
+an INVESTMENT_DECISION on building a NEW_PRODUCTION_LINE in five YEARS
+based on a DECISION_IMPACT_ANALYSIS within 20 YEARS. the RESULT_SHOWS an
+IMMEDIATE_INVESTMENT_DECISION for all scenarios. the producer will have
+higher return from INVESTMENT in building a SOLAR_POWER_PLANT with a
+constant fit. export is the OPTIMAL_CHOICE in other scenarios where
+INVESTMENT_RETURN is lower. after SENSITIVITY_ANALYSIS, the
+PAPER_CONCLUDES and can be used as a toolkit for SOLAR_PANEL_PRODUCERS
+and a reference for POLICY_MAKERS to evaluate the impact of
+POLICY_UNCERTAINTIES.  2018
+```
+
+--
+
+Record-No: 25
+Citations: 5
+Record-ID: An J., 2021, SUSTAINABILITY, V13
+Title: least SQUARES_MONTE_CARLO SIMULATION based DECISION_MAKING method for
+PHOTOVOLTAIC_INVESTMENT in KOREA
+Abstract:
+```
+SOLAR_POWER for CLEAN_ENERGY is an IMPORTANT_ASSET that will drive the
+FUTURE of SUSTAINABLE_ENERGY_GENERATION. as interest in
+SUSTAINABLE_ENERGY_INCREASES with koreas RENEWABLE_ENERGY_EXPANSION_PLAN,
+a strategy for PHOTOVOLTAIC_INVESTMENT (PV) is important from an
+investors point of view. PREVIOUS_RESEARCH primarily focused on assessing
+and analyzing the impact of the VOLATILITY but paid little attention to
+the MODELING decision_making project to obtain the
+OPTIMAL_INVESTMENT_TIMING. this PAPER_UTILIZES a least SQUARES_MONTE
+carlo_based method for determining the timing of PV_PLANT_INVESTMENT. the
+proposed PV decision_making method is designed to simulate the
+TOTAL_PV_GENERATION_REVENUE_PERIOD with all UNCERTAIN_PV_PRICE_FACTORS
+handled before determining the OPTIMAL_INVESTMENT_TIME. the
+NUMERICAL_STUDIES with nine DIFFERENT_SCENARIOS considering system
+MARGINAL_PRICE (smp) and RENEWABLE_ENERGY_CERTIFICATE (rec)
+SPOT_MARKET_PRICE in KOREA demonstrated how to determine the
+OPTIMAL_INVESTMENT_TIME for DIFFERENT_PV_CAPACITIES. therefore, the
+proposed method can be used as a decision_making tool to provide
+PV_INVESTORS with information on the best time to invest in the
+RENEWABLE_ENERGY_MARKET.  2021 by the authors. LICENSEE_MDPI, basel,
+switzerland.
+```
+
+--
+
+Record-No: 118
+Citations: 5
+Record-ID: Sánchez E., 2011, ENERGY PROCEDIA, V8, P503
+Title: outdoor monitoring of the ENERGY_YIELD and ELECTRICAL_PARAMETERS of
+STANDARD_POLYSILICON based and new UMG_SI PV modules
+Abstract:
+```
+SOLAR_CELLS made of SILICON based on upgraded METALLURGICAL_ROUTES
+(umg_si) are becoming a REAL_OPTION to the standard polysilicon_based
+multicrystalline (mc_si) devices. a lot of RESEARCH at wafer and
+CELL_LEVEL has been carried out so far. however, there is little
+experience in REAL_OPERATION_CONDITIONS of PV modules based_on umg_si
+feedstock and few of these studies have been published up to present.
+this work presents a COMPARATIVE_STUDY between typical mc_si and umg_si
+modules, manufactured following exactly the same wafer_to_module
+procedure and evaluated in REAL_OUTDOOR_CONDITIONS. the results after
+eight months of exposition to OUTDOOR_CONDITIONS show a very close
+ENERGY_PRODUCTION for both types of modules. due to their lower COST and
+SIMILAR_PERFORMANCE, modules made from UMG_SILICON_FEEDSTOCK are a more
+ECONOMIC_OPTION and could play an IMPORTANT_PART in the
+PHOTOVOLTAIC_MARKET.  2010 published by ELSEVIER_LTD.
+```
+
+--
+
+Record-No: 152
+Citations: 4
+Record-ID: Weibel S., 2014, ENERGY PROCEDIA, V61, P2196
+Title: COST effective DESIGN of RINGWALL_STORAGE_HYBRID_POWER_PLANTS: a
+REAL_OPTIONS_ANALYSIS
+Abstract:
+```
+we study the ECONOMIC_VIABILITY and optimal sizing and siting of a
+HYBRID_PLANT that combines a RINGWALL_HYDRO_STORAGE_SYSTEM with WIND and
+SOLAR_POWER_PLANTS (RINGWALL_STORAGE_HYBRID_POWER_PLANT, rshpp). a
+REAL_OPTIONS_MODEL is introduced to analyze the ECONOMICS of an
+ONSHORE_RSHPP, an in particular of the varying STORAGE_VOLUME in light of
+the STOCHASTIC_CHARACTER of WIND and SOLAR_POWER, as well as the
+OPTIMAL_INVESTMENT_TIMING under UNCERTAINTY. in fact, many uncertainties
+arise in such a project. ENERGY_PRODUCTION is determined by the
+STOCHASTIC_CHARACTER of WIND and SOLAR_POWER, and affects the
+OPTIMAL_SIZE of the STORAGE_DEVICE. MONTE_CARLO_SIMULATION is performed
+to analyze the following sources of UNCERTAINTY: (i) WIND intensity and
+SOLAR_IRRADIATION; (ii) FUTURE_ELECTRICITY_PRICE; and (iii)
+INVESTMENT_COSTS. the RESULTS_YIELD the OPTIMAL_SIZE of the
+STORAGE_DEVICE; the ENERGY_MARKET on which the operator should sell the
+ELECTRICITY generated; NUMERICAL_EXAMPLES for two
+DIFFERENT_RSHPP_APPLICATION_SCENARIOS; and a REAL_OPTIONS_MODEL for
+analyzing the opportunity to defer the PROJECT_INVESTMENT and thus to
+exploit the value of waiting.  2014 published by ELSEVIER_LTD.
+```
+
+--
+
+Record-No: 143
+Citations: 0
+Record-ID: Liu J., 2014, IEEE INT CONF MECHATRONICS AUTOM IEEE ICMA, P1411
+Title: PHOTOVOLTAIC_POWER_GENERATION_PROJECTS_INVESTMENT_RISK_ANALYSIS in
+GUIZHOU_PROVINCE, CHINA
+Abstract:
+```
+in the NEW_ELECTRICITY_MARKET_ENVIRONMENT, PV_PROJECT_INVESTMENT faces
+more INVESTMENT_RISKS. in order to guarantee the supply of ELECTRICITY
+effectively and reduce CARBON_DIOXIDE_EMISSIONS, it needs the
+RELEVANT_GOVERNMENT_DEPARTMENTS to guide investors to invest in
+CLEAN_ENERGY_GENERATION_PROJECTS with APPROPRIATE_POLICIES. based on
+REAL_OPTIONS_THEORY, this paper develops a INVESTMENT decision_model and
+a RISK_ASSESSMENT_FRAMEWORK for PV_POWER_GENERATION_PROJECTS in CHINA. in
+the case of grid_connected PV_GENERATION_DEMONSTRATION_PROJECT, this
+paper carry out INVESTMENT_DECISION_SIMULATION from the UNCERTAINTY of
+INVESTMENT_COST. the SIMULATION_RESULTS show that the model can provide
+investors an INVESTMENT_REFERENCE. meanwhile, it can be used as
+QUANTITATIVE_ANALYSIS_TOOLS for POLICY_MAKERS to make a
+REASONABLE_INVESTMENT_POLICY.  2014 ieee.
+```
+
+---------------------------------------------------------------------------
+
+Improve and make more clear the explanation of the relationships among
+the keywords:
+
+UNCERTAINTY_ANALYSIS; UNCERTAINTY_ANALYSIS; MONTE_CARLO_METHODS;
+MIXES_MONTE_CARLO_SIMULATION; MONTE; MONTECARLO_METHODS;
+MONTECARLO_SIMULATION; MONTE_CARLO; MONTE_CARLO'S_SIMULATION;
+MONTE_CARLO_ANALYSIS; MONTE_CARLO_METHOD; MONTE_CARLO_METHODS;
+MONTE_CARLO_SIMULATION; MONTE_CARLO_SIMULATIONS;
+MONTE_CARLO_SIMULATION_METHOD; MONTE_CARLO_SIMULATION_METHODS;
+CARBON_EMISSIONS; CARBON_DIOXIDE_EMISSIONS; CARBON_EMISSION;
+CARBON_EMISSIONS; CARBON_FOOTPRINT; CARBON_FOOTPRINTS; CO2_EMISSIONS;
+CURB_CARBON_EMISSIONS; GAS_EMISSIONS; GHG_EMISSIONS; GREENHOUSES_GAS;
+GREENHOUSE_GAS; GREENHOUSE_GASES; GREENHOUSE_GAS_EMISSIONS;
+LOW_CARBON_EMISSIONS; NATIONWIDE_CARBON_EMISSION; UNCERTAINTY;
+UNCERTAINTY; INVESTMENT_COSTS; INVESTMENT_COST; INVESTMENT_COSTS;
+SENSITIVITY_ANALYSIS; SENSITIVITY_ANALYSIS; CARBON; CARBON;
+CARBON_DIOXIDE; LEAST_SQUARE_MONTE_CARLO;
+LEASTSQUARES_MONTE_CARLO_ALGORITHM; LEASTSQUARES_MONTE_CARLO_METHOD;
+LEAST_SQUARE; LEAST_SQUARES_APPROXIMATIONS; LEAST_SQUARES_METHOD;
+LEAST_SQUARES_MONTE_CARLO; LEAST_SQUARES_MONTE_CARLO (LSMC);
+LEAST_SQUARES_MONTE_CARLO_SIMULATION; LEAST_SQUARE_MONTE_CARLO;
+SQUARES_MONTE; SQUARES_MONTE_CARLO; SQUARES_MONTE_CARLO_METHOD;
+SQUARES_MONTE_CARLO_SIMULATION_METHOD; SQUARE_MONTE_CARLO_METHOD;
+OPTIMAL_INVESTMENT_TIMING; OPTIMAL_INVESTMENT_TIME;
+OPTIMAL_INVESTMENT_TIMING; CARBON_PRICES; CARBON_DIOXIDE_PRICE;
+CARBON_PRICE; CARBON_PRICES; CO2_MARKET_PRICE; CO2_PRICE; CO2_PRICES;
+FUTURE_CARBON_PRICES
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the
+information provided in the records presented below. Add cites to the
+added text using the corresponding Record-No value between brackets.
+
+Here are the text to improve and make more clear:
+
+<<<
+In the dynamic and evolving field of renewable energy investment, with a specific focus on solar photovoltaic power generation, the intricate relationship between uncertainty analysis and Monte Carlo simulation methods is critical for shaping effective investment strategies. This interplay is exemplified in the extensive research of Zhang M.M., who employs real options modeling and least squares Monte Carlo simulations to navigate the complexities of investment costs, carbon pricing, and electricity market prices [125, 105, 72, 27]. These methodologies offer comprehensive insights into the valuation of investment opportunities and the optimal timing for investments, considering the variable market conditions and the evolving nature of energy policies. A recurring theme in Zhang’s research is the positive influence of carbon emissions trading schemes on investment strategies. These schemes are shown to facilitate timely investments and minimize the reliance on subsidies in renewable energy projects [125, 27]. Additionally, the volatility in investment costs, electricity prices, and carbon dioxide prices is highlighted as having a significant influence on immediate investment decisions [125].
+
+Complementing Zhang's findings, studies by Sim J. [18] and Zhang M.M. [94] further reinforce the importance of uncertainty analysis in renewable energy investments. Sim J.'s research on South Korea's transition from a fossil-based economy to a renewable energy-driven one underscores the importance of factors like renewable energy production, investment amounts, and unit prices in evaluating the economic feasibility of renewable energy R&D investments [18]. Zhang M.M. [94] delves into the volatility of cash flows in renewable energy investments, using a trinomial tree model to integrate multiple random variables, such as electricity and carbon prices, and how this affects investment decisions in China's solar photovoltaic power generation sector [94].
+
+Further insights into the complexities of renewable energy investments under uncertainty are provided by studies from Weibel S. [151], Assereto M. [16], Chen W. [44], Li Y. [35], and Kim K. [110]. Weibel S. examines the economic viability and optimal sizing of hybrid power plants, applying Monte Carlo simulation to analyze uncertainties like wind intensity, solar irradiation, future electricity prices, and investment costs [151]. Assereto M. assesses the economic feasibility of large-scale solar investments in Ireland, highlighting the critical role of policy support in ensuring the commercial viability of these projects [16]. Chen W. investigates the efficiency of electricity price subsidies versus carbon trading subsidies in the development of photovoltaic power generation, emphasizing the balancing act between immediate investment incentives and government subsidy efficiency [44]. Li Y. explores investment behavior in a photovoltaic project in the Gobi Desert, considering environmental costs and various uncertain factors like thermal power costs and carbon prices [35]. Kim K. proposes a framework based on real options for assessing the economic feasibility of photovoltaic projects under climate uncertainty, emphasizing the need to consider future climate conditions in investment decisions [110].
+
+In addition to these studies, recent research by Pan Y. [7], An J. [25], Sánchez E. [118], Weibel S. [152], and Liu J. [143] further elaborates on the relationship between uncertainty analysis, Monte Carlo simulation methods, and renewable energy investment strategies. Pan Y. builds a real options model using least squares Monte Carlo to assess investment choices for solar panel producers in China under policy uncertainties, revealing that investment decisions in all scenarios suggest immediate investment [7]. An J. utilizes a least squares Monte Carlo simulation-based method to determine the optimal timing for photovoltaic investment in Korea, highlighting the importance of uncertainty in photovoltaic price factors [25]. Sánchez E. compares standard polysilicon-based and upgraded metallurgical route silicon solar cells, demonstrating the economic option and market potential of the latter [118]. Weibel S. again delves into the economic viability of hybrid power plants, focusing on the role of uncertainties in optimal sizing and investment timing [152]. Liu J. develops an investment decision model for photovoltaic power generation projects in China, emphasizing the need for appropriate policies to guide investments in clean energy generation [143].
+
+Together, these studies paint a comprehensive picture of the multifaceted and dynamic nature of the relationship between uncertainty analysis, Monte Carlo simulation methods, and renewable energy investment strategies. They collectively underscore the significant impact of market dynamics, carbon pricing, and policy frameworks on decision-making processes in the renewable energy sector. This highlights the necessity of utilizing comprehensive analytical approaches to navigate the complexities and uncertainties inherent in this rapidly evolving field.
+>>>
+
+Here are the records:
+
+--
+
+Record-No: 141
+Citations: 0
+Record-ID: Liu Z.-L., 2014, BEIJING LIGONG DAXUE XUEBAO, V34, P92
+Title: the BRDF_MODEL for the CALIBRATION of EARTH_OBSERVE_IMAGE
+Abstract:
+```
+DATA_CALIBRATION_ALGORITHM for the enhancement of EARTH_OBSERVE_IMAGE was
+presented. a NEW_BRDF_MODEL of EARTH_OBJECTS was established for the
+CALIBRATION of EARTH_OBSERVE_IMAGE by the NATIONAL_METROLOGY_EQUIPMENT.
+through brdf ABSOLUTE_CALIBRATION, the EARTH_OBSERVE_IMAGE can be
+appeared more true. this model colligated the brdf of EARTH_OBJECTS,
+SOLAR_RADIANCE, the ATMOSPHERE_STATUS, the CORRECT_PARAMETER of
+BRDF_CALIBRATION and the SPACE_CAMERA_PARAMETER. the OUTPUT_DATA of this
+model is the enter RADIANCE_DATA for the SPACE_CAMERA. a kind of
+GROUND_GLASS for architecture is measured and the
+CORRESPOND_EARTH_OBSERVE_IMAGE is calibrated. after CALIBRATION, the
+CHROMATISM of this image is improved by 3 and the LUMINANCE_CONTRAST of
+that is improved by 3.
+```
+
+--
+
+Record-No: 145
+Citations: 0
+Record-ID: [Anonymous], 2011, IEEE PES TRONDHEIM POWERTECH POWER TECHNOL SUSTAINABLE
+SOC POWERTECH
+Title: 2011 IEEE_PES_TRONDHEIM_POWERTECH: the power of TECHNOLOGY for a
+SUSTAINABLE_SOCIETY, powertech 2011
+Abstract:
+```
+the proceedings contain 317 papers. the topics discussed include:
+balancing WIND POWER_FLUCTUATIONS with a DOMESTIC_VIRTUAL_POWER_PLANT in
+europe's first SMART_GRID; estimations of COST and CO2_EMISSIONS for
+SMART_GRIDS using a linear programming approach; assessment of
+DEMAND_RESPONSE_VALUE in PHOTOVOLTAIC_SYSTEMS based on
+REAL_OPTIONS_THEORY; SMART_GRID_EMERGENCY_CONTROL_STRATEGY for
+LOAD_TAP_CHANGERS; investigating STATE_RECONSTRUCTION from scarce
+synchronized PHASOR_MEASUREMENTS; grounding measurements in urban areas _
+comparison of low and HIGH_VOLTAGE_MEASUREMENTS in common grounding
+systems; OPTIMAL_ALLOCATION of distributed generators providing
+REACTIVE_POWER_SUPPORT_ANCILLARY_SERVICE; overloading protection of
+FUTURE_LOW_VOLTAGE_DISTRIBUTION_NETWORKS; and an EFFICIENT_METHOD for
+DISTRIBUTION_SYSTEMS_RECONFIGURATION and CAPACITOR_PLACEMENT using a
+chu_beasley based GENETIC_ALGORITHM.
+```
+
+--
+
+Record-No: 146
+Citations: 0
+Record-ID: Sarkis J., 2005, PROC SPIE INT SOC OPT ENG, V5997
+Title: a quadranomial REAL_OPTIONS_MODEL for EVALUATION of EMISSIONS_TRADING and
+TECHNOLOGY
+Abstract:
+```
+GREEN_HOUSE_GAS (ghg) EMISSIONS have been tied to GLOBAL_CLIMATE change.
+one POPULAR_POLICY_INSTRUMENT that seems to have gained credibility with
+explicit mention of its application in the KYOTO_PROTOCOL is the use of
+permit trading and cap_and_trade MECHANISMS. organizations functioning
+within this environment will need to manage their resources appropriately
+to remain competitive. organizations will either have the opportunity to
+purchase EMISSIONS_CREDITS (offsets) from a MARKET trading scheme or seek
+to reduce their EMISSIONS through DIFFERENT_MEASURES. some measures may
+include INVESTMENT in NEW_TECHNOLOGIES that will reduce their reliance on
+ghg emitting practices. in many countries, LARGE_ORGANIZATIONS and
+INSTITUTIONS_GENERATE their OWN_POWER to operate their facilities. much
+of this power is generated (or bought) from ghg producing TECHNOLOGY.
+SPECIFIC_RENEWABLE_ENERGY_SOURCES such as WIND and
+SOLAR_PHOTOVOLTAIC_TECHNOLOGY may become more FEASIBLE_ALTERNATIVES
+available to a LARGE_PERCENTAGE of these organizations if they are able
+to take advantage and incorporate the MARKET for GHG_EMISSIONS trading in
+their analyses. to help organizations evaluate INVESTMENT in these
+RENEWABLE_ENERGY_TECHNOLOGIES we introduce a REAL_OPTIONS based model
+that will take into CONSIDERATION_UNCERTAINTIES associated with the
+TECHNOLOGY and those associated with the ghg trading MARKET. the
+REAL_OPTIONS_ANALYSIS will consider both the stochastic (UNCERTAINTY)
+nature of the exercise price of the TECHNOLOGY and the STOCHASTIC_NATURE
+of the MARKET trading price of the GHG_EMISSIONS.
+```
+
+
