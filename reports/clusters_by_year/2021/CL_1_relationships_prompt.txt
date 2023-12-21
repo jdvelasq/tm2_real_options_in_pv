@@ -1,0 +1,147 @@
+You are an automated scientific writer assistant. Use only the
+information provided in the following records to write one paragraph
+explaining and exemplifying the relationships among the following
+keywords:
+
+COSTS; STOCHASTIC_PROCESS; POWER_GENERATION; WIND_ENERGY;
+ELECTRICITY_GENERATION; COAL; COAL_INDUSTRY; DYNAMIC_PROGRAMMING;
+OPTIMIZATION; FEED_IN_TARIFFS
+
+Use the Record-No value between brackets to indicate the reference to the
+record. For example, [1] means that the information is in the Record-No
+1. Use notes below of the generated text to justify the affirmation. Use
+only phrases appearing in the provided text.
+
+Here are the records:
+
+--
+
+Record-No: 71
+Citations: 27
+Record-ID: Fan J.-L., 2020, INT J GREENH GAS CONTROL, V92
+Title: a comparison of the REGIONAL_INVESTMENT_BENEFITS of CCS_RETROFITTING of
+COAL fired POWER_PLANTS and RENEWABLE_POWER_GENERATION_PROJECTS in CHINA
+Abstract:
+```
+CARBON_DIOXIDE (co2) capture and storage (ccs) TECHNOLOGY and
+RENEWABLE_POWER are indispensable in CHINA's power sector to limit
+GLOBAL_WARMING to 2c. because the two technologies have their OWN_MERITS
+and weaknesses, it is important to understand their INVESTMENT_BENEFITS
+and choose a cost_effective portfolio. therefore, we conducted an
+INVESTMENT_EVALUATION of CCS_RETROFITTING of coal_fired POWER_PLANTS
+(cfpp) with HYPOTHETICAL_SUBSIDIES and
+RENEWABLE_POWER_GENERATION_PROJECTS (rpp) by using a
+REAL_OPTION_TRINOMIAL_TREE PRICING model and compared their
+ECONOMIC_BENEFITS in DIFFERENT_PROVINCES in CHINA. the results showed
+that when subsidies for the DESULFURIZATION_PRICE or the feed_in tariff
+of WIND_POWER were adopted, the CCS_RETROFITTING of cfpp did not achieve
+the OPTIMAL_INVESTMENT_VALUE, even in 2027. if the decarbonized
+ELECTRICITY_PRICE_INCREASES to 0.75 cny/kwh, equal to the feed_in tariff
+of SOLAR_PHOTOVOLTAIC and BIOMASS_POWER, the CCS_RETROFITTING of cfpp
+would be commercially viable, and their INVESTMENT_VALUE would exceed
+that of WIND POWER_GENERATION_PROJECTS. in this situation, ningxia,
+xinjiang, and GANSU_PROVINCES would be most suitable for the development
+of CCS_RETROFITTING PILOT_PROJECTS; the advantages of the
+CCS_RETROFITTING of cfpp were not significant, WHEREAS_RPP was a better
+INVESTMENT_CHOICE in many provinces. this paper provides a perspective on
+feed_in tariffs for POLICY_MAKERS to use in formulating a SUBSIDY_SYSTEM
+to support the development of ccs in CHINA, with POLICY_IMPLICATIONS for
+other countries.  2019 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 94
+Citations: 25
+Record-ID: Zhang M.M., 2020, ENERGY ECON, V92
+Title: valuing INVESTMENT_DECISIONS of RENEWABLE_ENERGY_PROJECTS considering
+CHANGING_VOLATILITY
+Abstract:
+```
+VOLATILITY is an IMPORTANT_PARAMETER when evaluating INVESTMENTS using
+the REAL_OPTIONS_METHOD. for RENEWABLE_ENERGY_INVESTMENTS, the VOLATILITY
+of CASH_FLOW continuously changes, because as NEW_INFORMATION and
+knowledge are gathered, there is less FORESEEN_VARIATION. this paper
+proposes an extended recombining TRINOMIAL_TREE_MODEL, where the
+CHANGING_VOLATILITY is used to GENERATE_TRANSITION_PROBABILITIES. the
+CHANGING_VOLATILITY is generated using a CONSOLIDATION_PROCESS where
+MULTIPLE_RANDOM_VARIABLES, including the MARKET_PRICE of ELECTRICITY,
+CARBON_PRICE, and lending rate, are integrated into a low_dimension
+STOCHASTIC_PROCESS. a two_factor LEARNING_CURVE is used to model the
+changes of INVESTMENT_COST. we apply the proposed model to
+ANALYZE_SOLAR_PHOTOVOLTAIC (PV) POWER_GENERATION_INVESTMENT in CHINA. the
+results show VOLATILITY with changing feature. compared with
+CONSTANT_VOLATILITY, CHANGING_VOLATILITY may advance INVESTMENT_DECISIONS
+and change the PROJECT_VALUE. COMPLETE_GRID_PARITY_POLICY in the
+SOLAR_PV_INDUSTRY is infeasible because the OPPORTUNITY_COST brought by
+the option of delaying cannot be offset. the CHANGING_VOLATILITY may
+produce a lower and equally EFFECTIVE_SUBSIDY_LEVEL compared with
+CONSTANT_VOLATILITY. a CARBON_EMISSION trading scheme is helpful in
+advancing INVESTMENTS in RENEWABLE_ENERGY, which is reflected in
+improvements in PROJECT_VALUE, advancements in INVESTMENT_DECISIONS, and
+reductions in the required SUBSIDY_LEVEL.  2020 elsevier b.v.
+```
+
+--
+
+Record-No: 15
+Citations: 15
+Record-ID: Das Gupta S., 2021, ENERGY POLICY, V148
+Title: using REAL_OPTIONS to VALUE_CAPACITY_ADDITIONS and
+INVESTMENT_EXPENDITURES in RENEWABLE_ENERGIES in INDIA
+Abstract:
+```
+we calculate the OVERALL_POLICY_VALUE of installed CAPACITY_ADDITIONS and
+INVESTMENT_EXPENDITURES in WIND and SOLAR_ENERGIES in INDIA.
+RECENT_INCREASES in CAPACITY_ADDITIONS and INVESTMENTS by both the public
+and PRIVATE_SECTORS along with GOVERNMENT_SUPPORT_SCHEMES have made these
+energies more competitive with traditional FUELS like COAL in generating
+ELECTRICITY. we use a two_factor LEARNING_CURVE to model the decline in
+prices of WIND and SOLAR_ENERGIES. employing a REAL_OPTIONS_APPROACH with
+GLOBAL_COAL_PRICES as the STOCHASTIC_VARIABLE we find the OVERALL_VALUE
+of PROMOTION_POLICIES in RENEWABLES to be sufficiently large. the
+TRIGGER_PRICE of COAL for INVESTMENT in RENEWABLE_ENERGIES today for
+ELECTRICITY_GENERATION suggest early to IMMEDIATE_DEPLOYMENT of
+ADDITIONAL_WIND and SOLAR_TECHNOLOGIES as the OPTIMAL_POLICY. with the
+option to deploy for a longer TIME_HORIZON, continuing with
+PROMOTION_POLICIES of CAPACITY_ADDITIONS and INVESTMENT_EXPENDITURES in
+RENEWABLES is more valuable at HIGH_GLOBAL_COAL_PRICES.  2020
+ELSEVIER_LTD
+```
+
+--
+
+Record-No: 67
+Citations: 4
+Record-ID: Das Gupta S., 2020, INT J ENERGY SECT MANAGE, V14, P757
+Title: evaluating INDIAS_ENERGY_TARGETS using REAL_OPTIONS_APPROACH
+Abstract:
+```
+purpose: the AUTHORS_FORMULATE_INDIAS_ENERGY_TARGETS in light of pushing
+for RENEWABLE_ENERGY_SOURCES and reducing the dependence on imported
+COAL. share of imported COAL in ELECTRICITY_GENERATION has been
+approximately 10 per cent in RECENT_YEARS. while INVESTMENTS in
+RENEWABLES have grown in RECENT_YEARS as seen in INSTALLED_CAPACITIES,
+coal_fired ELECTRICITY_GENERATION has grown because of rising demand for
+ELECTRICITY. the purpose of this study is to find a PLANNER_SOLUTION when
+HIGH_GLOBAL_COAL_PRICES_FORCE greater INVESTMENTS in RENEWABLE_ENERGIES.
+DESIGN/methodology/approach: the authors use REAL_OPTIONS_APPROACH where
+GLOBAL_COAL_PRICES are the STOCHASTIC_VARIABLE. they present an
+OPTIMAL_STOPPING_PROBLEM and solving the PROBLEM_BACKWARD, the revenues
+from continuing with the CURRENT_ENERGY_GENERATION_MIX and those from
+replacing imported COAL with WIND_AND_SOLAR is compared for each period.
+findings: the TRIGGER_PRICE for GLOBAL_COAL_PRICES when it is optimal for
+the SOCIAL_PLANNER to invest in ADDITIONAL_WIND and SOLAR_CAPACITIES is
+found. TRIGGER_PRICES is the threshold when INVESTMENT must be undertaken
+whatever be the FUTURE_EVOLUTION of COAL_PRICES; this gives the problem a
+value of waiting. INDIA cannot afford to wait to invest if faced with
+strict short_term goals. originality/value: the WORK_EVALUATES_INDIAS
+DOMESTIC_TARGETS and its PARIS_AGREEMENT_GOALS in light of using more of
+WIND and sun and replacing imported COAL. VARIOUS_DATA_SOURCES
+(GOVERNMENT_REPORTS, RESEARCH_ARTICLES) are consulted to predict shares
+of ELECTRICITY from VARIOUS_SOURCES in FUTURE and the authors find the
+OPERATING_COSTS and the INVESTMENT_COSTS associated with switching to
+RENEWABLES.  2020, emerald publishing limited.
+```
+
+

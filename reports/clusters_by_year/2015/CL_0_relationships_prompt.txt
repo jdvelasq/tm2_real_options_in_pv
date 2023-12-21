@@ -1,0 +1,99 @@
+You are an automated scientific writer assistant. Use only the
+information provided in the following records to write one paragraph
+explaining and exemplifying the relationships among the following
+keywords:
+
+ECONOMIC_VIABILITY; INVESTMENT_COSTS; ENERGY_PRODUCTIONS;
+FUTURE_ELECTRICITY_PRICE; HYBRID_PLANT; HYBRID_POWER_PLANTS;
+IRREVERSIBLE_INVESTMENTS; NUMERICAL_EXAMPLES; ONSHORE_RSHPP; OPTIMAL_SIZE
+
+Use the Record-No value between brackets to indicate the reference to the
+record. For example, [1] means that the information is in the Record-No
+1. Use notes below of the generated text to justify the affirmation. Use
+only phrases appearing in the provided text.
+
+Here are the records:
+
+--
+
+Record-No: 151
+Citations: 17
+Record-ID: Weibel S., 2015, ENERGY CONVERS MANAGE, V103, P871
+Title: COST effective DESIGN of RINGWALL_STORAGE_HYBRID_POWER_PLANTS: a
+REAL_OPTIONS_ANALYSIS
+Abstract:
+```
+abstract we study the ECONOMIC_VIABILITY and optimal sizing and siting of
+a HYBRID_PLANT that combines a RINGWALL_HYDRO_STORAGE_SYSTEM with WIND
+and SOLAR_POWER_PLANTS (RINGWALL_STORAGE_HYBRID_POWER_PLANT, rshpp). a
+REAL_OPTIONS_MODEL is introduced to analyze the ECONOMICS of an
+ONSHORE_RSHPP, and in particular of the varying STORAGE_VOLUME in light
+of the STOCHASTIC_CHARACTER of WIND and SOLAR_POWER, as well as the
+OPTIMAL_INVESTMENT_TIMING under UNCERTAINTY. in fact, many uncertainties
+arise in such a project. ENERGY_PRODUCTION is determined by the
+STOCHASTIC_CHARACTER of WIND and SOLAR_POWER, and affects the
+OPTIMAL_SIZE of the STORAGE_DEVICE. MONTE_CARLO_SIMULATION is performed
+to analyze the following sources of UNCERTAINTY: (i) WIND intensity and
+SOLAR_IRRADIATION; (ii) FUTURE_ELECTRICITY_PRICE; and (iii)
+INVESTMENT_COSTS. the RESULTS_YIELD the OPTIMAL_SIZE of the
+STORAGE_DEVICE; the ENERGY_MARKET on which the operator should sell the
+ELECTRICITY generated; NUMERICAL_EXAMPLES for two
+DIFFERENT_RSHPP_SCENARIOS; and a REAL_OPTIONS_MODEL for analyzing the
+opportunity to defer the PROJECT_INVESTMENT and thus to exploit the value
+of waiting.  2015 ELSEVIER_LTD.
+```
+
+--
+
+Record-No: 152
+Citations: 4
+Record-ID: Weibel S., 2014, ENERGY PROCEDIA, V61, P2196
+Title: COST effective DESIGN of RINGWALL_STORAGE_HYBRID_POWER_PLANTS: a
+REAL_OPTIONS_ANALYSIS
+Abstract:
+```
+we study the ECONOMIC_VIABILITY and optimal sizing and siting of a
+HYBRID_PLANT that combines a RINGWALL_HYDRO_STORAGE_SYSTEM with WIND and
+SOLAR_POWER_PLANTS (RINGWALL_STORAGE_HYBRID_POWER_PLANT, rshpp). a
+REAL_OPTIONS_MODEL is introduced to analyze the ECONOMICS of an
+ONSHORE_RSHPP, an in particular of the varying STORAGE_VOLUME in light of
+the STOCHASTIC_CHARACTER of WIND and SOLAR_POWER, as well as the
+OPTIMAL_INVESTMENT_TIMING under UNCERTAINTY. in fact, many uncertainties
+arise in such a project. ENERGY_PRODUCTION is determined by the
+STOCHASTIC_CHARACTER of WIND and SOLAR_POWER, and affects the
+OPTIMAL_SIZE of the STORAGE_DEVICE. MONTE_CARLO_SIMULATION is performed
+to analyze the following sources of UNCERTAINTY: (i) WIND intensity and
+SOLAR_IRRADIATION; (ii) FUTURE_ELECTRICITY_PRICE; and (iii)
+INVESTMENT_COSTS. the RESULTS_YIELD the OPTIMAL_SIZE of the
+STORAGE_DEVICE; the ENERGY_MARKET on which the operator should sell the
+ELECTRICITY generated; NUMERICAL_EXAMPLES for two
+DIFFERENT_RSHPP_APPLICATION_SCENARIOS; and a REAL_OPTIONS_MODEL for
+analyzing the opportunity to defer the PROJECT_INVESTMENT and thus to
+exploit the value of waiting.  2014 published by ELSEVIER_LTD.
+```
+
+--
+
+Record-No: 143
+Citations: 0
+Record-ID: Liu J., 2014, IEEE INT CONF MECHATRONICS AUTOM IEEE ICMA, P1411
+Title: PHOTOVOLTAIC_POWER_GENERATION_PROJECTS_INVESTMENT_RISK_ANALYSIS in
+GUIZHOU_PROVINCE, CHINA
+Abstract:
+```
+in the NEW_ELECTRICITY_MARKET_ENVIRONMENT, PV_PROJECT_INVESTMENT faces
+more INVESTMENT_RISKS. in order to guarantee the supply of ELECTRICITY
+effectively and reduce CARBON_DIOXIDE_EMISSIONS, it needs the
+RELEVANT_GOVERNMENT_DEPARTMENTS to guide investors to invest in
+CLEAN_ENERGY_GENERATION_PROJECTS with APPROPRIATE_POLICIES. based on
+REAL_OPTIONS_THEORY, this paper develops a INVESTMENT decision_model and
+a RISK_ASSESSMENT_FRAMEWORK for PV_POWER_GENERATION_PROJECTS in CHINA. in
+the case of grid_connected PV_GENERATION_DEMONSTRATION_PROJECT, this
+paper carry out INVESTMENT_DECISION_SIMULATION from the UNCERTAINTY of
+INVESTMENT_COST. the SIMULATION_RESULTS show that the model can provide
+investors an INVESTMENT_REFERENCE. meanwhile, it can be used as
+QUANTITATIVE_ANALYSIS_TOOLS for POLICY_MAKERS to make a
+REASONABLE_INVESTMENT_POLICY.  2014 ieee.
+```
+
+

@@ -1,0 +1,454 @@
+You are an automated scientific writer assistant. Use only the
+information provided in the following records to write one paragraph
+explaining and exemplifying the relationships among the following
+keywords:
+
+INVESTMENT_DECISIONS; PRESENT_VALUES; ECONOMICS; NET_PRESENT_VALUE;
+ENERGY_POLICY; CARBON_EMISSIONS; DEFER_OPTION; CASH_FLOW_ANALYSIS;
+UNCERTAINTY; PROJECT_VALUES
+
+Use the Record-No value between brackets to indicate the reference to the
+record. For example, [1] means that the information is in the Record-No
+1. Use notes below of the generated text to justify the affirmation. Use
+only phrases appearing in the provided text.
+
+Here are the records:
+
+--
+
+Record-No: 43
+Citations: 34
+Record-ID: Ma R., 2021, ENERGY POLICY, V151
+Title: the impact of feed in TARIFF_DEGRESSION on r&D_INVESTMENT in
+RENEWABLE_ENERGY: the case of the SOLAR_PV_INDUSTRY
+Abstract:
+```
+feed_in tariff (fit) is a broadly used POLICY_INSTRUMENT around the
+world, in which the PAYMENT_LEVEL is always designed to decline gradually
+in order to track and encourage TECHNOLOGICAL_IMPROVEMENT in
+RENEWABLE_ENERGY. however, the POTENTIAL_ADVERSE_EFFECTS of
+TARIFF_DEGRESSION on RENEWABLE_ENERGY_RESEARCH and development (r&d)
+INVESTMENT have not been sufficiently addressed. in this paper, we
+explore the impact of FIT_PAYMENT_DEGRESSION on
+RENEWABLE_ENERGY_R&D_INVESTMENT and analyze the
+EFFICIENT_FIT_PAYMENT_STRUCTURE for r&D_INVESTMENT. we form a MODELING
+framework that captures the dynamics of FIT_PAYMENT_LEVELS and the
+inventor's STRATEGIC_REACTIONS to TARIFF_CHANGES. in this framework, we
+model the inventor's optimal r&D_INVESTMENT_DECISIONS based on the
+canonical REAL_OPTION_APPROACH and simulate the impact of
+FIT_PAYMENT_DEGRESSION on r&D_INVESTMENT and the
+EFFICIENT_FIT_PAYMENT_STRUCTURE under DIFFERENT_R&D_CHARACTERISTICS using
+the case of the SOLAR_PHOTOVOLTAIC (PV) industry. our results emphasize
+the ADVERSE_EFFECT of TARIFF_DEGRESSION on the COMMERCIAL_VALUE of
+NEW_RENEWABLE_TECHNOLOGY and hence the inventor's INCENTIVE in
+r&D_INVESTMENT, especially when facing more TECHNICAL_UNCERTAINTY and
+FINANCIAL_CONSTRAINTS. our model could help policymakers to DESIGN an
+EFFICIENT_FIT_PAYMENT_STRUCTURE through which the COST of the FIT_PROGRAM
+is restricted to a MINIMUM_LEVEL but without influencing the inventor's
+r&D_INVESTMENT_DECISIONS.  2021 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 98
+Citations: 16
+Record-ID: Vargas C., 2021, J SUSTAIN  FINANCE  INVEST, V11, P82
+Title: end of life decommissioning and recycling of SOLAR_PANELS in the
+UNITED_STATES. a REAL_OPTIONS_ANALYSIS
+Abstract:
+```
+hundreds of thousands of tons of SOLAR_PANEL_WASTE are estimated to be
+produced yearly in the UNITED_STATES from the year 2035 on, most of which
+could be recycled. this PAPER_ESTIMATES the amount of SCRAP_MATERIAL to
+be produced from SOLAR_PANELS decommissioning and determines the
+OPTIMAL_DATE and location to establish either centralized or regional
+recycling centers to better deal with this issue from the perspective of
+the u.s. GOVERNMENT as POTENTIAL_INVESTOR. SOLAR_PANEL recycling could
+become a multi_billion usd industry, however, the MAIN_CHALLENGE today is
+to keep its OVERALL_COSTS down while allowing for the majority of panels
+to be recycled. REAL_OPTIONS_ANALYSIS is deployed to assess the
+OPTIMAL_SOLUTION to face this challenge. determining the OPTIMAL_LOCATION
+of those facilities is a NOVEL_APPROACH. further applications of the
+model proposed in this work could scale up this analysis at an
+INTERNATIONAL_LEVEL.  2020 INFORMA_UK limited, trading as taylor &
+FRANCIS_GROUP.
+```
+
+--
+
+Record-No: 66
+Citations: 12
+Record-ID: Isaza Cuervo F., 2021, RENEW ENERGY FOCUS, V36, P96
+Title: PHOTOVOLTAIC_POWER_PURCHASE_AGREEMENT_VALUATION under
+REAL_OPTIONS_APPROACH
+Abstract:
+```
+RENEWABLE_ENERGIES are an alternative to explore NEW_BUSINESS_MODELS in
+COLOMBIA, especially when the NEW_REGULATION associated with law 1715 is
+considered. in this work the FINANCIAL_FEASIBILITY of a
+POWER_PURCHASE_AGREEMENT (ppa) that USES_PHOTOVOLTAIC_ENERGY is analyzed
+from the perspective of a non_traditional investor. in this paper, the
+FINANCIAL_FEASIBILITY of a PPA_BUSINESS was analyzed considering some of
+the benefits offered by law 1715 through the use of discounted cash flows
+and REAL_OPTION_ANALYSIS. the results show that TAX_BENEFITS (included on
+law 1715) improve the FEASIBILITY of this BUSINESS_MODELS in COLOMBIA,
+nevertheless, the DEFER_OPTION_VALUE suggest the convenience of delaying
+the INVESTMENT. this WORK_CONTRIBUTES to the analysis of the effect of
+the RENEWABLE_ENERGY_POLICY_INCENTIVES and the development of
+NEW_BUSINESS_MODELS based on RENEWABLE_ENERGIES and the analysis of
+decisions that help include PHOTOVOLTAIC_ENERGY in COLOMBIA.  2020
+ELSEVIER_LTD
+```
+
+--
+
+Record-No: 80
+Citations: 12
+Record-ID: Nunes L.E., 2021, ENERGY, V231
+Title: switch and DEFER_OPTION in RENEWABLE_ENERGY_PROJECTS: evidences from
+BRAZIL
+Abstract:
+```
+the GLOBAL_ELECTRICITY_SECTOR is responsible for a LARGE_SHARE of
+GREENHOUSE_GAS. RENEWABLE_ENERGY (re) is a FEASIBLE_ALTERNATIVE to
+maintain SUSTAINABLE_GROWTH and ECONOMIC_DEVELOPMENT, as it appears to be
+a means to reduce EMISSIONS and DECARBONIZE_ECONOMIES.
+RENEWABLE_ENERGY_PROJECTS present some uncertainties and flexibilities
+that are ignored by TRADITIONAL_METHODS of EVALUATION, such as the net
+PRESENT_VALUE (NPV), which can lead to undervaluation. this PAPER_AIMS to
+assess the switch_output option and DEFER_OPTION for RE_PROJECTS
+according to their features in the BRAZILIAN_ELECTRICITY_MARKET. the
+REAL_OPTIONS_APPROACH (ROA) for RE_PROJECTS seeks to capture the value of
+uncertainties and flexibilities that all projects have from an investor's
+point of view. then, when we adopted a more SOPHISTICATED_APPROACH that
+VALUES_FLEXIBILITIES and uncertainties for RE_PROJECTS, it was possible
+to conclude that there was a CLEAR_INCREASE in value when compared to
+TRADITIONAL_INVESTMENT_ANALYSIS_METHODS like the NPV.  2021 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 30
+Citations: 11
+Record-ID: Di Bari A., 2020, ENERGIES, V13
+Title: a REAL_OPTIONS_APPROACH to VALUATE_SOLAR_ENERGY_INVESTMENT with
+PUBLIC_AUTHORITY_INCENTIVES: the ITALIAN_CASE
+Abstract:
+```
+SOLAR_ENERGY_INVESTMENT represents currently a VALID_REASON to support
+SUSTAINABLE_ECONOMIC_DEVELOPMENT. in fact, over the last few YEARS,
+governments have applied DIFFERENT_MEASURES to incentivize
+PRIVATE_CONSUMERS and firms to use RENEWABLE_ENERGIES. PHOTOVOLTAIC (PV)
+projects are characterized by UNCERTAINTY due to
+METEOROLOGICAL_CONDITIONS, the UNPREDICTABLE_BEHAVIOR of GOVERNMENT, and
+MANAGERIAL_FLEXIBILITY. since the net PRESENT_VALUE (NPV) approach is not
+able to capture these UNCERTAIN_FACTORS, it was replaced with the
+REAL_OPTIONS_APPROACH (ROA). the latter METHOD_MANAGES to embed
+FLEXIBILITY in PV_INVESTMENT using BINOMIAL_TREES. this
+PAPER_VALUATES_PV_INVESTMENT in all REGIONAL_AREAS in ITALY using an
+integrated approach between the discounted cash flows method and
+REAL_OPTION_VALUE, called expanded net PRESENT_VALUE (ENPV). we fit the
+PROBABILITY of TAX_BENEFITS into a BINOMIAL_LATTICE_MODEL after analyzing
+the GEOGRAPHICAL_POSITION and WEATHER_CONDITIONS of all REGIONAL_CAPITALS
+of ITALY. the results show that the cities with high
+irradiance/temperature have POSITIVE_NPV and HIGH_INVESTMENT_VALUES. on
+the other hand, while most cities have NEGATIVE_NPV, the inclusion of the
+FLEXIBILITY in INVESTMENT_DECISIONS gives ADDITIONAL_VALUE to the
+project, making the ENPV positive and implying an
+ATTRACTIVE_INVESTMENT_OPPORTUNITY with the possibility of delaying the
+project. we also propose a SENSITIVITY_ANALYSIS that shows how the
+REAL_OPTION_VALUE_CHANGES when INCENTIVE_POLICIES of the GOVERNMENT
+become more attractive. this PAPER_CONTRIBUTES to the existing literature
+in the way of considering FINANCIAL, meteorological/geographical, and
+POLITICAL_FACTORS to VALUATE_PV_INVESTMENT.  2020 MDPI_AG. all rights
+reserved.
+```
+
+---------------------------------------------------------------------------
+
+Improve and make more clear the explanation of the relationships among
+the keywords:
+
+INVESTMENT_DECISIONS; PRESENT_VALUES; ECONOMICS; NET_PRESENT_VALUE;
+ENERGY_POLICY; CARBON_EMISSIONS; DEFER_OPTION; CASH_FLOW_ANALYSIS;
+UNCERTAINTY; PROJECT_VALUES
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the
+information provided in the records presented below. Add cites to the
+added text using the corresponding Record-No value between brackets.
+
+Here are the text to improve and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+--
+
+Record-No: 91
+Citations: 10
+Record-ID: Balibrea-Iniesta J., 2020, ENERGIES, V13
+Title: ECONOMIC_ANALYSIS of RENEWABLE_ENERGY_REGULATION in france: a CASE_STUDY
+for PHOTOVOLTAIC_PLANTS based on REAL_OPTIONS
+Abstract:
+```
+in this work, a NOVEL_METHODOLOGY based on the REAL_OPTIONS_THEORY has
+been developed for the EVALUATION of PHOTOVOLTAIC_ENERGY_PROJECTS with a
+capacity greater than 100 kw in france. FRENCH_LEGISLATION that regulates
+these types of projects presents two REAL_OPTIONS: on the one hand, the
+producer has a put option that consists of choosing between a feed_in
+tariff system and ELECTRICITY_MARKET_SALE_PRICES every year, and this put
+OPTION_COINCIDES with PUBLIC_SUBSIDIES granted by the
+FRENCH_ADMINISTRATION. on the other hand, the FRENCH_ADMINISTRATION has a
+CALL_OPTION that provides a benefit to the PUBLIC_SECTOR. this
+OPTION_SUPPOSES a limit on the subsidized PRODUCTION of ELECTRICITY and
+reduces the value of the project to the promoter. the value of the put
+option is 4.28  per mwh generated. the extended net PRESENT_VALUE has a
+value of 5.26 million euros. the BREAKEVEN_POINT of the project is
+achieved with an increase of 59% in the regulated rate. this means that
+the FRENCH_ADMINISTRATION must increase the value of PUBLIC_SUBSIDIES if
+it wants to develop large_scale projects.  2020 by the author.
+LICENSEE_MDPI, basel, switzerland. this ARTICLE is an OPEN_ACCESS_ARTICLE
+distributed under the terms and conditions of the
+CREATIVE_COMMONS_ATTRIBUTION (cc by) license
+(http://creativecommons.org/licenses/by/4.0/).
+```
+
+--
+
+Record-No: 17
+Citations: 9
+Record-ID: Biancardi M., 2021, CHAOS SOLITONS FRACTALS, V153
+Title: r&D_INVESTMENT_DECISION on SMART_CITIES: ENERGY_SUSTAINABILITY and
+opportunity
+Abstract:
+```
+PUBLIC_ADMINISTRATIONS frequently tend to make communities as much
+sustainable as possible pursuing SMART_CITY_GOALS.
+SOLAR_ENERGY_INVESTMENTS represent a VALID_OPPORTUNITY to
+SUPPORT_SMART_CITIES and consequently the
+SUSTAINABLE_ECONOMIC_DEVELOPMENT. the VALUATION of these projects is not
+a SIMPLE_TASK considering their SEQUENTIAL_NATURE and riskiness. this
+ARTICLE proposes a compound REAL_OPTIONS_APPROACH (ROA) as a tool for
+POTENTIAL_INVESTORS to make a CONSCIOUS_R&d RENEWABLE_INVESTMENT_DECISION
+on SMART_CITIES. in this sense, we fit the COMPOUND_ROA with the
+framework of a TYPICAL_SMART_CITY_PROJECT in SOLAR_ENERGY_FIELD. we also
+provide a CASE_STUDY to make a comparison between classical expected net
+PRESENT_VALUE (ENPV) approach and COMPOUND_ROA. the results show that
+ENPV_UNDERESTIMATES the PROJECT_VALUE, WHEREAS_COMPOUND_ROA allows to
+obtain a more ATTRACTIVE_VALUATION of the project by embedding in the
+analysis the MANAGERIAL_FLEXIBILITY_VALUE.  2021 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 4
+Citations: 6
+Record-ID: Sisodia G.S., 2021, BR FOOD J, V123, P1560
+Title: BUSINESS_VALUATION_STRATEGY for NEW_HYDROPONIC_FARM_DEVELOPMENT  a
+proposal towards SUSTAINABLE_AGRICULTURE_DEVELOPMENT in united
+ARAB_EMIRATES
+Abstract:
+```
+purpose: this STUDY_AIMS to evaluate a HYDROPONIC_FARM (through
+NUTRIENT_FILM_TECHNIQUE) while considering UNCERTAINTY, SUSTAINABILITY
+and the system's utility in the DOMINANT_DESERT_GEOGRAPHY. the idea of
+the HYDROPONIC_FARM is to allow individuals/businesses to grow plants.
+given the GEOGRAPHICAL_CONDITION, the HYDROPONIC_SYSTEM may be useful in
+the GULF_CONTEXT and may lead to FOOD_SECURITY and SUSTAINABILITY.
+additionally, the UAE_GOVERNMENT has initiated several SUPPORT_SCHEMES
+that can be availed for investing in SUCH_BUSINESSES that can contribute
+to the nation's FOOD_SECURITY. DESIGN/methodology/approach: the
+HYDROPONIC_FARM is evaluated using the net PRESENT_VALUE and
+REAL_OPTIONS_APPROACH. the authors studied five scenarios: 1. business as
+usual, 2. 50% SUBSIDY on INITIAL_INVESTMENT through khalifa FUNDING, 3.
+4% premium, 4. SUBSIDY plus premium and 5. SOLAR_PANEL installation with
+bore well. findings: as per the assumptions and DATA_USAGE, all the
+SCENARIOS_SHOWS a POSITIVE_NET PRESENT_VALUE (NPV); nevertheless,
+scenarios 4 and 5 report the significant highest net present and
+DELAY_VALUE. RESEARCH limitations/implications: this study has
+environmental, economic and SOCIAL_IMPLICATIONS. lower IMPORTS indirectly
+lead to lower CARBON_FOOTPRINTS. the LOCAL_PRODUCTION of FOOD_ENSURES
+higher EMPLOYABILITY in the sector and increase in LOCAL_CONSUMPTION.
+additionally, FRESH_FOOD_CONSUMPTION is directly associated to
+GOOD_HEALTH. PRACTICAL_IMPLICATIONS: SUPPORTIVE_POLICIES such as
+subsidies through khalifa FUNDING may accelerate the expansion of
+SUCH_PROJECTS through domestic and FOREIGN_INVESTMENTS. one of the
+IMPORTANT_TAKEAWAY from the study is to invest in the training of the
+WORKFORCE. SOCIAL_IMPLICATIONS: given the GEOGRAPHICAL_CONDITION, the uae
+usually depends on FOOD_IMPORTS. if the HYDROPONIC_FARMS become popular,
+the residents will have access to FRESH_VEGETABLES and fruits. higher
+engagement in AGRICULTURE_ACTIVITIES also ensures a SIGNIFICANT_INCREASE
+in agriculture_related businesses and higher EMPLOYABILITY.
+originality/value: the study adds novelty to the literature because the
+effect of khalifa FUNDING and INVESTMENT_ANALYSIS on SOLAR (wells) has
+not been evaluated in any HYDROPONIC_STUDIES. we presented the results
+with TORNADO_GRAPHS using NPV_RISK and REAL_OPTIONS_APPROACH in the
+GULF_CONTEXT. the study represents FUNCTIONAL_SCENARIOS that were
+previously not found in the literature.  2020, emerald publishing
+limited.
+```
+
+--
+
+Record-No: 13
+Citations: 3
+Record-ID: Greenberg D., 2021, ELECTRONICS (SWITZERLAND), V10
+Title: VALUATION of WIND ENERGY_TURBINES using VOLATILITY of WIND and price
+Abstract:
+```
+the limitedness of the NONRENEWABLE_LOCAL_ENERGY_RESOURCES in israel,
+even in the background of the later GAS_FIELDS_FINDINGS, continues to
+force the state to devote VARIOUS_EFFORTS towards
+GREEN_ENERGY_DEVELOPMENT. these efforts include installations, both for
+the SOLAR and for WIND_ENERGY, thus improving the diversity of
+ENERGY_SOURCES. while the standard discounted CASH_FLOW (dcf) method
+using the net PRESENT_VALUE (NPV) criterion is extensively adopted to
+evaluate INVESTMENTS, the STANDARD_DCF_METHOD is inappropriate for the
+rapidly changing INVESTMENT_CLIMATE and for the MANAGERIAL_FLEXIBILITY in
+INVESTMENT_DECISIONS. in RECENT_YEARS, the REAL_OPTIONS_ANALYSIS (ROA)
+technique has been widely applied in many studies for the VALUATION of
+RENEWABLE_ENERGY_INVESTMENT_PROJECTS. taking into account the
+ABOVE_BACKGROUND, we apply, in this study, the
+REAL_OPTIONS_ANALYSIS_APPROACH for the VALUATION of WIND ENERGY_TURBINES
+and apply it to the analysis of WIND_ENERGY ECONOMIC_POTENTIAL in israel,
+which is the context of our work. we hypothesize that due to nature of
+WIND ENERGY_PRODUCTION_UNCERTAINTIES, the ROA_METHOD is better than the
+alternative. the novelty of this paper includes the following: REAL_WORLD
+WIND statistics of the MEROM_GOLAN_SITE in israel (velocity 3.73 m/s,
+with a STANDARD_DEVIATION of 2.03 m/s), a
+REALISTIC_POWER_GENERATION_ESTIMATION (POWER_GENERATION of 1205.84 kw
+with a STANDARD_DEVIATION of about 0.5% in ANNUAL_VALUE which is worth
+about 1.3 m$ per annum), and an ECONOMIC_MODEL to evaluate the
+PROFITABILITY of such a project. we thus discuss the existing challenges
+of diversifying RENEWABLE_ENERGY_SOURCES in israel by adding WIND
+installations. our motivation is to introduce a method which will allow
+investors and officials to take into ACCOUNT_UNCERTAINTIES when deciding
+in investing in SUCH_WIND_INSTALLATIONS. the outcomes of the paper, which
+are obtained using the method of WEIBULL_STATISTICS and the
+BLACKSCHOLES_ROA_TECHNIQUE, include the result that
+MARKET_PRICE_VOLATILITY adds to the uncertainties much more than any WIND
+fluctuations, provided that the analysis is integrated over a long enough
+time.  2021 by the authors. LICENSEE_MDPI, basel, switzerland.
+```
+
+--
+
+Record-No: 50
+Citations: 1
+Record-ID: Al-Obaidli H., 2021, COMPUT AIDED CHEM ENG, V50, P1795
+Title: statistical decision theoretic RISK_MANAGEMENT for planning
+RENEWABLE_ENERGY_PATHWAYS
+Abstract:
+```
+the world has witnessed an increase in the level of INVESTMENTS for
+RENEWABLE_ENERGY_TECHNOLOGIES in the PAST_DECADE mainly owing to the
+pressure for mitigating GREENHOUSE_GAS (ghg) EMISSIONS, whilst addressing
+the issue of CLIMATE_CHANGE. according to RECENT_STATISTICS,
+GLOBAL_INVESTMENTS edged up by 2 % in 2019 to $301.7 billion, taking the
+value of CUMULATIVE_INVESTMENTS since 2004 to $3.5 trillion, which has
+been attributed to the falling COSTS of SOLAR and WIND technologies. with
+the commissioning of ADDITIONAL_CAPACITIES from RENEWABLE_ENERGY_SOURCES
+each year, there is a growing need for managing the associated
+RISKS_AND_UNCERTAINTIES from the perspective of DIFFERENT_STAKEHOLDERS
+throughout the planning, development and OPERATIONAL_PHASES.
+RENEWABLE_ENERGY_SOURCES entail CONSIDERABLE_TECHNOLOGICAL and
+FINANCIAL_RISKS_EXPOSURE, depending on the location where the
+technologies are implemented, and thus needs to be managed using
+techniques that would provide both the quantification of RISKS and
+OPTIMAL_DECISIONS that lead to RISK MITIGATION. the objective of the
+proposed RESEARCH is to develop a PROBABILISTIC_FRAMEWORK which broadly
+includes: (a) statistical modelling of FINANCIAL_RISKS _ such as
+variability of revenue due to ELECTRICITY_PRICE, DEMAND_FLUCTUATIONS,
+GENERATION_COSTS, or other MARKET_CONDITIONS; and (b) evaluating options
+that maximise the stakeholders utility/reward functions, or
+MINIMISE_RISKS, for a given TECHNOLOGY_MIX. this RESEARCH_DEMONSTRATES
+the implementation of BINOMIAL_LATTICE_MODEL in REAL_OPTIONS_ANALYSIS
+(ROA) for the VALUATION of INVESTMENTS on diversified ENERGY_PORTFOLIOS.
+the framework is applied to analyse the impact of RISKS_AND_UNCERTAINTIES
+on CAPITAL budgeting decisions relating to PROJECT_SIZE (expand or
+contract); PROJECT_LIFE and timing (initiation, deferment or abandon);
+and PROJECT_OPERATION (FLEXIBILITY in the TECHNOLOGY_MIX) for scenarios
+involving large_scale deployment of RENEWABLE_ENERGY_SOURCES.  2021
+elsevier b.v.
+```
+
+---------------------------------------------------------------------------
+
+Improve and make more clear the explanation of the relationships among
+the keywords:
+
+INVESTMENT_DECISIONS; PRESENT_VALUES; ECONOMICS; NET_PRESENT_VALUE;
+ENERGY_POLICY; CARBON_EMISSIONS; DEFER_OPTION; CASH_FLOW_ANALYSIS;
+UNCERTAINTY; PROJECT_VALUES
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the
+information provided in the records presented below. Add cites to the
+added text using the corresponding Record-No value between brackets.
+
+Here are the text to improve and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+--
+
+Record-No: 96
+Citations: 1
+Record-ID: D’Alpaos C., 2020, LECT NOTES COMPUT SCI, V12250 LNCS, P148
+Title: the value of investing in DOMESTIC_ENERGY_STORAGE_SYSTEMS
+Abstract:
+```
+in this paper, we investigate whether INVESTMENTS in
+BATTERY_STORAGE_SYSTEMS, coupled with existing PV_PLANTS, are profitable
+in the phasing out of incentives. in detail, we analyze the
+INVESTMENT_DECISION of a HOUSEHOLD, who has already invested in a
+PV_PLANT and has to decide whether and when to invest in the adoption of
+BATTERY_STORAGE_SYSTEMS (bss). we provide a REAL_OPTION_MODEL to
+determine the value of the opportunity to invest and its OPTIMAL_TIMING.
+the existing PV_PLANT gives the HOUSEHOLD the opportunity to invest in
+BSS_ADOPTION, and this opportunity is analogous to a CALL_OPTION. our
+findings show that NEGATIVE_NPV_INVESTMENTS may turn to be profitable if
+the HOUSEHOLD optimally exercises the option to defer. the greater the
+VOLATILITY of ENERGY_PRICES, the greater the OPTION_VALUE to defer, and
+the greater the OPPORTUNITY_COST of waiting (i.e., the greater the
+ENERGY_PRICES_DRIFT), the smaller the OPTION_VALUE to defer.  2020,
+SPRINGER_NATURE_SWITZERLAND_AG.
+```
+
+--
+
+Record-No: 58
+Citations: 1
+Record-ID: Palma H.H., 2020, INT J ENERGY ECON POLICY, V10, P225
+Title: FINANCIAL_EVALUATION of PHOTOVOLTAIC_ENERGY_PROJECTS in COLOMBIA
+Abstract:
+```
+the use of RENEWABLE_SOURCES, especially PHOTOVOLTAICS, has become a
+VIABLE_ALTERNATIVE as a supply of this VITAL_ELEMENT without destroying
+the ENVIRONMENTAL_ENVIRONMENT. in this sense, the MAIN_OBJECTIVE of the
+study is to propose a methodology of economic/FINANCIAL_EVALUATION of
+PHOTOVOLTAIC_ENERGY_PROJECTS in COLOMBIA, through the application of the
+REAL_OPTIONS_VALUATION, the above supported by a mixed method that
+combines the review of QUALITATIVE_INFORMATION or documentary in
+conjunction with a QUANTITATIVE_SAMPLE based on NUMERICAL_DATA and
+OFFICIAL_FIGURES, in order to address the issue with
+RIGOROUS_LIVELIHOODS. the results indicate that the PHOTOVOLTAIC_ENERGY
+has a HIGH_POTENTIAL in the country, according to the
+REAL_OPTIONS_VALUATION the TOTAL_INVESTMENT_COST of the installation and
+commissioning for a 5000 KW_PLANT would be $ 18,930,000 usd, taking
+advantage of 1825 h of work thus generating about 9,125,000 kw/h. it is
+concluded that the ENERGY_MATRIX in COLOMBIA must be diversified,
+supported by a GOVERNMENT_MANAGEMENT that FACILITATES_ACCESS to
+CREDIT_LINES that leverage the INITIAL_INVESTMENT in CAPITAL,
+additionally, taking advantage of the GEOGRAPHICAL_CHARACTERISTICS of
+guajira, magdalena and the atlantic is crucial for implement these types
+of projects.  2020, econjournals. all rights reserved.
+```
+
+

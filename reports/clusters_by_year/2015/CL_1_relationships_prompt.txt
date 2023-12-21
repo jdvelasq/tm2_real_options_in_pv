@@ -1,0 +1,298 @@
+You are an automated scientific writer assistant. Use only the
+information provided in the following records to write one paragraph
+explaining and exemplifying the relationships among the following
+keywords:
+
+INVESTMENT_DECISIONS; COSTS; ENERGY_MARKETS; MONTE_CARLO_METHODS;
+UNCERTAINTY_ANALYSIS; OPTIMAL_INVESTMENT_TIMING; INTELLIGENT_SYSTEMS;
+STOCHASTIC_PROCESS; ECONOMICS; NUMERICAL_MODELS
+
+Use the Record-No value between brackets to indicate the reference to the
+record. For example, [1] means that the information is in the Record-No
+1. Use notes below of the generated text to justify the affirmation. Use
+only phrases appearing in the provided text.
+
+Here are the records:
+
+--
+
+Record-No: 120
+Citations: 83
+Record-ID: Jeon C., 2015, APPL ENERGY, V142, P33
+Title: OPTIMAL_SUBSIDY_ESTIMATION_METHOD using SYSTEM_DYNAMICS and the
+REAL_OPTION_MODEL: PHOTOVOLTAIC_TECHNOLOGY_CASE
+Abstract:
+```
+in this paper, we propose a method of optimizing FINANCIAL_SUBSIDIES and
+PUBLIC_RESEARCH and DEVELOPMENT_INVESTMENTS for
+RENEWABLE_ENERGY_TECHNOLOGIES, rather than optimizing FINANCIAL_SUBSIDY
+alone. by combining SYSTEM_DYNAMICS with REAL_OPTION_MODELS, we capture
+DYNAMIC_COMPLEX_INTERACTIONS among investors, consumers, and
+policymakers, as well as FUTURE_UNCERTAINTIES of KEY_ENERGY, economic,
+and ENVIRONMENTAL_FACTORS. our method thereby makes SUBSIDY_OPTIMIZATION
+more accurate and flexible. to evaluate our model, we apply it to the
+KOREAN_PHOTOVOLTAIC_SUBSIDY and determine that the GOVERNMENT can achieve
+the PHOTOVOLTAIC_DIFFUSION_TARGET, even if it reduces the TOTAL_SUBSIDY
+by $us 359.5. million. the OPTIMAL_APPROACH is to increase
+RESEARCH_AND_DEVELOPMENT FUNDING by $us 310.4. million while reducing the
+FINANCIAL_SUBSIDY by $us 669.9. million. our method helps
+POLICYMAKERS_OPTIMIZE their SUBSIDY_ALLOCATION and therefore
+REDUCES_SUBSIDY_INEFFICIENCIES.  2015 ELSEVIER_LTD.
+```
+
+--
+
+Record-No: 149
+Citations: 81
+Record-ID: Zhang M.M., 2014, RENEWABLE SUSTAINABLE ENERGY REV, V40, P944
+Title: a REAL_OPTION_MODEL for RENEWABLE_ENERGY_POLICY_EVALUATION with
+application to SOLAR_PV_POWER_GENERATION in CHINA
+Abstract:
+```
+this study proposes a POLICY_EVALUATION_MODEL from the perspective of
+GOVERNMENT and investors. the proposed model, which
+INTEGRATES_AMERICAN_OPTION_METHOD and two_factor LEARNING_CURVE method,
+can be used to evaluate the UNIT_DECISION_VALUE and save_path rate for
+RENEWABLE_ENERGY_DEVELOPMENT and examine the existence of BALANCE_POINT
+of interest. several UNCERTAIN_FACTORS including non_renewable ENERGY
+COST, CARBON_PRICE, RENEWABLE_ENERGY_COST, and PRICE_SUBSIDY are all
+considered in this model. the model has been applied to evaluate the
+SOLAR_PHOTOVOLTAIC (PV) POWER_GENERATION in CHINA. our EMPIRICAL_RESULTS
+show that REAL_OPTION_ANALYSIS (ROA) is more effective than net
+PRESENT_VALUE_ANALYSIS (NPV) when handling UNCERTAINTY. under
+CURRENT_LEVEL of SUBSIDY, the GOVERNMENT would SUFFER_LOSS and the
+investors could benefit so that it is difficult to achieve the balance of
+interest during the PLANNING_PERIOD. with the reduction of SUBSIDY_RATE,
+they can achieve the balance of interest.  2014 ELSEVIER_LTD.
+```
+
+--
+
+Record-No: 130
+Citations: 62
+Record-ID: Biondi T., 2015, ENERGY, V80, P293
+Title: SOLAR_GRID_PARITY_DYNAMICS in ITALY: a REAL_OPTION_APPROACH
+Abstract:
+```
+over the past three YEARS ITALY has seen a RAPID_GROWTH in the PV
+(PHOTOVOLTAIC) ENERGY_MARKET, followed by an equally SUDDEN_DECLINE when
+the GOVERNMENT decided to reduce the incentives. this sharp change in the
+trend of the MARKET_CALLS into question the achievement of the so called
+GRID_PARITY and the possibility that the MARKET is able to develop
+independently. the motivation of this paper is to evaluate the effects
+that uncertainties surrounding both the ENERGY_PRICES and PV_MODULE_COSTS
+have on forecasting the dynamics of the ITALIAN_PV_MARKET. using the
+REAL_OPTION_APPROACH we calculate "the best time to invest" in a
+PV_SYSTEM by a maximizing investor. we show that these sources of
+UNCERTAINTY can delay the OPTIMAL_INVESTMENT_DECISION of several YEARS
+compared to CURRENT_GRID_PARITY_FORECASTS, well describing the
+CURRENT_MARKET_SITUATION in ITALY.  2014 ELSEVIER_LTD.
+```
+
+--
+
+Record-No: 154
+Citations: 25
+Record-ID: Zeng Y., 2015, ENERGY ECON, V48, P295
+Title: distributed SOLAR RENEWABLE_GENERATION: OPTION_CONTRACTS with
+RENEWABLE_ENERGY_CREDIT_UNCERTAINTY
+Abstract:
+```
+SOLAR_ENERGY is rapidly emerging thanks to the decreasing
+INSTALLATION_COST of SOLAR_PANELS and the RENEWABLE_PORTFOLIO standard
+imposed by STATE_GOVERNMENTS, which gave birth to the
+RENEWABLE_ENERGY_CREDIT (rec) and the ALTERNATIVE_COMPLIANCE_PAYMENT
+(acp). to make profits from the REC_MARKET in addition to reduced
+ENERGY_COSTS, more and more home and BUSINESS_OWNERS choose to
+INSTALL_SOLAR_PANELS. recently, third_party FINANCING has become a
+COMMON_PRACTICE in SOLAR_PANEL_INVESTMENTS. we discuss OPTIMAL_TIMING for
+the host to potentially buy back the SOLAR_PANELS after being installed
+for a period of time and how to incorporate the OPTIMAL_TIMING into a
+POWER_PURCHASE_AGREEMENT between the host and the third_party developer.
+because the REC_PRICE is a MAJOR_SOURCE of UNCERTAINTY and also due to
+the acp capping the REC_PRICE, we first propose a REC_PRICE forecasting
+model that specifically considers the ACP_VALUES. then by a modified
+REAL_OPTION_STRUCTURE, we model the BUYBACK_CONTRACT as a REAL_OPTION and
+solve it with an approximate DYNAMIC_PROGRAM based
+MONTE_CARLO_SIMULATION_METHOD. we find that as the ACP_VALUE_INCREASES,
+the value of the BUYBACK_OPTION also increases under OPTIMAL_TIMING. the
+method used does not only apply to SOLAR_PROJECTS but also to other
+distributed RENEWABLE_PROJECTS that are third_party financed, such as
+WIND generations.  2015 elsevier b.v.
+```
+
+--
+
+Record-No: 106
+Citations: 15
+Record-ID: Farzan F., 2015, ANN OPER RES, V235, P259
+Title: MICROGRID_INVESTMENT under UNCERTAINTY: a REAL_OPTION_APPROACH using
+closed FORM_CONTINGENT_ANALYSIS
+Abstract:
+```
+the TRADITIONAL_NET PRESENT_VALUE_APPROACH to INVESTMENT in
+MICROGRID_ASSETS does not take into account the INHERENT_UNCERTAINTIES in
+FUEL_PRICES, COST of TECHNOLOGY, and MICROGRID_LOAD_PROFILE. we propose a
+REAL_OPTION_APPROACH to MICROGRID_INVESTMENT, which includes
+SOLAR_PHOTOVOLTAIC (PV) and gas_fired GENERATION_ASSETS. likewise the (n,
+m) EXCHANGE_LITERATURE in REAL_OPTION_ANALYSIS, we examine cases with
+interdependency and independency of FUEL_PRICE and the COST of
+PV_TECHNOLOGY. this work, however, makes a MAJOR_CONTRIBUTION by the way
+of introducing a NEW_PARAMETER, which is defined as the elasticity of the
+OPTION_VALUE to prices and is used in the formulation of closed
+FORM_SOLUTIONS. we further extend the (1, 1) EXCHANGE_PROBLEM here to
+include OPERATIONAL_FLEXIBILITY of MICROGRID, such that optimal switching
+between INVESTMENT, suspension and re_activation can be examined.  2015,
+springer science+business media NEW_YORK.
+```
+
+---------------------------------------------------------------------------
+
+Improve and make more clear the explanation of the relationships among
+the keywords:
+
+INVESTMENT_DECISIONS; COSTS; ENERGY_MARKETS; MONTE_CARLO_METHODS;
+UNCERTAINTY_ANALYSIS; OPTIMAL_INVESTMENT_TIMING; INTELLIGENT_SYSTEMS;
+STOCHASTIC_PROCESS; ECONOMICS; NUMERICAL_MODELS
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the
+information provided in the records presented below. Add cites to the
+added text using the corresponding Record-No value between brackets.
+
+Here are the text to improve and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+--
+
+Record-No: 132
+Citations: 8
+Record-ID: Schmitz M., 2015, ENERGY PROCEDIA, V75, P704
+Title: ECONOMIC_VIABILITY of KITE based WIND ENERGY_POWERSHIPS with CAES or
+HYDROGEN_STORAGE
+Abstract:
+```
+the rise in the usage of RENEWABLE_ENERGY_TECHNOLOGIES in RECENT_YEARS
+has been remarkable. still, the growth of these TECHNOLOGIES_POSES
+FORMIDABLE_PROBLEMS, mainly concerning the GRID_INTEGRATION of
+INTERMITTENT_ENERGY_SOURCES, such as WIND and SOLAR_POWER, by means of
+advanced STORAGE_SYSTEMS, as well as the LAND_USE_REQUIREMENTS implied by
+these LOW_ENERGY_DENSITY_RESOURCES. furthermore, the ECONOMIC_VIABILITY
+of these solutions is in question, which is why to date they are often
+still heavily subsidized. the POWERSHIP_CONCEPT_ATTEMPTS to tackle some
+of these shortcomings by harvesting WIND ENERGY_OFFSHORE using an
+ALTERNATIVE_INFRASTRUCTURAL_APPROACH featuring a special_purpose ship
+towed by a high_flying KITE. the ship's resulting KINETIC_ENERGY is
+partially converted by a WATER_REPELLER and can either be used to
+compress and STORE_AIR in STEEL_TUBES (alternative 1) or to drive a
+generator which in TURN_DELIVERS ELECTRICAL_ENERGY to produce HYDROGEN
+(alternative 2). in this study, the ECONOMIC_FEASIBILITY of each of the
+two alternatives is investigated and compared with each other using
+REAL_OPTIONS_ANALYSIS, including both randd and MARKET_RISKS as
+STOCHASTIC_VARIABLES driving the OPTION_VALUE. for determining the
+STRATEGIC_VALUE of MANAGERIAL_FLEXIBILITY under UNCERTAINTY, assumptions
+about changes of the ECONOMIC_ENVIRONMENT are made and motivated.  2015
+the authors. published by ELSEVIER_LTD.
+```
+
+--
+
+Record-No: 122
+Citations: 5
+Record-ID: Fridgen G., 2014, INT CONF INF SYST
+Title: toward REAL_OPTIONS_ANALYSIS of is enabled FLEXIBILITY in
+ELECTRICITY_DEMAND
+Abstract:
+```
+as the transition to WIND and SOLAR_PROGRESSES, the INTEGRATION of
+RENEWABLE_ENERGY_SOURCES makes ELECTRICITY_PRODUCTION increasingly
+fluctuating, also causing VOLATILITY in ELECTRICITY_PRICES on
+ENERGY_MARKETS. in order to guarantee POWER_GRID_STABILITY,
+UTILITIES_NEED to BALANCE_VOLATILE supply through shifting demand. this
+measure of DEMAND_SIDE_MANAGEMENT_CREATES_FLEXIBILITY, being enabled as
+the INTEGRATION of information and COMMUNICATION_TECHNOLOGY, e.g.
+SMART_METERS and LOAD_CONTROL_SWITCHES, in the POWER_GRID grows. the
+FLEXIBILITY of deferring consumption to times of lower demand or higher
+supply bears an ECONOMIC_VALUE which can be quantified by recurring to
+ELECTRICITY_MARKET_PRICES. our KERNEL_THEORY in terms of
+DESIGN_SCIENCE_RESEARCH, REAL_OPTIONS_THEORY is the APPROPRIATE_APPROACH
+for quantification under UNCERTAINTY. it provides for the assessment of
+INVESTMENT_POTENTIAL in INFORMATION_SYSTEMS for LOAD_CONTROL. addressing
+the prerequisite, we develop a STOCHASTIC_PROCESS which realistically
+REPLICATES_ELECTRICITY_SPOT_PRICE_DEVELOPMENT. in further RESEARCH, we
+will thereby assess the value of is_enabled FLEXIBILITY in
+ELECTRICITY_DEMAND.
+```
+
+--
+
+Record-No: 126
+Citations: 2
+Record-ID: Saługa P.W., 2015, GOSPODARKA SUROWCAMI MINERAL MINERAL RES MANAGE, V31,
+P31
+Title: VALUATION of MINERAL_PROJECT with FLEXIBILITY MAD_APPROACH vs.
+CONSECUTIVE_STOCHASTIC_TREE;
+Abstract:
+```
+for many YEARS, REAL_OPTIONS_ANALYSIS (ROA) has been perceived as an
+ATTRACTIVE_PROJECT_VALUATION alternative to the traditional discounted
+CASH_FLOW_ANALYSIS (dcf). right now, one can see evidence of a growing
+dispersion in the applicability of the method among VARIOUS_INDUSTRIES
+(particularly MINERALS, COAL, gas and petroleum) and the banking sector.
+this is because of its potential to VALUE_MANAGERIAL_FLEXIBILITY
+including possibilities for delaying INVESTMENTS or reformulating the
+operating strategies of the company. the REAL_OPTION_APPROACH enables one
+to calculate a projects FUNDAMENTAL_VALUE in approximating the MARKET
+one. the basis of OPTION_THEORY is STOCHASTIC_MODELING of underlying
+ASSETS _ the preferred, commonly used ROA_METHODOLOGY, introduced by
+copeland and antikarov (2001), is called the mad (marketed
+ASSET_DISCLAIMER) approach. it assumes that an underlying asset, which is
+the (gross) PRESENT_VALUE of the project (PV), changes with time
+according to the MULTIPLICATIVE_STOCHASTIC_PROCESS derived as
+DISCRETE_BINOMIAL_APPROXIMATION of GEOMETRIC_BROWNIAN_MOTION (gbm). in
+addition, the MAD_ASSUMES, that a TWIN_ASSET of the underlying instrument
+is calculated in a COMMON_WAY_NET PRESENT_VALUE (NPV). the twin_asset
+assumption fulfills the THEORETICAL_CRITERIA required for
+FAIR_OPTION_VALUATION in no_arbitrage conditions. the
+PAPER_DELIVERS_EMPIRICAL_ARGUMENTS arguing that indirect MODELING of pvs,
+according to the STANDARD_STOCHASTIC_PROCESS, do not properly
+REFLECT_REALITY. the calculations were based on the VALUATION of a
+HARD_COAL_PROJECT with FLEXIBILITY _ the methodology has included
+MULTIPLICATIVE_PRICE MODELING (that parameter has served as so called
+REFERENTIAL_ASSET) and, consequently, built a CONSECUTIVE_PVS_TREE, where
+RESPECTIVE_PRESENT_VALUES have been adjusted by REFERENTIAL_PRICE_LEVELS.
+moreover, the paper has emphasized that the option_to_wait changes the
+structure of PROJECTS_CASH_FLOW and PV_TREES, depending on the waiting
+period. in conclusion, the arguments have been derived from the
+consecutive MODELING of a PV_ASSET is more accurate than indirect
+constructing of it in the MADS_MULTIPLICATIVE_MODE.  2015,
+POLSKA_AKADEMIA_NAUK. all rights reserved.
+```
+
+--
+
+Record-No: 141
+Citations: 0
+Record-ID: Liu Z.-L., 2014, BEIJING LIGONG DAXUE XUEBAO, V34, P92
+Title: the BRDF_MODEL for the CALIBRATION of EARTH_OBSERVE_IMAGE
+Abstract:
+```
+DATA_CALIBRATION_ALGORITHM for the enhancement of EARTH_OBSERVE_IMAGE was
+presented. a NEW_BRDF_MODEL of EARTH_OBJECTS was established for the
+CALIBRATION of EARTH_OBSERVE_IMAGE by the NATIONAL_METROLOGY_EQUIPMENT.
+through brdf ABSOLUTE_CALIBRATION, the EARTH_OBSERVE_IMAGE can be
+appeared more true. this model colligated the brdf of EARTH_OBJECTS,
+SOLAR_RADIANCE, the ATMOSPHERE_STATUS, the CORRECT_PARAMETER of
+BRDF_CALIBRATION and the SPACE_CAMERA_PARAMETER. the OUTPUT_DATA of this
+model is the enter RADIANCE_DATA for the SPACE_CAMERA. a kind of
+GROUND_GLASS for architecture is measured and the
+CORRESPOND_EARTH_OBSERVE_IMAGE is calibrated. after CALIBRATION, the
+CHROMATISM of this image is improved by 3 and the LUMINANCE_CONTRAST of
+that is improved by 3.
+```
+
+

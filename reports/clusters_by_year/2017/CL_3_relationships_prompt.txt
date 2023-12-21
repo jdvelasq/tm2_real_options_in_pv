@@ -1,0 +1,47 @@
+You are an automated scientific writer assistant. Use only the
+information provided in the following records to write one paragraph
+explaining and exemplifying the relationships among the following
+keywords:
+
+SUBSIDY_SYSTEM; CARBON_MARKETS; INVESTMENT_EVALUATION;
+COST_BENEFIT_ANALYSIS; SENSITIVITY_ANALYSIS; PUBLIC_FINANCE;
+RESEARCH_AND_DEVELOPMENT (R_AND_D); PAPER_EXPLORES
+
+Use the Record-No value between brackets to indicate the reference to the
+record. For example, [1] means that the information is in the Record-No
+1. Use notes below of the generated text to justify the affirmation. Use
+only phrases appearing in the provided text.
+
+Here are the records:
+
+--
+
+Record-No: 61
+Citations: 9
+Record-ID: Martín-Barrera G., 2017, RENEWABLE SUSTAINABLE ENERGY REV, V76, P813
+Title: impact of FLEXIBILITY in PUBLIC_R&d FUNDING: how REAL_OPTIONS could avoid
+the CROWDING_OUT effect
+Abstract:
+```
+this PAPER_EXPLORES NEW_MECHANISMS to ENSURE_GRANTS are additional to
+PRIVATE_RESEARCH and DEVELOPMENT_INVESTMENT with no displacing or
+crowding_out effect. our results indicate that by studying the
+FLEXIBILITY embedded in these type of projects, using the
+REAL_OPTIONS_FRAMEWORK, it is possible to reduce the size of grants given
+by FINANCING bodies while remaining equally attractive to companies. this
+result is reached due to the higher FLEXIBILITY provided in potential
+NEW_GRANT_SCHEMES. in addition to the OBVIOUS_CONSEQUENCE of less
+EXPENSIVE_PUBLIC_R&d FUNDING, there are other SIDE_BENEFITS to this
+NEW_SCHEME, such as avoiding the crowding_out effect while also allowing
+more honest and SINCERE_RESEARCH and DEVELOPMENT_INVESTMENT by companies
+because they are sharing the RISK with the FUNDING body. this paper
+presents a CASE_STUDY _ an r&D_PROJECT carried out in the concentrated
+SOLAR_POWER_SECTOR _ in which we propose and calculate the effect of
+providing the grant 2 YEARS earlier with a SENSITIVITY_ANALYSIS performed
+over the DISCOUNT_RATE, VOLATILITY and first COMMERCIAL_REVENUE. this
+paper may encourage FUNDING bodies to consider implementing
+ALTERNATIVE_GRANT_SCHEMES valuing the FLEXIBILITY embedded in
+r&D_PROJECTS.  2017 ELSEVIER_LTD
+```
+
+

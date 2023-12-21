@@ -1,0 +1,65 @@
+You are an automated scientific writer assistant. Use only the
+information provided in the following records to write one paragraph
+explaining and exemplifying the relationships among the following
+keywords:
+
+RENEWABLE_SOURCES; ELECTRICITY_PRICES; ADVERSE_EFFECTS;
+DEVELOPING_COUNTRIES; HOUSING; ECONOMIC_ANALYSIS;
+ELECTRIC_POWER_TRANSMISSION_NETWORKS; OPTIMAL_INVESTMENT_STRATEGY;
+OPTIMAL_DECISIONS
+
+Use the Record-No value between brackets to indicate the reference to the
+record. For example, [1] means that the information is in the Record-No
+1. Use notes below of the generated text to justify the affirmation. Use
+only phrases appearing in the provided text.
+
+Here are the records:
+
+--
+
+Record-No: 6
+Citations: 26
+Record-ID: Guno C.S., 2021, INTERNAT J RENE ENER DEVEL, V10, P79
+Title: OPTIMAL_INVESTMENT_STRATEGY for SOLAR_PV_INTEGRATION in
+RESIDENTIAL_BUILDINGS: a CASE_STUDY in the PHILIPPINES
+Abstract:
+```
+in DEVELOPING_COUNTRIES, particularly in RURAL_AREAS, LONG_PERIODS of
+POWER_OUTAGES are experienced as the ELECTRICITY_GRID is technically or
+economically unfeasible. as SOLAR_PHOTOVOLTAIC (PV) is the most potential
+and SUITABLE_SOURCE of RENEWABLE_ENERGY for these areas, this
+PAPER_ANALYZES the ECONOMIC_VIABILITY of its INTEGRATION in
+DIFFERENT_TYPES of RESIDENTIAL_BUILDINGS. applying REAL_OPTIONS_APPROACH
+under UNCERTAINTY in ELECTRICITY_PRICES, this STUDY_COMPARES the
+attractiveness of adopting SOLAR_PV over continuing ELECTRICITY from the
+grid focusing on VARIOUS_INVESTMENT_PAYMENT_SCHEMES including (i)
+FULL_PAYMENT, (ii) distributed payment for 5 or 10 YEARS without a down
+payment, and (iii) distributed payment for 5 or 10 YEARS with 20% or 40%
+down payment. applying the model with the case of the PHILIPPINES, the
+results with the FULL_PAYMENT_STRATEGY obtain OPTION_VALUES of usd 6888
+for building type_i, usd 15349 for building type_ii, usd 21204 for
+building type_iii, usd 27870 for building type_iv, and usd 34251 for
+building type_v. these OPTION_VALUES_INCREASE by 21.6% and 22.5% with
+distributed PAYMENT_SCHEME to a 5_or 10_year period and increase by 5%
+and 13% for distributed payment with 40% and 20% down payment. these
+OPTION_VALUES decrease with INVESTMENTS at later periods. contrary to the
+CONVENTIONAL_OPTION_VALUATION_RESULTS of an OPTIMAL_DECISION to wait, our
+findings show the otherwise as earlier INVESTMENT_REDUCES the RISK of
+OPPORTUNITY_LOSS from delaying the adoption of SOLAR_PV. among the
+PAYMENT_SCHEMES analyzed, the distribution of PV_SYSTEM_COST in a 10_year
+installment period without down PAYMENT_SHOWS to be the most
+OPTIMAL_INVESTMENT_STRATEGY which may encourage lower_income and
+risk_averse consumers whose decision to adopt SOLAR_PV is affected by
+COST_BARRIERS, ECONOMIC_STATUS, and HOUSEHOLD_INCOME. the STUDY_SUGGESTS
+the GOVERNMENT, particularly in DEVELOPING_COUNTRIES, to support the
+INTEGRATION of own_use SOLAR_PV in BUILDINGS through incentives and
+subsidies, as well as FINANCIAL_INSTITUTIONS to offer more
+AFFORDABLE_TERMS of payment that encourages low to
+MEDIUM_INCOME_HOUSEHOLDS to adopt SOLAR_PV. further, this will not only
+augment the ENERGY_DEFICIENCY in these countries but also support the
+GLOBAL_ASPIRATIONS of reducing GREENHOUSE_GAS_EMISSIONS and its
+ADVERSE_EFFECTS through gradually shifting to RENEWABLE_SOURCES of
+ENERGY.  2021. the authors. published by cbiore.
+```
+
+

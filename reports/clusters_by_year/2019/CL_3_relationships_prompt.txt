@@ -1,0 +1,181 @@
+You are an automated scientific writer assistant. Use only the
+information provided in the following records to write one paragraph
+explaining and exemplifying the relationships among the following
+keywords:
+
+ECONOMICS; PRESENT_VALUES; COSTS; OPTIMAL_INVESTMENTS;
+ELECTRICITY_GENERATION; HIGH_INVESTMENT_COSTS; POWER_GENERATION;
+PRICE_DYNAMICS; ELECTRICITY_PRICES; POLICY_ANALYSIS
+
+Use the Record-No value between brackets to indicate the reference to the
+record. For example, [1] means that the information is in the Record-No
+1. Use notes below of the generated text to justify the affirmation. Use
+only phrases appearing in the provided text.
+
+Here are the records:
+
+--
+
+Record-No: 29
+Citations: 19
+Record-ID: Agaton C.B., 2018, ENERGY SUSTAINABILITY SOC, V8
+Title: a REAL_OPTIONS_APPROACH to RENEWABLE_ELECTRICITY_GENERATION in the
+PHILIPPINES
+Abstract:
+```
+background: the PHILIPPINES is making a SIGNIFICANT_STRIDE to become
+ENERGY independent by developing more SUSTAINABLE_SOURCES of ENERGY.
+however, INVESTMENT in RENEWABLE_ENERGY is challenged by
+COMPETITIVE_OIL_PRICES, very HIGH_INVESTMENT_COST for RENEWABLE_ENERGY,
+and HIGH_LOCAL_ELECTRICITY_PRICES. this PAPER_EVALUATES the
+attractiveness of investing in RENEWABLE_ENERGY_SOURCES over continue
+using oil for ELECTRICITY_GENERATION. methods: this PAPER_USES the
+REAL_OPTIONS_APPROACH to analyze how the timing of INVESTMENT in
+RENEWABLE_ENERGY depends on VOLATILITY of DIESEL_PRICE,
+ELECTRICITY_PRICE, and externality for using oil. results: the result
+presents a POSITIVE_NET PRESENT_VALUE for RENEWABLE_ENERGY_INVESTMENT.
+under UNCERTAINTY in OIL_PRICES, DYNAMIC_OPTIMIZATION describes how
+waiting or delaying INVESTMENT in RENEWABLES_INCURS loses. decreasing the
+LOCAL_ELECTRICITY_PRICE and incorporating
+NEGATIVE_EXTERNALITY_FAVOR_INVESTMENT in RENEWABLE_ENERGY over continuing
+the use of oil for ELECTRICITY_GENERATION. conclusions:
+REAL_OPTIONS_APPROACH_HIGHLIGHTS the FLEXIBILITY in the timing of making
+INVESTMENT_DECISIONS. at the CURRENT_ENERGY_REGIME in the PHILIPPINES,
+substituting RENEWABLE_ENERGY is a better option than continue importing
+oil for ELECTRICITY_GENERATION. policies should aim at supporting
+INVESTMENT in more SUSTAINABLE_SOURCES of ENERGY by imposing externality
+for using oil or decreasing the price of ELECTRICITY.  2018, the
+author(s).
+```
+
+--
+
+Record-No: 44
+Citations: 10
+Record-ID: Chen W., 2018, MITIGATION ADAPT STRATEG GLOBAL CHANGE, V23, P667
+Title: ELECTRICITY_PRICE_SUBSIDY or CARBON_TRADING SUBSIDY: which is more
+efficient to develop PHOTOVOLTAIC_POWER_GENERATION from a
+GOVERNMENT_PERSPECTIVE?
+Abstract:
+```
+PHOTOVOLTAIC (PV) POWER_GENERATION has HIGH_INVESTMENT_COSTS and
+LONG_PAYBACK_PERIODS. therefore, during EARLY_DEPLOYMENT, subsidies are
+fundamental and necessary to accelerate its development. we consider the
+question of how to promote PV_INDUSTRY_DEVELOPMENT and which supporting
+policy is more efficient in accelerating adoption. based on
+REAL_OPTIONS_METHOD, we establish a SUBSIDY_EFFICIENCY_MODEL for
+ELECTRICITY_PRICE_SUBSIDIES and carbon_trading subsidies under two
+sources of UNCERTAINTY_POWER_DEMAND for PV and the INVESTMENT
+cost_reduction PROBABILITY. this STUDY_AIMS to compare the two forms of
+subsidies from the perspective of promoting IMMEDIATE_INVESTMENT and
+maximizing the SUBSIDY_POLICY_EFFICIENCY for the GOVERNMENT (minimizing
+the unit carbon_mitigation COST) and advance RELEVANT_POLICY_PROPOSALS.
+an example of CHINA is provided to test the effectiveness of the model
+and to illustrate the implications of the solutions. the results show
+that a carbon_trading SUBSIDY is better than an ELECTRICITY_PRICE_SUBSIDY
+and that it is essential to improve the demand for the power produced by
+the PV power_generation projects. lower MARKET_RISK and driving
+TECHNOLOGY_PROGRESS are both conducive to improving the
+SUBSIDY_EFFICIENCY. this study also provides a MEANINGFUL_REFERENCE for
+GOVERNMENTS_WORLDWIDE to FORMULATE_SUBSIDY_PROGRAMS to SUPPORT_PV
+power_generation projects.  2017, springer science+business media b.v.
+```
+
+--
+
+Record-No: 35
+Citations: 9
+Record-ID: Li Y., 2018, ENERGIES, V11
+Title: an EVALUATION of INVESTMENT in a PV_POWER_GENERATION_PROJECT in the
+GOBI_DESERT using a REAL_OPTIONS_MODEL
+Abstract:
+```
+this paper presents a POLICY_BENEFIT_MODEL of a PHOTOVOLTAIC (PV)
+POWER_GENERATION_PROJECT based on REAL_OPTIONS_ANALYSIS (ROA) and the
+two_factor LEARNING_CURVE model. the MAIN_PURPOSE is to examine the
+INVESTMENT_BEHAVIOR of developing a PV_PROJECT in the GOBI_DESERT
+considering MULTIPLE_UNCERTAIN_FACTORS. we take the ENVIRONMENTAL_COST of
+DESERTIFICATION_CONTROL into account for the first time in the
+literature. four other UNCERTAIN_FACTORS are THERMAL_POWER_COST,
+PV_POWER_GENERATION_COST, CARBON_PRICES, and GOVERNMENT_SUBSIDY. a
+BINARY_TREE_METHOD is applied to solve the proposed model, and we obtain
+both UNIT_DECISION_VALUE and OPTIMAL_INVESTMENT_TIME. our
+BASELINE_SCENARIO_ILLUSTRATES that ROA is more effective than net
+PRESENT_VALUE (NPV) analysis when dealing with UNCERTAINTY. our
+SIMULATION_RESULTS show that the GOVERNMENT could suffer a loss in
+accordance with the existing SUBSIDY_POLICY when investing in a
+PV_PROJECT. therefore, the SUBSIDY should be gradually reduced. finally,
+the influence of the SUBSIDY_POLICY on DECISION_VALUE is discussed, and
+an APPROPRIATE_SUBSIDY is determined accordingly.  2018 by the authors.
+LICENSEE_MDPI, basel, switzerland.
+```
+
+--
+
+Record-No: 77
+Citations: 8
+Record-ID: Glensk B., 2019, ENERGIES, V12
+Title: energiewende @ RISK: on the continuation of RENEWABLE_POWER_GENERATION at
+the end of PUBLIC_POLICY_SUPPORT
+Abstract:
+```
+this PAPER_AIMS to analyze what happens with
+RENEWABLE_ENERGY_POWER_PLANTS, such as onshore WIND, PHOTOVOLTAICS and
+biomass, when the PUBLIC_POLICY_SUPPORT based on the RENEWABLE_ENERGY_LAW
+expires. with its expiration, the first RENEWABLE_ENERGY (and especially
+onshore WIND) POWER_PLANTS will have to be scrutinized as to whether they
+can economically continue operation, whether they have to be repowered,
+or whether they need to be decommissioned. the RELATIVE_MERITS of these
+three alternatives are evaluated by applying REAL_OPTIONS_ANALYSIS. in
+contrast to TRADITIONAL_PROJECT_EVALUATION_TECHNIQUES, the
+REAL_OPTIONS_APPROACH takes advantage of the use of UNCERTAIN_PARAMETERS
+included in the model, such as the development of the ELECTRICITY_PRICE
+or ELECTRICITY_OUTPUT. the results obtained suggest that parameters such
+as the level of FUTURE_OPERATION and MAINTENANCE_COSTS, the expected
+development of the ELECTRICITY_PRICE at the SPOT_MARKET, and the
+interrelations between these, as well as the development of the
+ELECTRICITY_OUTPUT from RENEWABLES can significantly affect the
+PROFITABILITY of these POWER_PLANTS and thus impact the decision about
+their further OPTIMAL_OPERATION.  2019 by the authors.
+```
+
+--
+
+Record-No: 52
+Citations: 7
+Record-ID: Zeng Y./1, 2019, ENERGIES, V12
+Title: the determination of CONCESSION_PERIOD for BUILD_OPERATE_TRANSFER
+SOLAR_PHOTOVOLTAIC POWER_PROJECT under POLICY_INCENTIVES: a CASE_STUDY of
+CHINA
+Abstract:
+```
+since the CONCESSION_PERIOD is one of the most CRUCIAL_VARIABLES
+influencing the success of a PHOTOVOLTAIC (PV) POWER_PROJECT under
+build_operate_transfer (bot) mode, this paper presents a
+REAL_OPTION_GAME_MODELWHICH_INTEGRATES the REAL_OPTION and
+COOPERATIVE_GAME_THEORYTO determine the OPTIMAL_CONCESSION_PERIOD of the
+BOT_SOLAR_PV_POWER_PROJECT under POLICY_INCENTIVES by considering the
+value of the option to defer. in the proposed model, an
+EFFECTIVE_INTERVAL of CONCESSION_PERIOD for the BOT_PROJECT was
+identified by using a REAL_OPTION, and the EQUILIBRIUM_VALUE of the
+CONCESSION_PERIOD was obtained by applying CLASSICAL_OPTIMIZATION_THEORY.
+to evaluate our model, we empirically determined the
+OPTIMAL_CONCESSION_PERIOD for the BOT_SOLAR_PV_POWER_PROJECT in CHINA,
+and a SENSITIVITY_ANALYSIS was conducted to demonstrate how
+RELEVANT_INFLUENTIAL_FACTORS, which are presented in the model, affect
+the EQUILIBRIUM_VALUE of the CONCESSION_PERIOD and its
+EFFECTIVE_INTERVAL. the results indicate that the
+CURRENT_INVESTMENT_ENVIRONMENT in CHINA could successfully implement the
+BOT_SOLAR_PV_POWER_PROJECT under POLICY_INCENTIVES, including
+INITIAL_COST_SUBSIDY and the feed_in tariffs mechanism. while the
+HIGH_VOLATILITY of ELECTRICITY_DEMAND, INVESTMENT_COST, and land_use rent
+fee can lead the failure of the BOT_SOLAR_PV_PROJECT_IMPLEMENTATION,
+promoting the TECHNOLOGICAL_DEVELOPMENT of PV_POWER_GENERATION,
+maintaining the MARKET_STABILITY, and increasing the POLICY_INCENTIVES
+can help the BOT_POWER_PROJECT to be arranged with an
+OPTIMAL_CONCESSION_PERIOD. in addition, the feed_in tariffs mechanism is
+more helpful than the INITIAL_COST_SUBSIDY for winning the BOT_CONTRACT.
+2019 by the authors.
+```
+
+

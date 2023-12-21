@@ -1,0 +1,319 @@
+You are an automated scientific writer assistant. Use only the
+information provided in the following records to write one paragraph
+explaining and exemplifying the relationships among the following
+keywords:
+
+INVESTMENT_DECISIONS; MANAGERIAL_FLEXIBILITY; OPTIMAL_INVESTMENT_TIMING;
+ENERGY_MARKETS; ELECTRIC_POWER_TRANSMISSION_NETWORKS; FEED_IN_TARIFFS;
+DECISION_MAKING; SMART_GRIDS; OPTIMAL_SIZE; ENERGY_EFFICIENT
+
+Use the Record-No value between brackets to indicate the reference to the
+record. For example, [1] means that the information is in the Record-No
+1. Use notes below of the generated text to justify the affirmation. Use
+only phrases appearing in the provided text.
+
+Here are the records:
+
+--
+
+Record-No: 78
+Citations: 34
+Record-ID: Bertolini M., 2018, ENERGY, V149, P890
+Title: do SMART_GRIDS boost INVESTMENTS in DOMESTIC_PV_PLANTS? evidence from the
+ITALIAN_ELECTRICITY_MARKET
+Abstract:
+```
+large_scale development of distributed GENERATION_POWER_PLANTS has given
+rise to NEW_CRITICAL_PROBLEMS for the DESIGN and MANAGEMENT of
+ENERGY_SYSTEMS and ELECTRIC_GRIDS. it is commonly agreed that
+CONTINGENT_PROBLEMS affecting LOCAL_GRIDS (e.g. inefficiency,
+CONGESTION_RENTS, POWER_OUTAGES, etc.) may be solved by implementing
+smarter ELECTRIC_GRIDS. SMART_GRIDS give producers and consumers, the
+opportunity to be active in the MARKET and decide their optimal
+PRODUCTION/consumption patterns strategically. this paper provides a
+THEORETICAL_FRAMEWORK MODELING prosumers' decision to invest in
+PHOTOVOLTAIC_POWER_PLANTS, assuming that they are integrated in
+SMART_GRIDS. to capture the value of MANAGERIAL_FLEXIBILITY, a
+REAL_OPTION_APPROACH is implemented. the model was calibrated and tested
+with data from the ITALIAN_ENERGY_MARKET. our findings show that the
+possibility of selling ENERGY via the
+SMART_GRID_INCREASES_INVESTMENT_VALUES. the connection to
+SMART_GRIDS_INCREASES_MANAGERIAL_FLEXIBILITY: prosumers can optimally
+exercise the option to decide the PROSUMPTION_QUOTA and switch from
+prosumption to PRODUCTION. the opportunity to sell ENERGY in the
+MARKET_ENCOURAGES_PROSUMERS to invest in a larger plant compared with
+that needed for self_consumption, and there is a POSITIVE_RELATION
+between OPTIMAL_SIZE and (optimal) INVESTMENT_TIMING.  2018 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 97
+Citations: 31
+Record-ID: Penizzotto F., 2019, RENEWABLE SUSTAINABLE ENERGY REV, V114
+Title: REAL_OPTIONS_VALUATION of PHOTOVOLTAIC_POWER_INVESTMENTS in existing
+BUILDINGS
+Abstract:
+```
+RENEWABLE_POWER_GENERATION based on SOLAR_ENERGY is deemed to be a
+KEY_INSTRUMENT to reduce the CARBON_FOOTPRINT of MODERN_ECONOMIES.
+collectively, BUILDINGS are an energy_intensive consumption sector.
+therefore, existing BUILDING_ROOFTOPS are seen as a target for massively
+deploying PHOTOVOLTAIC (PV) DISTRIBUTED_GENERATION. nevertheless,
+estimating the benefits and RISKS of investing in ROOFTOP_PV_SYSTEMS is
+indeed a CHALLENGING_TASK due to the LARGE_UNCERTAINTIES that affect
+tariffs, TECHNOLOGY_COSTS, and REGULATORY_POLICY. after reviewing the
+literature and identifying the CURRENT_GAPS, this ARTICLE develops a
+method based on REAL_OPTIONS_THEORY for appraising INVESTMENTS in
+PV_GENERATION_SYSTEMS to be installed on the rooftop of existing
+BUILDINGS. the OPTION_VALUE of differing the INVESTMENT_DECISION and the
+problem of the OPTIMAL_TIME to invest in IRREVERSIBLE_PV_ASSETS are
+addressed by an advanced VALUATION_METHOD based on STOCHASTIC_SIMULATION,
+LINEAR_REGRESSION, and backward DYNAMIC_PROGRAMMING. in this work,
+returns of self_generation PV INVESTMENTS are subjected to uncertainties
+upon declining INVESTMENT_COSTS and fluctuating ELECTRICITY_TARIFFS,
+which are represented by APPROPRIATE_EXOGENOUS_STOCHASTIC_PROCESSES. in
+order to test the practicability of the proposed decision_making
+framework, the VALUATION of an exemplary rooftop pv_system in a
+GOVERNMENT_BUILDING is considered. results show that while
+STANDARD_APPRAISAL_METHODS wrongly reject the ROOFTOP_PV_PROJECT now and
+in the FUTURE, the OPTION_VALUATION_METHOD finds optimal to hold the
+opportunity open in order to reconsider to invest later. in addition, the
+method provides an OBJECTIVE_VALUE of the OPPORTUNITY_COST of using the
+building rooftop for another purpose. the proposed VALUATION_APPROACH
+would result in better INVESTMENT_ALLOCATION and faster development of
+distributed PV_POWER_CAPACITY contributing thereby to enhance the
+SUSTAINABILITY of CURRENT_ENERGY_SYSTEMS.  2019 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 26
+Citations: 13
+Record-ID: Zhang N., 2018, ENERGY PROCEDIA, V152, P959
+Title: development of an INNOVATION_DIFFUSION_MODEL for
+RENEWABLE_ENERGY_DEPLOYMENT
+Abstract:
+```
+INVESTMENT in RENEWABLE_ENERGY, such as BUILDING_PHOTOVOLTAIC (PV), has
+higher VOLATILITY than NORMAL_PRODUCTS due to
+UNCERTAIN_PRODUCT_PERFORMANCE and SUCH_HIGH_UNCERTAINTIES become the
+roadblock to the growth of RENEWABLE_ENERGY_MARKET.
+PREVIOUS_STUDIES_FOCUS on DIFFUSION_OF_INNOVATION from MACRO_ASPECT but
+ignore the MANAGERIAL_FLEXIBILITY of individual's INVESTMENT. this paper
+established a NOVEL_DIFFUSION_MODEL that integrates agent_based modelling
+(abm), REAL_OPTION and SOCIAL_NETWORKS to assess the propagation of
+RENEWABLE_ENERGY_ADOPTION. the proposed MODEL_INCORPORATES the
+heterogeneity of individuals' RISK_PREFERENCES into REAL_OPTION_DECISION
+to determine one'S_WILLINGNESS to invest RENEWABLE_ENERGY. the
+PERCEPTUAL_RISKS vary through one'S_INTERACTION with NETWORK_PEERS after
+knowing the PAST_EXPERIENCES from those peers. the model is then applied
+to the RESIDENTIAL_PV_DIFFUSION in SINGAPORE, with results that validate
+the effectiveness of the model and also imply POLICY_RECOMMENDATIONS to
+stimulate the development of PV_MARKET. copyright  2018 ELSEVIER_LTD. all
+rights reserved.
+```
+
+--
+
+Record-No: 1
+Citations: 8
+Record-ID: D’Alpaos C., 2019, AIMS ENERGY, V7, P141
+Title: do SMART_GRID_INNOVATIONS affect REAL_ESTATE_MARKET_VALUES?
+Abstract:
+```
+to DATE_PHOTOVOLTAIC_ENERGY_SYSTEMS have been widely installed on homes
+in europe and all over the world. in europe and in ITALY INVESTMENTS in
+DOMESTIC_PHOTOVOLTAIC_POWER_PLANTS (PV) were boosted by generous feed_in
+tariffs that made these INVESTMENTS extremely attractive for
+SMALL_PRIVATE_INVESTORS, such as homeowners. it is commonly agreed that
+the greater the building ENERGY_EFFICIENCY, the greater the
+PROPERTY_MARKET_VALUE. it is of PARAMOUNT_IMPORTANCE to determine the
+value that PV_SYSTEMS may add to HOME_SALE_TRANSACTIONS. the aim of the
+paper is to investigate whether SMART_GRIDS (sgs) INNOVATION can increase
+MARKET_VALUES due to higher PRODUCTION and CONSUMPTION_FLEXIBILITY. sgs
+give de facto producers and consumers, the opportunity to be active in
+the ENERGY_MARKET and strategically decide their optimal
+PRODUCTION/consumption pattern. in this paper, we provide a model based
+on the REAL_OPTION_THEORY to determine the value of this FLEXIBILITY and
+the related MARKET_VALUE_INCREASE. we model the HOMEOWNER_DECISION to
+invest in a SOLAR_HOME with a PV_PLANT and connect to an sg by comparison
+to the decision to invest in a SOLAR_HOME not connected to an sg. we
+determine the PROPERTY_POTENTIAL_MARKET_VALUE_INCREASE due to the
+opportunity to perform ACTIVE_ENERGY_MANAGEMENT given by SMART_GRIDS and
+we compare this VALUE_INCREASE to the PV_PLANT_VALUE per se. to capture
+the value of MANAGERIAL_FLEXIBILITY we implement a REAL_OPTION_APPROACH.
+results of simulations, performed according to ZONAL_PRICES' trend and
+VOLATILITY in the north and south of ITALY, show that in the north and in
+the south, being connected to an SG_INCREASES by about 5_10% the
+PV_INVESTMENT's value and this QUOTA_INCREASES as ENERGY_SAVINGS and
+FLEXIBILITY_INCREASE. the greater the FLEXIBILITY, the greater the
+PROPERTY_MARKET_VALUE.  2019 the author(s), LICENSEE_AIMS_PRESS.
+```
+
+--
+
+Record-No: 7
+Citations: 7
+Record-ID: Pan Y., 2019, ENERGY ECON, V78, P454
+Title: POLICY_UNCERTAINTIES: what INVESTMENT_CHOICE for SOLAR_PANEL_PRODUCERS?
+Abstract:
+```
+SOLAR_POWER has achieved GREAT_DEVELOPMENT in the last decade, and it
+should continue to play a CENTRAL_ROLE in the face of CLIMATE_CHANGE and
+SUSTAINABLE_DEVELOPMENT challenges. this PAPER_BUILDS a
+REAL_OPTIONS_MODEL that provides a MICROECONOMIC_ANALYTICAL_FRAMEWORK
+with the least SQUARES_MONTE_CARLO (lsm) method to assess the
+INVESTMENT_CHOICES of a TYPICAL_SOLAR_PANEL_PRODUCER in CHINA facing
+trade and domestic supply_ and demand_side POLICY_UNCERTAINTIES. it
+builds a BASELINE_SCENARIO and three POLICY_SCENARIOS with decreasing
+anti_dumping and countervailing charges, constant feed_in tariff (fit)
+level and reduced INVESTMENT_COST. a TYPICAL_PRODUCER will have to make
+an INVESTMENT_DECISION on building a NEW_PRODUCTION_LINE in five YEARS
+based on a DECISION_IMPACT_ANALYSIS within 20 YEARS. the RESULT_SHOWS an
+IMMEDIATE_INVESTMENT_DECISION for all scenarios. the producer will have
+higher return from INVESTMENT in building a SOLAR_POWER_PLANT with a
+constant fit. export is the OPTIMAL_CHOICE in other scenarios where
+INVESTMENT_RETURN is lower. after SENSITIVITY_ANALYSIS, the
+PAPER_CONCLUDES and can be used as a toolkit for SOLAR_PANEL_PRODUCERS
+and a reference for POLICY_MAKERS to evaluate the impact of
+POLICY_UNCERTAINTIES.  2018
+```
+
+---------------------------------------------------------------------------
+
+Improve and make more clear the explanation of the relationships among
+the keywords:
+
+INVESTMENT_DECISIONS; MANAGERIAL_FLEXIBILITY; OPTIMAL_INVESTMENT_TIMING;
+ENERGY_MARKETS; ELECTRIC_POWER_TRANSMISSION_NETWORKS; FEED_IN_TARIFFS;
+DECISION_MAKING; SMART_GRIDS; OPTIMAL_SIZE; ENERGY_EFFICIENT
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the
+information provided in the records presented below. Add cites to the
+added text using the corresponding Record-No value between brackets.
+
+Here are the text to improve and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+--
+
+Record-No: 60
+Citations: 6
+Record-ID: Ersen H.Y., 2018, ENG ECON, V29, P140
+Title: INTUITIONISTIC_FUZZY REAL_OPTIONS_THEORY and its application to
+SOLAR_ENERGY_INVESTMENT_PROJECTS
+Abstract:
+```
+CONVENTIONAL_METHODS used in PROJECT_EVALUATION have a STATIC_NATURE,
+which cause DECISION_MAKERS to examine INVESTMENT_PROJECTS within a
+NARROW_SCOPE. as an alternative, real_options theory allows
+DECISION_MAKERS to use the concepts of UNCERTAINTY and
+MANAGERIAL_FLEXIBILITY, which CLASSICAL_METHODS do not deal with, in
+valuing INVESTMENT_PROJECTS. carlsson and fullers fuzzy real_options
+theory has been a solution for situations where CASH_FLOW and
+COST_VARIABLES used in the model cannot be expressed by using
+CLASSICAL_NUMBERS but by using FUZZY_NUMBERS. the idea of using
+INTUITIONISTIC_FUZZY_NUMBERS in REAL_OPTIONS_THEORY can expand the
+NARROW_SCOPE more effectively than the idea of using classical
+real_options theory, thereby providing an opportunity to evaluate
+INVESTMENT_PROJECTS from a wider perspective. in this study,
+INTUITIONISTIC_FUZZY real_option VALUATION model has been developed and
+applied to the EVALUATION of SOLAR_ENERGY_INVESTMENT_PROJECTS. studies
+have shown that SOLAR_ENERGY_INVESTMENTS that do not seem profitable
+today in turkey can perform profitably in the FUTURE. moreover, the
+HISTORICAL_VOLATILITY_MODEL_DIFFERS from the expected VALUABLE_MODELS,
+whereas the OPTIMUM_INVESTMENT_YEAR between the MODELS formed by the
+UNCERTAINTY_INDUCTIONS from the expected
+VALUES_EXHIBIT_MINIMAL_DIFFERENCE.  2018,
+KAUNO_TECHNOLOGIJOS_UNIVERSITETAS. all rights reserved.
+```
+
+--
+
+Record-No: 10
+Citations: 5
+Record-ID: Ma Y., 2019, IEEE MILAN POWERTECH POWERTECH
+Title: estimating the OPTION_VALUE of grid scale BATTERY_SYSTEMS to
+DISTRIBUTION_NETWORK_SERVICE_PROVIDERS
+Abstract:
+```
+grid_scale ENERGY_STORAGE_SYSTEMS} (ess) have been widely recognized as a
+technically VIABLE_ALTERNATIVE to NETWORK_AUGMENTATION in integrating
+growing RENEWABLE_PENETRATION in DISTRIBUTION_NETWORKS. however, it is
+challenging to determine efficient and well_timed INVESTMENT in the
+grid_scale ess, considering BATTERY_SCHEDULES and FUTURE_UNCERTAINTIES.
+within this context, we develop a methodology that explicitly (i)
+INCORPORATES_ESS_SCHEDULES within MONTE_CARLO_POWER_FLOW_SIMULATIONS, and
+(ii) determine the OPTIMAL_INVESTMENT_STRATEGY using
+REAL_OPTIONS_VALUATION (ROV). specifically, we develop a mixed
+INTEGER_QUADRATIC programming to determine the OPTIMAL_SIZE and schedules
+of a grid_scale ess in an AUSTRALIAN_DISTRIBUTION_NETWORK. the benefits
+from BATTERY_OPERATIONS to the network are quantitatively incorporated in
+the ROV to capture the value of MANAGERIAL_FLEXIBILITY, and hence the
+OPTIMAL_INVESTMENT_STRATEGY. driven by the declining BATTERY_COST, the
+results suggest to delay the INVESTMENT to a later year to maximize the
+INVESTMENT_VALUE.  2019 ieee.
+```
+
+--
+
+Record-No: 11
+Citations: 2
+Record-ID: Elahi F.N., 2018, IND ENG MANAG SYST, V17, P769
+Title: INVESTMENT_DECISION_MAKING under UNCERTAINTY using REAL_OPTIONS_APPROACH:
+a CASE_STUDY in SOLAR_POWER_PLANTS of iran
+Abstract:
+```
+nowadays, classic discounted CASH_FLOW (dcf) approach is mostly used in
+order to evaluate VARIOUS_TYPES of projects. since projects in all around
+the world are confronting with DIFFERENT_BARRIERS, such as HIGH_RISK,
+VARIOUS_KINDS of UNCERTAINTY, the aforesaid CLASSIC_APPROACH cannot
+correctly determine the value of projects. therefore, proposing practical
+and EFFICIENT_APPROACHES in EVALUATION of project in
+UNCERTAIN_ENVIRONMENT has drawn the attention of researchers in
+RECENT_YEARS. in this study, an EFFICIENT_APPROACH for valuing of
+SOLAR_PHOTOVOLTAIC_POWER_PLANTS in iran with REAL_OPTIONS is proposed and
+compared with the CLASSIC_DCF_APPROACH. in order to evaluate the assumed
+REAL_OPTIONS, the BINOMIAL_TREE_METHOD is implemented. eventually,
+TAGUCHI_DESIGN_EXPERIMENT is used to analyze the performance of
+BINOMIAL_TREE and figure out how REAL_OPTIONS_PARAMETERS_EFFECT on the
+value of project. the obtained results show that considering
+abovementioned REAL_OPTIONS increases the value of project comparing to
+the case with no REAL_OPTIONS (i.e. DCF_APPROACH). moreover, the ranking
+of EFFECTIVE_FACTORS, PARTICIPATIONS_PERCENTAGE of each factors on
+response variable, and OPTIMAL_COMBINATION of them are determined.  2018
+kiie.
+```
+
+--
+
+Record-No: 82
+Citations: 2
+Record-ID: Lai C.S., 2019, IEEE INT SYMP IND ELECTRON, V2019-June, P1613
+Title: a review on TECHNO_ECONOMICS and FINANCING for
+GRID_ENERGY_STORAGE_SYSTEMS
+Abstract:
+```
+several RENEWABLE_ENERGIES such as WIND_AND_SOLAR are intermittent. to
+increase RENEWABLE_ENERGY_PENETRATION, ELECTRICAL_ENERGY_STORAGE (ees)
+systems are becoming increasingly important. there is an increasing need
+for WIDE_DEPLOYMENT of ees from generation to DISTRIBUTION_SYSTEMS. this
+requires relevant FINANCIAL_RESOURCES, and ECONOMICS and FINANCE are the
+IMPORTANT_FACTORS to determine if installing ees is profitable. hence,
+this PAPER_REVIEWS the RECENT_ECONOMICS and FINANCIAL_ANALYSES performed
+for ees in the ENERGY_SYSTEM_CONTEXT. the paper begins with examining the
+EES_TECHNOLOGIES. then, the difference between ENERGY_ECONOMICS and
+FINANCE are explained. the recent ees techno_economic studies and
+FINANCIAL_STUDIES are reviewed. under the uncertain economic, FINANCING,
+and TECHNICAL_ENVIRONMENT, it is important to examine EES_PROJECTS with
+REAL_OPTIONS_ANALYSIS. finally, the PAPER_CONCLUDES with
+FUTURE_RESEARCH_DIRECTIONS for ees FINANCE and ECONOMICS.  2019 ieee.
+```
+
+

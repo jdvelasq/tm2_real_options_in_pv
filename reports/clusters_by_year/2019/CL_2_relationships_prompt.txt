@@ -1,0 +1,76 @@
+You are an automated scientific writer assistant. Use only the
+information provided in the following records to write one paragraph
+explaining and exemplifying the relationships among the following
+keywords:
+
+INVESTMENT_COSTS; CARBON_PRICES; POWER_PLANTS; SUBSIDY_POLICY; COAL;
+COAL_FIRED_POWER_PLANTS; FOSSIL_FUEL_POWER_PLANTS; TARIFF_STRUCTURE;
+ELECTRICITY_TARIFFS; STRATEGIC_PLANNING
+
+Use the Record-No value between brackets to indicate the reference to the
+record. For example, [1] means that the information is in the Record-No
+1. Use notes below of the generated text to justify the affirmation. Use
+only phrases appearing in the provided text.
+
+Here are the records:
+
+--
+
+Record-No: 72
+Citations: 71
+Record-ID: Zhang M.M., 2019, APPL ENERGY, V240, P1049
+Title: evaluating UNCERTAIN_INVESTMENT_DECISIONS in LOW_CARBON_TRANSITION toward
+RENEWABLE_ENERGY
+Abstract:
+```
+this paper proposed a model for solving the
+INVESTMENT_DECISIONS_AMIDST_UNCERTAINTY in the low_carbon transition
+toward RENEWABLE_ENERGY. the REAL_OPTION_METHOD is used and numerous
+influencing factors are considered, including the MARKET_PRICE of
+ELECTRICITY, FOSSIL_FUEL_COST, CARBON_DIOXIDE_PRICE, INVESTMENT_COST and
+long_term changes of feed_in tariff policy associated with
+RENEWABLE_ENERGY. the INVESTMENT_DECISIONS related to the transition from
+a coal_fired POWER_PLANT to a SOLAR_PHOTOVOLTAIC_POWER_PLANT in CHINA
+have been analyzed in detail. the results indicate the
+OPTIMAL_TRANSITION_INVESTMENT_STRATEGY and elucidate the effects of
+MULTIPLE_FACTORS on the INVESTMENT_STRATEGY. this provides a
+CLEAR_SUGGESTION for both the GOVERNMENT and investor how to
+scientifically ADDRESS_UNCERTAINTY and make OPTIMAL_INVESTMENT_DECISION
+to accelerate the low_carbon transition.  2019 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 64
+Citations: 46
+Record-ID: Fan J.-L., 2019, RENEWABLE SUSTAINABLE ENERGY REV, V115
+Title: BENEFIT_EVALUATION of INVESTMENT in CCS_RETROFITTING of COAL fired
+POWER_PLANTS and PV_POWER_PLANTS in CHINA based on REAL_OPTIONS
+Abstract:
+```
+coal_fired POWER_PLAYS an IMPORTANT_ROLE in CHINA's power supply, even
+though the PHOTOVOLTAIC (PV) power has developed rapidly in RECENT_YEARS.
+CARBON_CAPTURE_AND_STORAGE (ccs) TECHNOLOGY is essential for achieving
+anticipated long_term CLIMATE_CHANGE MITIGATION_TARGETS. however, CHINA's
+GOVERNMENT_SUBSIDY policies tend to SUPPORT_PV, while incentives for ccs
+are few. given this situation, a TRINOMIAL_TREE modeling_based
+REAL_OPTIONS_APPROACH was developed to evaluate
+CCS_RETROFITTING_INVESTMENT in coal_fired
+POWER_PLANTS_VERSUS_PV_POWER_INVESTMENT. this model includes setting
+DIFFERENT_POLICY_SCENARIOS by considering ELECTRICITY_TARIFF_SUBSIDIES
+and CHINESE_EMISSION trading scheme (cn_ets). the results showed that
+coal_fired power with ccs has a COST_ADVANTAGE over PV_POWER in most
+provinces in CHINA, if the ELECTRICITY_TARIFF and other SUBSIDY_POLICIES
+remain the same; however, PV_POWER will be cheaper than coal_fired power
+with ccs in yunnan, tianjin, hebei, shanghai and SHANXI_PROVINCES in the
+ABOVE_CASES. incorporating ccs into cn_ets could cut the
+former'S_APPLICATION_COST, but the INCENTIVE_EFFECT of cn_ets is not
+obvious, because the CARBON_PRICE in CHINA is currently too cheap, and
+the INCENTIVE_EFFECT of a POWER_TARIFF_SUBSIDY (SUBSIDY at the
+PV_POWER_TARIFF_LEVEL) is much better for PV than for cn_ets. increasing
+the LOAD_FACTOR is an IMPORTANT_WAY to reduce the CCS_APPLICATION_COST
+for POWER_PLANTS. the results of this study provide reference and
+guidance for the COLLABORATIVE_DEVELOPMENT of ccs and PV.  2019
+```
+
+

@@ -1,0 +1,76 @@
+You are an automated scientific writer assistant. Use only the
+information provided in the following records to write one paragraph
+explaining and exemplifying the relationships among the following
+keywords:
+
+OPTIMAL_INVESTMENT_TIMING; DEFER_OPTION; ENERGY_MARKETS; FEED_IN_TARIFFS;
+TIMING_CIRCUITS; STIMULATE_INVESTMENT; TECHNOLOGICAL_CHANGE;
+ELECTRIC_INDUSTRY; SHORT_TERM; SUPPORT_SCHEMES
+
+Use the Record-No value between brackets to indicate the reference to the
+record. For example, [1] means that the information is in the Record-No
+1. Use notes below of the generated text to justify the affirmation. Use
+only phrases appearing in the provided text.
+
+Here are the records:
+
+--
+
+Record-No: 75
+Citations: 19
+Record-ID: Eissa M.A., 2017, ENERGIES, V10
+Title: lobatto milstein NUMERICAL_METHOD in application of
+UNCERTAINTY_INVESTMENT of SOLAR_POWER_PROJECTS
+Abstract:
+```
+recently, there has been a growing interest in the PRODUCTION of
+ELECTRICITY from RENEWABLE_ENERGY_SOURCES (res). the RES_INVESTMENT is
+characterized by UNCERTAINTY, which is long_term, costly and depends on
+feed_in tariff and SUPPORT_SCHEMES. in this paper, we address the
+REAL_OPTION_VALUATION (ROV) of a SOLAR_POWER_PLANT_INVESTMENT. the
+REAL_OPTION_FRAMEWORK is investigated. this FRAMEWORK_CONSIDERS the
+RENEWABLE_CERTIFICATE_PRICE and, further, the COST of delay between
+establishing and operating the SOLAR_POWER_PLANT. the OPTIMAL_TIME of
+launching the project and assessing the value of the DEFERRED_OPTION are
+discussed. the new three_stage NUMERICAL_METHODS are constructed, the
+lobatto3c_milstein (l3cm) methods. the NUMERICAL_METHODS are integrated
+with the concept of black_scholes option PRICING theory and applied in
+OPTION_VALUATION for SOLAR_ENERGY_INVESTMENT with UNCERTAINTY. the
+NUMERICAL_RESULTS of the l3cm, FINITE_DIFFERENCE and MONTE_CARLO_METHODS
+are compared to show the efficiency of our methods. our DATASET_REFERS to
+the ARAB_REPUBLIC of EGYPT.
+```
+
+--
+
+Record-No: 76
+Citations: 17
+Record-ID: Cheng C., 2017, ENERGY, V127, P594
+Title: DEFER_OPTION_VALUATION and OPTIMAL_INVESTMENT_TIMING of
+SOLAR_PHOTOVOLTAIC_PROJECTS under DIFFERENT_ELECTRICITY_MARKET_SYSTEMS
+and SUPPORT_SCHEMES
+Abstract:
+```
+this PAPER_APPLIES the REAL_OPTIONS_METHOD to analyse the
+DEFER_OPTION_VALUE and OPTIMAL_INVESTMENT_TIMING for
+SOLAR_PHOTOVOLTAIC_PROJECTS in CHINA. the MAIN_PURPOSE of this paper is
+to examine INVESTMENT_BEHAVIOURS under DIFFERENT_MARKET_SYSTEMS and
+SUPPORT_SCHEMES. this paper further investigates the interaction of
+TECHNOLOGICAL_PROGRESS and SUPPORT_SCHEMES. four scenarios are designed,
+and the CORRESPONDING_REAL_OPTIONS_MODELS are established. in the
+CASE_STUDY, we find that ELECTRICITY_MARKET_REFORM_ENHANCES the
+DEFER_OPTION_VALUE in the SHORT_TERM but makes the owners of
+SOLAR_PV_PROJECTS_POSTPONE their INVESTMENT. nevertheless, the GOVERNMENT
+can STIMULATE_INVESTMENT by implementing APPROPRIATE_SUPPORT_SCHEMES.
+additionally, the impacts of DIFFERENT_SUPPORT_SCHEMES vary according to
+the MARKET_SYSTEM. the impacts of feed_in tariffs and PRICE_PREMIUMS are
+similar in a regulated MARKET but are different in a FREE_MARKET. the
+PRICE_PREMIUM_SCHEME greatly promotes the DEFER_OPTION_VALUES in the
+SHORT_TERM, but the feed_in tariff scheme excels in the LONG_TERM. a
+feed_in tariff has a greater impact on reducing the expected
+EXECUTION_TIME and its variance than the PRICE_PREMIUM. in addition, more
+ATTRACTIVE_SUPPORT_SCHEMES are required when the TECHNOLOGICAL_LEVEL is
+improved.  2017 ELSEVIER_LTD
+```
+
+

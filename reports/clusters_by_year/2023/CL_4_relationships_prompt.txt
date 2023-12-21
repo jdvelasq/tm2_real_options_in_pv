@@ -1,0 +1,93 @@
+You are an automated scientific writer assistant. Use only the
+information provided in the following records to write one paragraph
+explaining and exemplifying the relationships among the following
+keywords:
+
+UNCERTAINTY; PROJECT_VALUES; STOCHASTIC_PROCESS; BINOMIAL_DECISION_TREE;
+RISK_ASSESSMENT; RISK_PERCEPTION; PRICE_VOLATILITY; SOLAR_PROJECTS;
+GEOMETRIC_BROWNIAN_MOTION; LARGE_SCALES
+
+Use the Record-No value between brackets to indicate the reference to the
+record. For example, [1] means that the information is in the Record-No
+1. Use notes below of the generated text to justify the affirmation. Use
+only phrases appearing in the provided text.
+
+Here are the records:
+
+--
+
+Record-No: 69
+Citations: 4
+Record-ID: Biancardi M., 2023, COMM NONLINEAR SCI NUMER SIMUL, V116
+Title: FLEXIBILITY to SWITCH_PROJECT_SIZE: a REAL_OPTION_APPLICATION for
+PHOTOVOLTAIC_INVESTMENT_VALUATION
+Abstract:
+```
+SOLAR_ENERGY_PROJECTS_CONTRIBUTE to SMART_CITY_GOALS by reducing
+pollution and assisting cities to become self_sustaining. however, these
+projects, characterised by their SEQUENTIAL_NATURE, require a HUGE_AMOUNT
+of IRREVERSIBLE_INVESTMENT, especially in the case of large_scale
+PHOTOVOLTAIC_PROJECTS (mw). this aspect could make
+SOLAR_PROJECTS_UNATTRACTIVE for POTENTIAL_INVESTORS. to mitigate the
+RISKS of FINANCIAL_LOSSES the investor could invest in small_scale
+SOLAR_PROJECTS and switch to large_scale INVESTMENT_PROJECTS only if the
+MARKET_CONDITIONS are favourable. this PAPER_AIMS to embed this
+MANAGERIAL_FLEXIBILITY of changing INVESTMENT_SIZE during the
+PROJECT_LIFETIME into its VALUATION. to accomplish this, we use a
+COMPOUND_OPTIONS_APPROACH with a switch and call OPTIONS_MODELS to
+reliably price these projects by considering their riskiness and, their
+stochastic and multi_stage nature. we also consider the determination of
+the OPTIMAL_INVESTMENT_TIME like an AMERICAN_OPTION. we also propose a
+CASE_STUDY that shows that considering the MANAGERIAL_FLEXIBILITY_VALUE
+in the PROJECT_VALUATION makes them attractive and financially
+profitable.  2022 elsevier b.v.
+```
+
+--
+
+Record-No: 59
+Citations: 0
+Record-ID: Al-Obaidli H., 2023, ENERGIES, V16
+Title: multidimensional RISK based REAL_OPTIONS_VALUATION for low CARBON
+COGENERATION pathways
+Abstract:
+```
+ENERGY_PRICE_FLUCTUATIONS_POSE a SIGNIFICANT_RISK and UNCERTAINTY to
+FINANCIAL_INVESTMENTS for NEW_DEVELOPMENTS in CONVENTIONAL_POWER and
+FRESHWATER_COGENERATION_FACILITIES. this STUDY_ATTEMPTS to address the
+problem of making ROBUST_VALUATION for low_carbon ENERGY project
+INVESTMENTS subject to multi_dimensional PRICE_RISK, particularly looking
+at some KEY_RESEARCH_QUESTIONS: (a) how does the CORRELATION_STRUCTURE,
+or independence, between the PRICE_RISKS affect the PROJECT_VALUE; and
+(b) does adding FLEXIBILITY in INVESTMENT_ENHANCE or worsen the
+PROJECT_VALUATION, given (a). this study identified three PRICE_FACTORS
+with SIGNIFICANT_FLUCTUATIONS that impact CONVENTIONAL_POWER_GENERATION,
+namely: WHOLESALE_ELECTRICITY_SPOT_PRICE, NATURAL_GAS_SPOT_PRICE, and
+CO2_MARKET_PRICE. the PRICE_FACTORS were used to construct a
+MULTIDIMENSIONAL_RISK_MODEL and evaluate INVESTMENT_DECISIONS for
+COGENERATION_PROJECT_EXPANSION in the FUTURE based on a low_carbon
+ENERGY_MIX. to this end, five COGENERATION_CONFIGURATIONS using
+combined_cycle gas turbine (ccgt) integrated with SOLAR_PHOTOVOLTAICS
+(PV) and CARBON_CAPTURE_AND_STORAGE (ccs) technologies were assessed. a
+combined PRICE_RISK was initially estimated by transforming the given
+PRICE_FACTORS representing MAXIMUM_COVARIANCE using
+PRINCIPAL_COMPONENT_ANALYSIS (pca). the trend and volatilities in the
+MAJOR_PRINCIPAL_COMPONENT_SCORES (the combined PRICE_RISK_INDICATOR) were
+modelled using the GEOMETRIC_BROWNIAN_MOTION_STOCHASTIC_PROCESS, whose
+parameters were determined and then used to perform time_series
+SIMULATION and generate MULTIPLE_REALISATIONS of the PRINCIPAL_COMPONENT.
+a BACK_TRANSFORMATION was then applied to obtain the simulated values
+representing FUTURE_UNCERTAINTIES in the PRICE_FACTORS. the effect of
+PRICE_RISK and uncertainties were subsequently evaluated using a
+recombining BINOMIAL_LATTICE_MODEL for REAL_OPTIONS_ANALYSIS (ROA). there
+were FINANCIAL_GAINS when PV was mixed with conventional natural
+gas_fired TECHNOLOGY. INVESTMENT in COGENERATION_CONFIGURATIONS with (a)
+25% PV share provided a 53% gain in the extended net PRESENT_VALUE
+(ENPV); and (b) 50% PV share provided a 124% ENPV gain when compared to
+the BASELINE_COGENERATION_SYSTEM with no PV_SHARES. the analyses
+demonstrate that PV_TECHNOLOGY is a better hedging option than ccs
+against FUTURE_MARKET_UNCERTAINTY and PRICE_VOLATILITY.  2023 by the
+authors.
+```
+
+

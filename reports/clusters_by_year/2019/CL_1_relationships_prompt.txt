@@ -1,0 +1,108 @@
+You are an automated scientific writer assistant. Use only the
+information provided in the following records to write one paragraph
+explaining and exemplifying the relationships among the following
+keywords:
+
+UNCERTAINTY; WIND_ENERGY; COST_BENEFIT_ANALYSIS; STOCHASTIC_PROCESS;
+COST_UNCERTAINTY; CAPITAL_INVESTMENTS; CRITICAL_THRESHOLD;
+FUTURE_ELECTRICITY_PRICE; LEARNING_RATES; MINIMUM_THRESHOLD
+
+Use the Record-No value between brackets to indicate the reference to the
+record. For example, [1] means that the information is in the Record-No
+1. Use notes below of the generated text to justify the affirmation. Use
+only phrases appearing in the provided text.
+
+Here are the records:
+
+--
+
+Record-No: 33
+Citations: 35
+Record-ID: Gazheli A., 2018, RENEWABLE SUSTAINABLE ENERGY REV, V82, P2693
+Title: REAL_OPTIONS_ANALYSIS of INVESTMENT in SOLAR vs. WIND_ENERGY:
+DIVERSIFICATION_STRATEGIES under UNCERTAIN_PRICES and COSTS
+Abstract:
+```
+in this paper we study a community or firm considering to diversify its
+INVESTMENT in two distinct RENEWABLE_ENERGY_TECHNOLOGIES, namely WIND and
+SOLAR_PV_ELECTRICITY. we assume TECHNOLOGICAL_LEARNING_CURVES as a
+function of CUMULATIVE_CAPITAL_INVESTMENT. a REAL_OPTIONS_APPROACH is
+applied as it takes into ACCOUNT_UNCERTAINTY about prices and learning,
+as well as IRREVERSIBILITY associated with INVESTMENT_DECISIONS. we
+investigate three DIFFERENT_CASES, dealing with UNCERTAINTY about
+FUTURE_ELECTRICITY_PRICES, and UNCERTAINTY about the speed with which
+learning drives the COSTS of WIND and SOLAR_ELECTRICITY down. we assess
+the MINIMUM_THRESHOLD for the STOCHASTIC_PRICE and the
+MAXIMUM_ELECTRICITY_PRODUCTION_COST that makes it optimal for the firm to
+invest in the two technologies. the results show that the
+LEARNING_RATE_AFFECTS the option to invest in but reducing
+CRITICAL_THRESHOLD for exercising it. the greater the amount of CAPITAL
+invested, the more LEARNING_STIMULATES earlier exercising of the option
+to invest. the firm will then anticipate the option to invest and
+exercise it for lower CRITICAL_THRESHOLD_VALUES if all CAPITAL is
+invested in one TECHNOLOGY. if CAPITAL_INVESTMENT is diversified, the
+option should be exercised at a higher CRITICAL_THRESHOLD. more
+UNCERTAINTY in ENERGY_PRICES or TECHNOLOGY_COSTS_POSTPONES the option to
+invest. although investing in both SOLAR and WIND may be profitable under
+PARTICULAR_CONDITIONS of price and COST_UNCERTAINTY, the theoretically
+OPTIMAL_STRATEGY is generally investing in only one TECHNOLOGY, that is,
+SOLAR or WIND, depending on their RELATIVE_INITIAL_COSTS and
+LEARNING_RATES. this suggests that the practice in most countries of
+diversifying RENEWABLE_ENERGY may reflect a MISTAKEN_STRATEGY.  2017
+ELSEVIER_LTD
+```
+
+--
+
+Record-No: 47
+Citations: 1
+Record-ID: Li Y., 2019, INT J NONLINEAR SCI, V28, P120
+Title: diversified ENERGY_INVESTMENT_STRATEGIES based on REAL_OPTIONS:
+HYDROPOWER vs. SOLAR_POWER
+Abstract:
+```
+based on REAL_OPTIONS_APPROACH (ROA), this paper presents a diversified
+INVESTMENT_STRATEGY, that is, a company invests in two distinct
+RENEWABLE_ENERGY_TECHNOLOGIES (SOLAR_PHOTOVOLTAIC (PV) and hydro).
+assumed that the LEARNING_CURVE of PV_TECHNOLOGY is a function of
+CUMULATIVE_CAPITAL_INVESTMENT, the COST of HYDROPOWER_INVESTMENT is
+constant. under the UNCERTAIN_CONDITIONS of FUTURE_ELECTRICITY_PRICE,
+LEARNING_RATE and INITIAL_COST, we use ROA to evaluate the
+MINIMUM_THRESHOLD of STOCHASTIC_ELECTRICITY_PRICE when the
+COMPANYS_INVESTMENT in these two technologies is optimal. the more
+CAPITAL invested, the more LEARNING_RATE can stimulate the early exercise
+of INVESTMENT_OPTIONS. however, if all the CAPITAL is invested in
+PV_TECHNOLOGY, the company will predict the INVESTMENT_OPTION and
+exercise it at a lower threshold. if CAPITAL_INVESTMENT is diversified,
+options will be exercised at a higher threshold. when all CAPITAL is
+invested in HYDROPOWER, the CRITICAL_THRESHOLD is the highest. this is
+because HYDROPOWER_TECHNOLOGY_TENDS to be mature or even outdated, and it
+is difficult to reduce the COST according to the existing
+TECHNOLOGY_LEVEL. more UNCERTAINTY about
+ELECTRICITY_PRICES_DELAYS_INVESTMENT_CHOICES. although INVESTMENT in
+SOLAR_ENERGY and HYDROPOWER may be profitable under
+CERTAIN_PRICE_UNCERTAINTIES, the best strategy in theory is usually to
+invest in only one TECHNOLOGY, namely SOLAR_ENERGY. this suggests that in
+most countries, the diversification of RENEWABLE_ENERGY may reflect a
+WRONG_STRATEGY. copyrightworld ACADEMIC_PRESS, world ACADEMIC_UNION.
+```
+
+--
+
+Record-No: 42
+Citations: 1
+Record-ID: Acevedo Prins N.M., 2018, ESPACIOS, V39
+Title: EVALUATION of certified EMISSION_REDUCTIONS in POWER_GENERATION_PROJECT
+through REAL_OPTIONS;
+Abstract:
+```
+this ARTICLE_EVALUATES a POWER_GENERATION_PROJECT from SOLAR_SOURCE in
+COLOMBIA. it considers the INCENTIVE by certified
+EMISSION_REDUCTIONS_SALES. it is evaluated by TRADITIONAL_METHOD and
+REAL_OPTIONS_METHOD with the ENERGY_PRICE as an uncertain variable.
+initially, the project is not profitable for investors, however, with the
+deferment REAL_OPTION the project is profitable as long as the
+ENERGY_PRICE takes HIGH_VALUES.  2018, revistaespacios.com.
+```
+
+

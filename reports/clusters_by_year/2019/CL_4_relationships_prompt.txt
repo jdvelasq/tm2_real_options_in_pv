@@ -1,0 +1,74 @@
+You are an automated scientific writer assistant. Use only the
+information provided in the following records to write one paragraph
+explaining and exemplifying the relationships among the following
+keywords:
+
+UNCERTAINTY_ANALYSIS; ENERGY_POLICY; SENSITIVITY_ANALYSIS;
+CARBON_EMISSIONS; ECONOMIC_ANALYSIS; MONTE_CARLO_METHODS; CARBON;
+EMISSION_REDUCTIONS
+
+Use the Record-No value between brackets to indicate the reference to the
+record. For example, [1] means that the information is in the Record-No
+1. Use notes below of the generated text to justify the affirmation. Use
+only phrases appearing in the provided text.
+
+Here are the records:
+
+--
+
+Record-No: 18
+Citations: 35
+Record-ID: Sim J., 2018, J CLEAN PROD, V189, P297
+Title: the economic and ENVIRONMENTAL_VALUES of the r&D_INVESTMENT in a
+RENEWABLE_ENERGY_SECTOR in SOUTH_KOREA
+Abstract:
+```
+although a fossil_based FUEL_ECONOMY has allowed SOUTH_KOREA to rapidly
+develop, the ECONOMIC_GROWTH means that SOUTH_KOREA is now one of the
+largest sources of CARBON_EMISSIONS. the south KOREAN_GOVERNMENT has
+recently made a RENEWABLE_ENERGY_INVESTMENT_PLAN to convert the economy
+based on FOSSIL_FUELS to an economy based on RENEWABLE_ENERGY. in order
+to analyze the ECONOMIC_FEASIBILITY of the RESEARCH_AND_DEVELOPMENT (r&d)
+INVESTMENT required for this change, this STUDY_EVALUATES the
+r&D_INVESTMENT in the six types of RENEWABLE_ENERGY_SOURCES  biomass
+ENERGY, WASTE_ENERGY, PHOTOVOLTAIC_ENERGY, SOLAR_THERMAL_ENERGY,
+MARINE_ENERGY, and WIND POWER_ENERGY, while considering several
+UNCERTAINTY_FACTORS  a RENEWABLE_ENERGY_PRODUCTION amount, an
+r&D_INVESTMENT amount, a UNIT_PRICE, and a risk_free INTEREST_RATE. this
+STUDY_UTILIZES the SYSTEM_DYNAMICS_APPROACH using the black_scholes model
+and CONDUCTS_SENSITIVITY_ANALYSES of the UNCERTAINTY_FACTORS. the results
+indicate that the RENEWABLE_ENERGY_PRODUCTION amount has a relatively
+LARGE_INFLUENCE on both the r&D_INVESTMENT_VALUE and the
+CARBON_EMISSION_REDUCTION amount. in the MONTE_CARLO_SIMULATION, a
+risk_free INTEREST_RATE has annually a SMALL_IMPACT on the
+r&D_INVESTMENT_VALUE.  2018 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 81
+Citations: 29
+Record-ID: Moon Y., 2018, RENEW ENERGY, V125, P783
+Title: ECONOMIC_ANALYSIS of a RESIDENTIAL_PV_SYSTEM from the TIMING_PERSPECTIVE:
+a REAL_OPTION_MODEL
+Abstract:
+```
+this paper proposes a NEW_MODEL for determining OPTIMAL_INVESTMENT_TIME
+for RESIDENTIAL_PHOTOVOLTAIC (PV) POWER_SYSTEMS. the model explicitly
+incorporates the COST_UNCERTAINTY of the PV_SYSTEM and a RESIDENT's
+option to DEFER_INVESTMENT, using a REAL_OPTION_MODEL. the paper provides
+THEORETICAL_ANALYSIS as well as CASE_STUDIES. using the
+REAL_OPTION_MODEL, we show that the
+OPTIMAL_INVESTMENT_THRESHOLD_DECREASES in case of VOLATILITY_INCREASE,
+mean_drift decrease and benefit decrease. a SENSITIVITY_ANALYSIS using
+DIFFERENT_PV_SIZES_ILLUSTRATES that the optimal waiting time for
+SUBSTANTIAL_PV_DIFFUSION to smaller PV_SYSTEMS is longer than that of
+larger systems. the paper also investigates the expected INVESTMENT_TIMES
+in the UNITED_STATES, GERMANY, JAPAN, and KOREA and shows that all
+countries except GERMANY_NEED to wait to invest. moreover, a
+COMPARISON_STUDY to the net PRESENT_VALUE (NPV) METHOD_DEMONSTRATES that
+PV_SYSTEM_INVESTMENT can be additionally delayed by 5.7611.01 YEARS.
+2018 ELSEVIER_LTD
+```
+
+
