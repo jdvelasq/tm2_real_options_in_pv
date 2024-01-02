@@ -1,0 +1,321 @@
+You are an automated scientific writer assistant. Use only the
+information provided in the following records to write one paragraph
+explaining and exemplifying the relationships among the following
+keywords:
+
+POWER_GENERATION; ELECTRICITY_GENERATION; OPTIMIZATION; PRICE_DYNAMICS
+
+Use the Record-No value between brackets to indicate the reference to the
+record. For example, [1] means that the information is in the Record-No
+1. Use notes below of the generated text to justify the affirmation. Use
+only phrases appearing in the provided text.
+
+Here are the records:
+
+--
+
+Record-No: 120
+Citations: 83
+Record-ID: Jeon C., 2015, APPL ENERGY, V142, P33
+Title: OPTIMAL_SUBSIDY_ESTIMATION_METHOD using SYSTEM_DYNAMICS and the
+REAL_OPTION_MODEL: PHOTOVOLTAIC_TECHNOLOGY_CASE
+Abstract:
+```
+in this paper, we propose a method of optimizing FINANCIAL_SUBSIDIES and
+PUBLIC_RESEARCH and DEVELOPMENT_INVESTMENTS for
+RENEWABLE_ENERGY_TECHNOLOGIES, rather than optimizing FINANCIAL_SUBSIDY
+alone. by combining SYSTEM_DYNAMICS with REAL_OPTION_MODELS, we capture
+DYNAMIC_COMPLEX_INTERACTIONS among investors, consumers, and
+policymakers, as well as FUTURE_UNCERTAINTIES of KEY_ENERGY, economic,
+and ENVIRONMENTAL_FACTORS. our method thereby makes SUBSIDY_OPTIMIZATION
+more accurate and flexible. to evaluate our model, we apply it to the
+KOREAN_PHOTOVOLTAIC_SUBSIDY and determine that the GOVERNMENT can achieve
+the PHOTOVOLTAIC_DIFFUSION_TARGET, even if it reduces the TOTAL_SUBSIDY
+by $us 359.5. million. the OPTIMAL_APPROACH is to increase
+RESEARCH_AND_DEVELOPMENT FUNDING by $us 310.4. million while reducing the
+FINANCIAL_SUBSIDY by $us 669.9. million. our method helps
+POLICYMAKERS_OPTIMIZE their SUBSIDY_ALLOCATION and therefore
+REDUCES_SUBSIDY_INEFFICIENCIES.  2015 ELSEVIER_LTD.
+```
+
+--
+
+Record-No: 65
+Citations: 28
+Record-ID: Zhang M.M., 2022, RENEWABLE SUSTAINABLE ENERGY REV, V154
+Title: OPTIMAL_INVESTMENT_PORTFOLIO_STRATEGIES for POWER_ENTERPRISES under multi
+POLICY_SCENARIOS of RENEWABLE_ENERGY
+Abstract:
+```
+planning a portfolio that includes
+DIFFERENT_POWER_GENERATION_TECHNOLOGIES is an IMPORTANT_METHOD to ensure
+expected value and to reduce RISKS for the PROJECT_INVESTMENT of
+electric_power enterprises. this PAPER_EVALUATES the
+OPTIMAL_INVESTMENT_PORTFOLIO_STRATEGIES implemented by
+ELECTRIC_POWER_ENTERPRISES by using REAL_OPTION and
+PORTFOLIO_OPTIMIZATION_METHODS. the REAL_OPTIONS_METHOD is used to
+GENERATE_INVESTMENT_VALUES and their distribution. these serve as the
+INPUT_VARIABLES of the PORTFOLIO_OPTIMIZATION_MODEL. the
+PORTFOLIO_OPTIMIZATION_MODEL is built based on the CONDITIONAL_VALUE at
+RISK. the OPTIMAL_INVESTMENT is analyzed by considering four
+POLICY_SCENARIOS: different expected INVESTMENT_VALUES, the phase_out of
+subsidies, tightened CARBON_REDUCTION_STANDARDS, and
+DIFFERENT_INITIAL_RENEWABLE_ENERGY_CERTIFICATE_PRICES. a CASE_STUDY is
+conducted to analyze the INVESTMENT_DECISION of an
+ELECTRIC_POWER_ENTERPRISE in CHINA. the results show the
+OPTIMAL_INVESTMENT_PORTFOLIO_STRATEGY, the INVESTMENT_VALUE, and the
+CONDITIONAL_VALUE at RISK. the OPTIMAL_DECISION for ensuring a relatively
+high expected value while reducing RISKS is to increase the share of
+SOLAR_PV_POWER_GENERATION and WIND POWER_GENERATION in
+CURRENT_CONDITIONS. tightened CARBON_REDUCTION_STANDARDS and higher
+RENEWABLE_ENERGY_CERTIFICATES_PRICES are conductive to increase the
+INVESTMENT_VALUE, reduce the RISK of loss and increase the share of
+RENEWABLE_ENERGY_POWER_GENERATION. in contrast, the phase_out of the
+subsidies had the OPPOSITE_EFFECT. the methodology and results can
+provide a reference for investors to guide the formulation of the
+OPTIMAL_INVESTMENT_DECISION and for the GOVERNMENT to optimize the
+POLICY_EFFECT.  2021 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 154
+Citations: 25
+Record-ID: Zeng Y., 2015, ENERGY ECON, V48, P295
+Title: distributed SOLAR RENEWABLE_GENERATION: OPTION_CONTRACTS with
+RENEWABLE_ENERGY_CREDIT_UNCERTAINTY
+Abstract:
+```
+SOLAR_ENERGY is rapidly emerging thanks to the decreasing
+INSTALLATION_COST of SOLAR_PANELS and the RENEWABLE_PORTFOLIO standard
+imposed by STATE_GOVERNMENTS, which gave birth to the
+RENEWABLE_ENERGY_CREDIT (rec) and the ALTERNATIVE_COMPLIANCE_PAYMENT
+(acp). to make profits from the REC_MARKET in addition to reduced
+ENERGY_COSTS, more and more home and BUSINESS_OWNERS choose to
+INSTALL_SOLAR_PANELS. recently, third_party FINANCING has become a
+COMMON_PRACTICE in SOLAR_PANEL_INVESTMENTS. we discuss OPTIMAL_TIMING for
+the host to potentially buy back the SOLAR_PANELS after being installed
+for a period of time and how to incorporate the OPTIMAL_TIMING into a
+POWER_PURCHASE_AGREEMENT between the host and the third_party developer.
+because the REC_PRICE is a MAJOR_SOURCE of UNCERTAINTY and also due to
+the acp capping the REC_PRICE, we first propose a REC_PRICE forecasting
+model that specifically considers the ACP_VALUES. then by a modified
+REAL_OPTION_STRUCTURE, we model the BUYBACK_CONTRACT as a REAL_OPTION and
+solve it with an approximate DYNAMIC_PROGRAM based
+MONTE_CARLO_SIMULATION_METHOD. we find that as the ACP_VALUE_INCREASES,
+the value of the BUYBACK_OPTION also increases under OPTIMAL_TIMING. the
+method used does not only apply to SOLAR_PROJECTS but also to other
+distributed RENEWABLE_PROJECTS that are third_party financed, such as
+WIND generations.  2015 elsevier b.v.
+```
+
+--
+
+Record-No: 29
+Citations: 19
+Record-ID: Agaton C.B., 2018, ENERGY SUSTAINABILITY SOC, V8
+Title: a REAL_OPTIONS_APPROACH to RENEWABLE_ELECTRICITY_GENERATION in the
+PHILIPPINES
+Abstract:
+```
+background: the PHILIPPINES is making a SIGNIFICANT_STRIDE to become
+ENERGY independent by developing more SUSTAINABLE_SOURCES of ENERGY.
+however, INVESTMENT in RENEWABLE_ENERGY is challenged by
+COMPETITIVE_OIL_PRICES, very HIGH_INVESTMENT_COST for RENEWABLE_ENERGY,
+and HIGH_LOCAL_ELECTRICITY_PRICES. this PAPER_EVALUATES the
+attractiveness of investing in RENEWABLE_ENERGY_SOURCES over continue
+using oil for ELECTRICITY_GENERATION. methods: this PAPER_USES the
+REAL_OPTIONS_APPROACH to analyze how the timing of INVESTMENT in
+RENEWABLE_ENERGY depends on VOLATILITY of DIESEL_PRICE,
+ELECTRICITY_PRICE, and externality for using oil. results: the result
+presents a POSITIVE_NET PRESENT_VALUE for RENEWABLE_ENERGY_INVESTMENT.
+under UNCERTAINTY in OIL_PRICES, DYNAMIC_OPTIMIZATION describes how
+waiting or delaying INVESTMENT in RENEWABLES_INCURS loses. decreasing the
+LOCAL_ELECTRICITY_PRICE and incorporating
+NEGATIVE_EXTERNALITY_FAVOR_INVESTMENT in RENEWABLE_ENERGY over continuing
+the use of oil for ELECTRICITY_GENERATION. conclusions:
+REAL_OPTIONS_APPROACH_HIGHLIGHTS the FLEXIBILITY in the timing of making
+INVESTMENT_DECISIONS. at the CURRENT_ENERGY_REGIME in the PHILIPPINES,
+substituting RENEWABLE_ENERGY is a better option than continue importing
+oil for ELECTRICITY_GENERATION. policies should aim at supporting
+INVESTMENT in more SUSTAINABLE_SOURCES of ENERGY by imposing externality
+for using oil or decreasing the price of ELECTRICITY.  2018, the
+author(s).
+```
+
+--
+
+Record-No: 15
+Citations: 15
+Record-ID: Das Gupta S., 2021, ENERGY POLICY, V148
+Title: using REAL_OPTIONS to VALUE_CAPACITY_ADDITIONS and
+INVESTMENT_EXPENDITURES in RENEWABLE_ENERGIES in INDIA
+Abstract:
+```
+we calculate the OVERALL_POLICY_VALUE of installed CAPACITY_ADDITIONS and
+INVESTMENT_EXPENDITURES in WIND and SOLAR_ENERGIES in INDIA.
+RECENT_INCREASES in CAPACITY_ADDITIONS and INVESTMENTS by both the public
+and PRIVATE_SECTORS along with GOVERNMENT_SUPPORT_SCHEMES have made these
+energies more competitive with traditional FUELS like COAL in generating
+ELECTRICITY. we use a two_factor LEARNING_CURVE to model the decline in
+prices of WIND and SOLAR_ENERGIES. employing a REAL_OPTIONS_APPROACH with
+GLOBAL_COAL_PRICES as the STOCHASTIC_VARIABLE we find the OVERALL_VALUE
+of PROMOTION_POLICIES in RENEWABLES to be sufficiently large. the
+TRIGGER_PRICE of COAL for INVESTMENT in RENEWABLE_ENERGIES today for
+ELECTRICITY_GENERATION suggest early to IMMEDIATE_DEPLOYMENT of
+ADDITIONAL_WIND and SOLAR_TECHNOLOGIES as the OPTIMAL_POLICY. with the
+option to deploy for a longer TIME_HORIZON, continuing with
+PROMOTION_POLICIES of CAPACITY_ADDITIONS and INVESTMENT_EXPENDITURES in
+RENEWABLES is more valuable at HIGH_GLOBAL_COAL_PRICES.  2020
+ELSEVIER_LTD
+```
+
+---------------------------------------------------------------------------
+
+Improve and make more clear the explanation of the relationships among
+the keywords:
+
+POWER_GENERATION; ELECTRICITY_GENERATION; OPTIMIZATION; PRICE_DYNAMICS
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the
+information provided in the records presented below. Add cites to the
+added text using the corresponding Record-No value between brackets.
+
+Here are the text to improve and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+--
+
+Record-No: 3
+Citations: 12
+Record-ID: Pringles R., 2020, RENEW ENERGY, V151, P846
+Title: VALUATION of defer and RELOCATION_OPTIONS in
+PHOTOVOLTAIC_GENERATION_INVESTMENTS by a STOCHASTIC_SIMULATION based
+method
+Abstract:
+```
+RISK_MANAGEMENT is crucial when committing INVESTMENTS in
+ELECTRICITY_MARKETS. INVESTMENT_PROJECTS for the generation of
+ELECTRICITY are capital_intensive, in LARGE_PART_IRREVERSIBLE and
+FUTURE_PERFORMANCE is subject to HIGH_UNCERTAINTY. fortunately, most
+POWER_GENERATION_PROJECTS have STRATEGIC_FLEXIBILITY for handling
+UNCERTAINTY and for mitigating RISKS under UNFAVORABLE_SCENARIOS. modern
+corporate FINANCE recognizes REAL_OPTION_ANALYSIS (ROA) as the
+CORRECT_WAY to VALUE_INVESTMENT_PROJECTS with these characteristics. due
+to both, ENVIRONMENTAL_CONCERNS and escalation of FUEL_PRICES,
+ELECTRICITY_GENERATION from RENEWABLE_SOURCES has grown dramatically
+worldwide over the last decade. RENEWABLE_INVESTMENT_PROJECTS share many
+of the features mentioned. as such, OPTION_VALUATION_METHODS should be
+applied to estimate the MONETARY_VALUE of FLEXIBILITY in
+RENEWABLE_ENERGY_INVESTMENTS. this work presents an
+APPROPRIATE_METHODOLOGY for assessing the ECONOMIC_VALUE of a
+PHOTOVOLTAIC_POWER_PLANT under uncertainties. ROA is applied to determine
+the value of delaying the INVESTMENT_DECISION while waiting for better
+MARKET_INFORMATION that would reduce ACQUISITION_COSTS due to progress in
+SOLAR_TECHNOLOGY. the FLEXIBILITY of relocating the SOLAR_FACILITY in the
+FUTURE upon the appearance of a more ATTRACTIVE_SITE in terms of COST,
+NETWORK_ACCESSIBILITY or REGULATORY_POLICIES is also valued. the problem
+of OPTION_VALUATION is solved through STOCHASTIC_SIMULATION combined with
+RECURSIVE_APPROXIMATE DYNAMIC_PROGRAMMING techniques. the methodology
+developed might be used by investors for more efficient decision_making
+and by REGULATORY_AGENCIES for designing ADEQUATE_SUPPORT_POLICIES that
+encourage INVESTMENT in RENEWABLE_ENERGY_GENERATION.  2019 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 44
+Citations: 10
+Record-ID: Chen W., 2018, MITIGATION ADAPT STRATEG GLOBAL CHANGE, V23, P667
+Title: ELECTRICITY_PRICE_SUBSIDY or CARBON_TRADING SUBSIDY: which is more
+efficient to develop PHOTOVOLTAIC_POWER_GENERATION from a
+GOVERNMENT_PERSPECTIVE?
+Abstract:
+```
+PHOTOVOLTAIC (PV) POWER_GENERATION has HIGH_INVESTMENT_COSTS and
+LONG_PAYBACK_PERIODS. therefore, during EARLY_DEPLOYMENT, subsidies are
+fundamental and necessary to accelerate its development. we consider the
+question of how to promote PV_INDUSTRY_DEVELOPMENT and which supporting
+policy is more efficient in accelerating adoption. based on
+REAL_OPTIONS_METHOD, we establish a SUBSIDY_EFFICIENCY_MODEL for
+ELECTRICITY_PRICE_SUBSIDIES and carbon_trading subsidies under two
+sources of UNCERTAINTY_POWER_DEMAND for PV and the INVESTMENT
+cost_reduction PROBABILITY. this STUDY_AIMS to compare the two forms of
+subsidies from the perspective of promoting IMMEDIATE_INVESTMENT and
+maximizing the SUBSIDY_POLICY_EFFICIENCY for the GOVERNMENT (minimizing
+the unit carbon_mitigation COST) and advance RELEVANT_POLICY_PROPOSALS.
+an example of CHINA is provided to test the effectiveness of the model
+and to illustrate the implications of the solutions. the results show
+that a carbon_trading SUBSIDY is better than an ELECTRICITY_PRICE_SUBSIDY
+and that it is essential to improve the demand for the power produced by
+the PV power_generation projects. lower MARKET_RISK and driving
+TECHNOLOGY_PROGRESS are both conducive to improving the
+SUBSIDY_EFFICIENCY. this study also provides a MEANINGFUL_REFERENCE for
+GOVERNMENTS_WORLDWIDE to FORMULATE_SUBSIDY_PROGRAMS to SUPPORT_PV
+power_generation projects.  2017, springer science+business media b.v.
+```
+
+--
+
+Record-No: 54
+Citations: 8
+Record-ID: Castellini M., 2021, ENERGY ECON, V104
+Title: ENERGY_EXCHANGE among HETEROGENEOUS_PROSUMERS under PRICE_UNCERTAINTY
+Abstract:
+```
+in this paper, we provide a REAL_OPTIONS_MODEL framing
+PROSUMERS_INVESTMENT in PHOTOVOLTAIC_PLANTS. this is presented in a
+SMART_GRID_CONTEXT where the EXCHANGE_OF_ENERGY among prosumers is
+possible. we determine the OPTIMAL_SIZE of the PHOTOVOLTAIC_INSTALLATIONS
+based on the influence the self_consumption profiles on the
+EXCHANGE_OF_ENERGY among prosumers. we calibrate the model using figures
+relative to the northern ITALY ENERGY_MARKET and investigate the
+INVESTMENT_DECISION allowing for DIFFERENT_PROSUMER_PROFILES and consider
+several combinations of their INDIVIDUAL_ENERGY_DEMAND and supply. our
+findings show that the shape of INDIVIDUAL_ENERGY_DEMAND and supply
+curves is crucial to the EXCHANGE_OF_ENERGY among prosumers, and that
+there could be circumstances under which no EXCHANGE_OCCURS.  2021
+elsevier b.v.
+```
+
+--
+
+Record-No: 67
+Citations: 4
+Record-ID: Das Gupta S., 2020, INT J ENERGY SECT MANAGE, V14, P757
+Title: evaluating INDIAS_ENERGY_TARGETS using REAL_OPTIONS_APPROACH
+Abstract:
+```
+purpose: the AUTHORS_FORMULATE_INDIAS_ENERGY_TARGETS in light of pushing
+for RENEWABLE_ENERGY_SOURCES and reducing the dependence on imported
+COAL. share of imported COAL in ELECTRICITY_GENERATION has been
+approximately 10 per cent in RECENT_YEARS. while INVESTMENTS in
+RENEWABLES have grown in RECENT_YEARS as seen in INSTALLED_CAPACITIES,
+coal_fired ELECTRICITY_GENERATION has grown because of rising demand for
+ELECTRICITY. the purpose of this study is to find a PLANNER_SOLUTION when
+HIGH_GLOBAL_COAL_PRICES_FORCE greater INVESTMENTS in RENEWABLE_ENERGIES.
+DESIGN/methodology/approach: the authors use REAL_OPTIONS_APPROACH where
+GLOBAL_COAL_PRICES are the STOCHASTIC_VARIABLE. they present an
+OPTIMAL_STOPPING_PROBLEM and solving the PROBLEM_BACKWARD, the revenues
+from continuing with the CURRENT_ENERGY_GENERATION_MIX and those from
+replacing imported COAL with WIND_AND_SOLAR is compared for each period.
+findings: the TRIGGER_PRICE for GLOBAL_COAL_PRICES when it is optimal for
+the SOCIAL_PLANNER to invest in ADDITIONAL_WIND and SOLAR_CAPACITIES is
+found. TRIGGER_PRICES is the threshold when INVESTMENT must be undertaken
+whatever be the FUTURE_EVOLUTION of COAL_PRICES; this gives the problem a
+value of waiting. INDIA cannot afford to wait to invest if faced with
+strict short_term goals. originality/value: the WORK_EVALUATES_INDIAS
+DOMESTIC_TARGETS and its PARIS_AGREEMENT_GOALS in light of using more of
+WIND and sun and replacing imported COAL. VARIOUS_DATA_SOURCES
+(GOVERNMENT_REPORTS, RESEARCH_ARTICLES) are consulted to predict shares
+of ELECTRICITY from VARIOUS_SOURCES in FUTURE and the authors find the
+OPERATING_COSTS and the INVESTMENT_COSTS associated with switching to
+RENEWABLES.  2020, emerald publishing limited.
+```
+
+
