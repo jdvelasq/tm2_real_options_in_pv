@@ -1,0 +1,676 @@
+You are an automated scientific writer assistant. Use only the
+information provided in the following records to write one paragraph
+explaining and exemplifying the relationships among the following
+keywords:
+
+UNCERTAINTY; ENERGY_POLICY; CARBON_EMISSIONS; CARBON; CARBON_PRICES;
+COST_BENEFIT_ANALYSIS; POWER_PLANTS
+
+Use the Record-No value between brackets to indicate the reference to the
+record. For example, [1] means that the information is in the Record-No
+1. Use notes below of the generated text to justify the affirmation. Use
+only phrases appearing in the provided text.
+
+Here are the records:
+
+--
+
+Record-No: 125
+Citations: 129
+Record-ID: Zhang M.M., 2016, ENERGY ECON, V59, P213
+Title: a REAL_OPTIONS_MODEL for RENEWABLE_ENERGY_INVESTMENT with application to
+SOLAR_PHOTOVOLTAIC_POWER_GENERATION in CHINA
+Abstract:
+```
+this paper proposes a REAL_OPTIONS_MODEL for evaluating
+RENEWABLE_ENERGY_INVESTMENT by considering UNCERTAIN_FACTORS such as
+CO2_PRICE, non_renewable ENERGY COST, INVESTMENT_COST and MARKET_PRICE of
+ELECTRICITY. a phase_out mechanism is built into the model to reflect the
+long_term changes of SUBSIDY_POLICY. we apply the proposed model to
+empirically evaluate the INVESTMENT_VALUE and OPTIMAL_TIMING for
+SOLAR_PHOTOVOLTAIC_POWER_GENERATION in CHINA. our EMPIRICAL_RESULTS show
+that the CURRENT_INVESTMENT_ENVIRONMENT in CHINA may not be able to
+attract IMMEDIATE_INVESTMENT, while the development of CARBON_MARKET
+helps advance the OPTIMAL_INVESTMENT_TIME. a SENSITIVITY_ANALYSIS is
+conducted to investigate the dynamics of INVESTMENT_VALUE and
+OPTIMAL_TIMING under the changes of unit generating capacity,
+SUBSIDY_LEVEL, MARKET_PRICE of ELECTRICITY, CO2_PRICE and
+INVESTMENT_COST. it is found that the HIGH_INVESTMENT_COST and the
+VOLATILITY of ELECTRICITY and CO2_PRICES, are not conducive to attract
+IMMEDIATE_INVESTMENT. instead, increasing the level of SUBSIDY, promoting
+TECHNOLOGICAL_PROGRESS and maintaining the stability of MARKET are useful
+to STIMULATE_INVESTMENT.  2016 elsevier b.v.
+```
+
+--
+
+Record-No: 105
+Citations: 85
+Record-ID: Zhang M.M., 2016, ENERGY POLICY, V97, P181
+Title: optimal FEED_IN_TARIFF for SOLAR_PHOTOVOLTAIC_POWER_GENERATION in CHINA:
+a REAL_OPTIONS_ANALYSIS
+Abstract:
+```
+the feed_in tariff policy is widely used to promote the development of
+RENEWABLE_ENERGY. CHINA also adopts feed_in tariff policy to attract
+greater INVESTMENT in SOLAR_PHOTOVOLTAIC_POWER_GENERATION. this study
+employs REAL_OPTIONS_METHOD to assess the OPTIMAL_LEVELS of feed_in
+tariffs in 30 provinces of CHINA. the uncertainties in CO2_PRICE and
+INVESTMENT_COST are considered. a method that integrates the backward
+DYNAMIC_PROGRAMMING ALGORITHM and least_squares MONTE_CARLO_METHOD is
+used to solve the model. the results demonstrate that the feed_in tariffs
+of 30 PROVINCES_RANGE from 0.68 rmb/kwh to 1.71 rmb/kwh, and the
+AVERAGE_LEVEL is 1.01 rmb/kwh. on this basis, we find that the levels of
+sub_regional feed_in tariff announced in 2013 are no longer appropriate
+and should be adjusted as soon as possible. we have also identified the
+implications of TECHNOLOGICAL_PROGRESS and CARBON_EMISSION trading
+schemes, as well as the importance of strengthening
+ELECTRICITY_TRANSMISSION. it has been suggested that the
+CHINESE_GOVERNMENT takes DIVERSE_MEASURES, including increasing RESEARCH
+and DEVELOPMENT_INVESTMENT, establishing and improving a
+NATIONWIDE_CARBON_EMISSION trading scheme and accelerating the
+construction of electricity_transmission infrastructure, to reduce the
+required feed_in tariff and promote the development of
+SOLAR_PHOTOVOLTAIC_POWER_GENERATION.  2016 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 72
+Citations: 71
+Record-ID: Zhang M.M., 2019, APPL ENERGY, V240, P1049
+Title: evaluating UNCERTAIN_INVESTMENT_DECISIONS in LOW_CARBON_TRANSITION toward
+RENEWABLE_ENERGY
+Abstract:
+```
+this paper proposed a model for solving the
+INVESTMENT_DECISIONS_AMIDST_UNCERTAINTY in the low_carbon transition
+toward RENEWABLE_ENERGY. the REAL_OPTION_METHOD is used and numerous
+influencing factors are considered, including the MARKET_PRICE of
+ELECTRICITY, FOSSIL_FUEL_COST, CARBON_DIOXIDE_PRICE, INVESTMENT_COST and
+long_term changes of feed_in tariff policy associated with
+RENEWABLE_ENERGY. the INVESTMENT_DECISIONS related to the transition from
+a coal_fired POWER_PLANT to a SOLAR_PHOTOVOLTAIC_POWER_PLANT in CHINA
+have been analyzed in detail. the results indicate the
+OPTIMAL_TRANSITION_INVESTMENT_STRATEGY and elucidate the effects of
+MULTIPLE_FACTORS on the INVESTMENT_STRATEGY. this provides a
+CLEAR_SUGGESTION for both the GOVERNMENT and investor how to
+scientifically ADDRESS_UNCERTAINTY and make OPTIMAL_INVESTMENT_DECISION
+to accelerate the low_carbon transition.  2019 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 27
+Citations: 62
+Record-ID: Zhang M.M., 2017, RENEWABLE SUSTAINABLE ENERGY REV, V71, P873
+Title: OPTIMAL_DESIGN of SUBSIDY to stimulate RENEWABLE_ENERGY_INVESTMENTS: the
+case of CHINA
+Abstract:
+```
+this paper proposes a REAL_OPTIONS_MODEL for estimating the
+OPTIMAL_SUBSIDY for RENEWABLE_ENERGY_POWER_GENERATION_PROJECT by using
+STOCHASTIC_PROCESS to describe the MARKET_PRICE of ELECTRICITY, co2price
+and INVESTMENT_COST. two indicators, i.e., PROJECT_VALUE and
+THRESHOLD_VALUE, are used to derive the OPTIMAL_SUBSIDY. the least
+SQUARES_MONTE_CARLO_SIMULATION_METHOD is used to solve the model. the
+proposed model is used to empirically evaluate the OPTIMAL_LEVEL of
+SUBSIDY for SOLAR_PHOTOVOLTAIC_POWER_GENERATION in CHINA. the results
+show that CARBON_EMISSION trading scheme helps reduce SUBSIDY. unit
+generating capacity, MARKET_PRICE of ELECTRICITY, co2price and the
+VOLATILITY of INVESTMENT_COST are negatively related with SUBSIDY,
+WHEREAS_INVESTMENT_COST and the VOLATILITY of ELECTRICITY_PRICE and
+co2price are positively related with SUBSIDY. it is suggested that
+CHINESE_GOVERNMENTS take some measures, e.g., promoting
+TECHNOLOGICAL_PROGRESS, establishing a NATIONWIDE_CARBON_EMISSION trading
+MARKET, promoting the COMPETITION in RENEWABLE_ENERGY_INDUSTRY as well as
+maintaining the stability of co2price and ELECTRICITY_PRICE, to reduce
+the required SUBSIDY.  2016 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 64
+Citations: 46
+Record-ID: Fan J.-L., 2019, RENEWABLE SUSTAINABLE ENERGY REV, V115
+Title: BENEFIT_EVALUATION of INVESTMENT in CCS_RETROFITTING of COAL fired
+POWER_PLANTS and PV_POWER_PLANTS in CHINA based on REAL_OPTIONS
+Abstract:
+```
+coal_fired POWER_PLAYS an IMPORTANT_ROLE in CHINA's power supply, even
+though the PHOTOVOLTAIC (PV) power has developed rapidly in RECENT_YEARS.
+CARBON_CAPTURE_AND_STORAGE (ccs) TECHNOLOGY is essential for achieving
+anticipated long_term CLIMATE_CHANGE MITIGATION_TARGETS. however, CHINA's
+GOVERNMENT_SUBSIDY policies tend to SUPPORT_PV, while incentives for ccs
+are few. given this situation, a TRINOMIAL_TREE modeling_based
+REAL_OPTIONS_APPROACH was developed to evaluate
+CCS_RETROFITTING_INVESTMENT in coal_fired
+POWER_PLANTS_VERSUS_PV_POWER_INVESTMENT. this model includes setting
+DIFFERENT_POLICY_SCENARIOS by considering ELECTRICITY_TARIFF_SUBSIDIES
+and CHINESE_EMISSION trading scheme (cn_ets). the results showed that
+coal_fired power with ccs has a COST_ADVANTAGE over PV_POWER in most
+provinces in CHINA, if the ELECTRICITY_TARIFF and other SUBSIDY_POLICIES
+remain the same; however, PV_POWER will be cheaper than coal_fired power
+with ccs in yunnan, tianjin, hebei, shanghai and SHANXI_PROVINCES in the
+ABOVE_CASES. incorporating ccs into cn_ets could cut the
+former'S_APPLICATION_COST, but the INCENTIVE_EFFECT of cn_ets is not
+obvious, because the CARBON_PRICE in CHINA is currently too cheap, and
+the INCENTIVE_EFFECT of a POWER_TARIFF_SUBSIDY (SUBSIDY at the
+PV_POWER_TARIFF_LEVEL) is much better for PV than for cn_ets. increasing
+the LOAD_FACTOR is an IMPORTANT_WAY to reduce the CCS_APPLICATION_COST
+for POWER_PLANTS. the results of this study provide reference and
+guidance for the COLLABORATIVE_DEVELOPMENT of ccs and PV.  2019
+```
+
+---------------------------------------------------------------------------
+
+Improve and make more clear the explanation of the relationships among
+the keywords:
+
+UNCERTAINTY; ENERGY_POLICY; CARBON_EMISSIONS; CARBON; CARBON_PRICES;
+COST_BENEFIT_ANALYSIS; POWER_PLANTS
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the
+information provided in the records presented below. Add cites to the
+added text using the corresponding Record-No value between brackets.
+
+Here are the text to improve and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+--
+
+Record-No: 33
+Citations: 35
+Record-ID: Gazheli A., 2018, RENEWABLE SUSTAINABLE ENERGY REV, V82, P2693
+Title: REAL_OPTIONS_ANALYSIS of INVESTMENT in SOLAR vs. WIND_ENERGY:
+DIVERSIFICATION_STRATEGIES under UNCERTAIN_PRICES and COSTS
+Abstract:
+```
+in this paper we study a community or firm considering to diversify its
+INVESTMENT in two distinct RENEWABLE_ENERGY_TECHNOLOGIES, namely WIND and
+SOLAR_PV_ELECTRICITY. we assume TECHNOLOGICAL_LEARNING_CURVES as a
+function of CUMULATIVE_CAPITAL_INVESTMENT. a REAL_OPTIONS_APPROACH is
+applied as it takes into ACCOUNT_UNCERTAINTY about prices and learning,
+as well as IRREVERSIBILITY associated with INVESTMENT_DECISIONS. we
+investigate three DIFFERENT_CASES, dealing with UNCERTAINTY about
+FUTURE_ELECTRICITY_PRICES, and UNCERTAINTY about the speed with which
+learning drives the COSTS of WIND and SOLAR_ELECTRICITY down. we assess
+the MINIMUM_THRESHOLD for the STOCHASTIC_PRICE and the
+MAXIMUM_ELECTRICITY_PRODUCTION_COST that makes it optimal for the firm to
+invest in the two technologies. the results show that the
+LEARNING_RATE_AFFECTS the option to invest in but reducing
+CRITICAL_THRESHOLD for exercising it. the greater the amount of CAPITAL
+invested, the more LEARNING_STIMULATES earlier exercising of the option
+to invest. the firm will then anticipate the option to invest and
+exercise it for lower CRITICAL_THRESHOLD_VALUES if all CAPITAL is
+invested in one TECHNOLOGY. if CAPITAL_INVESTMENT is diversified, the
+option should be exercised at a higher CRITICAL_THRESHOLD. more
+UNCERTAINTY in ENERGY_PRICES or TECHNOLOGY_COSTS_POSTPONES the option to
+invest. although investing in both SOLAR and WIND may be profitable under
+PARTICULAR_CONDITIONS of price and COST_UNCERTAINTY, the theoretically
+OPTIMAL_STRATEGY is generally investing in only one TECHNOLOGY, that is,
+SOLAR or WIND, depending on their RELATIVE_INITIAL_COSTS and
+LEARNING_RATES. this suggests that the practice in most countries of
+diversifying RENEWABLE_ENERGY may reflect a MISTAKEN_STRATEGY.  2017
+ELSEVIER_LTD
+```
+
+--
+
+Record-No: 18
+Citations: 35
+Record-ID: Sim J., 2018, J CLEAN PROD, V189, P297
+Title: the economic and ENVIRONMENTAL_VALUES of the r&D_INVESTMENT in a
+RENEWABLE_ENERGY_SECTOR in SOUTH_KOREA
+Abstract:
+```
+although a fossil_based FUEL_ECONOMY has allowed SOUTH_KOREA to rapidly
+develop, the ECONOMIC_GROWTH means that SOUTH_KOREA is now one of the
+largest sources of CARBON_EMISSIONS. the south KOREAN_GOVERNMENT has
+recently made a RENEWABLE_ENERGY_INVESTMENT_PLAN to convert the economy
+based on FOSSIL_FUELS to an economy based on RENEWABLE_ENERGY. in order
+to analyze the ECONOMIC_FEASIBILITY of the RESEARCH_AND_DEVELOPMENT (r&d)
+INVESTMENT required for this change, this STUDY_EVALUATES the
+r&D_INVESTMENT in the six types of RENEWABLE_ENERGY_SOURCES  biomass
+ENERGY, WASTE_ENERGY, PHOTOVOLTAIC_ENERGY, SOLAR_THERMAL_ENERGY,
+MARINE_ENERGY, and WIND POWER_ENERGY, while considering several
+UNCERTAINTY_FACTORS  a RENEWABLE_ENERGY_PRODUCTION amount, an
+r&D_INVESTMENT amount, a UNIT_PRICE, and a risk_free INTEREST_RATE. this
+STUDY_UTILIZES the SYSTEM_DYNAMICS_APPROACH using the black_scholes model
+and CONDUCTS_SENSITIVITY_ANALYSES of the UNCERTAINTY_FACTORS. the results
+indicate that the RENEWABLE_ENERGY_PRODUCTION amount has a relatively
+LARGE_INFLUENCE on both the r&D_INVESTMENT_VALUE and the
+CARBON_EMISSION_REDUCTION amount. in the MONTE_CARLO_SIMULATION, a
+risk_free INTEREST_RATE has annually a SMALL_IMPACT on the
+r&D_INVESTMENT_VALUE.  2018 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 97
+Citations: 31
+Record-ID: Penizzotto F., 2019, RENEWABLE SUSTAINABLE ENERGY REV, V114
+Title: REAL_OPTIONS_VALUATION of PHOTOVOLTAIC_POWER_INVESTMENTS in existing
+BUILDINGS
+Abstract:
+```
+RENEWABLE_POWER_GENERATION based on SOLAR_ENERGY is deemed to be a
+KEY_INSTRUMENT to reduce the CARBON_FOOTPRINT of MODERN_ECONOMIES.
+collectively, BUILDINGS are an energy_intensive consumption sector.
+therefore, existing BUILDING_ROOFTOPS are seen as a target for massively
+deploying PHOTOVOLTAIC (PV) DISTRIBUTED_GENERATION. nevertheless,
+estimating the benefits and RISKS of investing in ROOFTOP_PV_SYSTEMS is
+indeed a CHALLENGING_TASK due to the LARGE_UNCERTAINTIES that affect
+tariffs, TECHNOLOGY_COSTS, and REGULATORY_POLICY. after reviewing the
+literature and identifying the CURRENT_GAPS, this ARTICLE develops a
+method based on REAL_OPTIONS_THEORY for appraising INVESTMENTS in
+PV_GENERATION_SYSTEMS to be installed on the rooftop of existing
+BUILDINGS. the OPTION_VALUE of differing the INVESTMENT_DECISION and the
+problem of the OPTIMAL_TIME to invest in IRREVERSIBLE_PV_ASSETS are
+addressed by an advanced VALUATION_METHOD based on STOCHASTIC_SIMULATION,
+LINEAR_REGRESSION, and backward DYNAMIC_PROGRAMMING. in this work,
+returns of self_generation PV INVESTMENTS are subjected to uncertainties
+upon declining INVESTMENT_COSTS and fluctuating ELECTRICITY_TARIFFS,
+which are represented by APPROPRIATE_EXOGENOUS_STOCHASTIC_PROCESSES. in
+order to test the practicability of the proposed decision_making
+framework, the VALUATION of an exemplary rooftop pv_system in a
+GOVERNMENT_BUILDING is considered. results show that while
+STANDARD_APPRAISAL_METHODS wrongly reject the ROOFTOP_PV_PROJECT now and
+in the FUTURE, the OPTION_VALUATION_METHOD finds optimal to hold the
+opportunity open in order to reconsider to invest later. in addition, the
+method provides an OBJECTIVE_VALUE of the OPPORTUNITY_COST of using the
+building rooftop for another purpose. the proposed VALUATION_APPROACH
+would result in better INVESTMENT_ALLOCATION and faster development of
+distributed PV_POWER_CAPACITY contributing thereby to enhance the
+SUSTAINABILITY of CURRENT_ENERGY_SYSTEMS.  2019 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 94
+Citations: 25
+Record-ID: Zhang M.M., 2020, ENERGY ECON, V92
+Title: valuing INVESTMENT_DECISIONS of RENEWABLE_ENERGY_PROJECTS considering
+CHANGING_VOLATILITY
+Abstract:
+```
+VOLATILITY is an IMPORTANT_PARAMETER when evaluating INVESTMENTS using
+the REAL_OPTIONS_METHOD. for RENEWABLE_ENERGY_INVESTMENTS, the VOLATILITY
+of CASH_FLOW continuously changes, because as NEW_INFORMATION and
+knowledge are gathered, there is less FORESEEN_VARIATION. this paper
+proposes an extended recombining TRINOMIAL_TREE_MODEL, where the
+CHANGING_VOLATILITY is used to GENERATE_TRANSITION_PROBABILITIES. the
+CHANGING_VOLATILITY is generated using a CONSOLIDATION_PROCESS where
+MULTIPLE_RANDOM_VARIABLES, including the MARKET_PRICE of ELECTRICITY,
+CARBON_PRICE, and lending rate, are integrated into a low_dimension
+STOCHASTIC_PROCESS. a two_factor LEARNING_CURVE is used to model the
+changes of INVESTMENT_COST. we apply the proposed model to
+ANALYZE_SOLAR_PHOTOVOLTAIC (PV) POWER_GENERATION_INVESTMENT in CHINA. the
+results show VOLATILITY with changing feature. compared with
+CONSTANT_VOLATILITY, CHANGING_VOLATILITY may advance INVESTMENT_DECISIONS
+and change the PROJECT_VALUE. COMPLETE_GRID_PARITY_POLICY in the
+SOLAR_PV_INDUSTRY is infeasible because the OPPORTUNITY_COST brought by
+the option of delaying cannot be offset. the CHANGING_VOLATILITY may
+produce a lower and equally EFFECTIVE_SUBSIDY_LEVEL compared with
+CONSTANT_VOLATILITY. a CARBON_EMISSION trading scheme is helpful in
+advancing INVESTMENTS in RENEWABLE_ENERGY, which is reflected in
+improvements in PROJECT_VALUE, advancements in INVESTMENT_DECISIONS, and
+reductions in the required SUBSIDY_LEVEL.  2020 elsevier b.v.
+```
+
+--
+
+Record-No: 151
+Citations: 17
+Record-ID: Weibel S., 2015, ENERGY CONVERS MANAGE, V103, P871
+Title: COST effective DESIGN of RINGWALL_STORAGE_HYBRID_POWER_PLANTS: a
+REAL_OPTIONS_ANALYSIS
+Abstract:
+```
+abstract we study the ECONOMIC_VIABILITY and optimal sizing and siting of
+a HYBRID_PLANT that combines a RINGWALL_HYDRO_STORAGE_SYSTEM with WIND
+and SOLAR_POWER_PLANTS (RINGWALL_STORAGE_HYBRID_POWER_PLANT, rshpp). a
+REAL_OPTIONS_MODEL is introduced to analyze the ECONOMICS of an
+ONSHORE_RSHPP, and in particular of the varying STORAGE_VOLUME in light
+of the STOCHASTIC_CHARACTER of WIND and SOLAR_POWER, as well as the
+OPTIMAL_INVESTMENT_TIMING under UNCERTAINTY. in fact, many uncertainties
+arise in such a project. ENERGY_PRODUCTION is determined by the
+STOCHASTIC_CHARACTER of WIND and SOLAR_POWER, and affects the
+OPTIMAL_SIZE of the STORAGE_DEVICE. MONTE_CARLO_SIMULATION is performed
+to analyze the following sources of UNCERTAINTY: (i) WIND intensity and
+SOLAR_IRRADIATION; (ii) FUTURE_ELECTRICITY_PRICE; and (iii)
+INVESTMENT_COSTS. the RESULTS_YIELD the OPTIMAL_SIZE of the
+STORAGE_DEVICE; the ENERGY_MARKET on which the operator should sell the
+ELECTRICITY generated; NUMERICAL_EXAMPLES for two
+DIFFERENT_RSHPP_SCENARIOS; and a REAL_OPTIONS_MODEL for analyzing the
+opportunity to defer the PROJECT_INVESTMENT and thus to exploit the value
+of waiting.  2015 ELSEVIER_LTD.
+```
+
+---------------------------------------------------------------------------
+
+Improve and make more clear the explanation of the relationships among
+the keywords:
+
+UNCERTAINTY; ENERGY_POLICY; CARBON_EMISSIONS; CARBON; CARBON_PRICES;
+COST_BENEFIT_ANALYSIS; POWER_PLANTS
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the
+information provided in the records presented below. Add cites to the
+added text using the corresponding Record-No value between brackets.
+
+Here are the text to improve and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+--
+
+Record-No: 80
+Citations: 12
+Record-ID: Nunes L.E., 2021, ENERGY, V231
+Title: switch and DEFER_OPTION in RENEWABLE_ENERGY_PROJECTS: evidences from
+BRAZIL
+Abstract:
+```
+the GLOBAL_ELECTRICITY_SECTOR is responsible for a LARGE_SHARE of
+GREENHOUSE_GAS. RENEWABLE_ENERGY (re) is a FEASIBLE_ALTERNATIVE to
+maintain SUSTAINABLE_GROWTH and ECONOMIC_DEVELOPMENT, as it appears to be
+a means to reduce EMISSIONS and DECARBONIZE_ECONOMIES.
+RENEWABLE_ENERGY_PROJECTS present some uncertainties and flexibilities
+that are ignored by TRADITIONAL_METHODS of EVALUATION, such as the net
+PRESENT_VALUE (NPV), which can lead to undervaluation. this PAPER_AIMS to
+assess the switch_output option and DEFER_OPTION for RE_PROJECTS
+according to their features in the BRAZILIAN_ELECTRICITY_MARKET. the
+REAL_OPTIONS_APPROACH (ROA) for RE_PROJECTS seeks to capture the value of
+uncertainties and flexibilities that all projects have from an investor's
+point of view. then, when we adopted a more SOPHISTICATED_APPROACH that
+VALUES_FLEXIBILITIES and uncertainties for RE_PROJECTS, it was possible
+to conclude that there was a CLEAR_INCREASE in value when compared to
+TRADITIONAL_INVESTMENT_ANALYSIS_METHODS like the NPV.  2021 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 162
+Citations: 11
+Record-ID: Sesmero J., 2016, ENERGY POLICY, V93, P80
+Title: the effect of current and PROSPECTIVE_POLICIES on
+PHOTOVOLTAIC_SYSTEM_ECONOMICS: an application to the us MIDWEST
+Abstract:
+```
+this STUDY_MODELS FUNDAMENTAL_FEATURES of current and
+PROSPECTIVE_POLICIES ENCOURAGING_ADOPTION of RESIDENTIAL_PHOTOVOLTAIC
+(PV) systems. a key finding is that time_of_day (tod) PRICING can enhance
+or worsen the ECONOMICS of PV_SYSTEMS. moreover, increased responsiveness
+of ELECTRICITY_DEMAND to its PRICE_DIMINISHES the effectiveness of tod
+PRICING in the absence of net metering, but does not affect it otherwise.
+an application to PLAUSIBLE_CONDITIONS in the state of INDIANA, usa,
+shows that CURRENT_POLICIES are unlikely to TRIGGER_ADOPTION by a
+risk_neutral forward_looking RESIDENTIAL_CUSTOMER. however, adoption of
+PV_SYSTEMS can be induced if the FEDERAL_TAX_CREDIT is increased to cover
+48% of CAPITAL_COST (instead of the current 30%), which could imply a
+COST to the FEDERAL_GOVERNMENT of about $0.95/kw of INSTALLED_CAPACITY
+depending on the panel's size. we demonstrate that implementation of tod
+PRICING can TRIGGER_ADOPTION under a range of on_ and off_peak price
+combinations. but our analysis also shows that the cost_effectiveness of
+tod PRICING is enhanced at higher ratios of on_peak to off_peak prices.
+2016 ELSEVIER_LTD.
+```
+
+--
+
+Record-No: 77
+Citations: 8
+Record-ID: Glensk B., 2019, ENERGIES, V12
+Title: energiewende @ RISK: on the continuation of RENEWABLE_POWER_GENERATION at
+the end of PUBLIC_POLICY_SUPPORT
+Abstract:
+```
+this PAPER_AIMS to analyze what happens with
+RENEWABLE_ENERGY_POWER_PLANTS, such as onshore WIND, PHOTOVOLTAICS and
+biomass, when the PUBLIC_POLICY_SUPPORT based on the RENEWABLE_ENERGY_LAW
+expires. with its expiration, the first RENEWABLE_ENERGY (and especially
+onshore WIND) POWER_PLANTS will have to be scrutinized as to whether they
+can economically continue operation, whether they have to be repowered,
+or whether they need to be decommissioned. the RELATIVE_MERITS of these
+three alternatives are evaluated by applying REAL_OPTIONS_ANALYSIS. in
+contrast to TRADITIONAL_PROJECT_EVALUATION_TECHNIQUES, the
+REAL_OPTIONS_APPROACH takes advantage of the use of UNCERTAIN_PARAMETERS
+included in the model, such as the development of the ELECTRICITY_PRICE
+or ELECTRICITY_OUTPUT. the results obtained suggest that parameters such
+as the level of FUTURE_OPERATION and MAINTENANCE_COSTS, the expected
+development of the ELECTRICITY_PRICE at the SPOT_MARKET, and the
+interrelations between these, as well as the development of the
+ELECTRICITY_OUTPUT from RENEWABLES can significantly affect the
+PROFITABILITY of these POWER_PLANTS and thus impact the decision about
+their further OPTIMAL_OPERATION.  2019 by the authors.
+```
+
+--
+
+Record-No: 19
+Citations: 4
+Record-ID: Batac K.I.T., 2022, INTERNAT J RENE ENER DEVEL, V11, P801
+Title: DECISION_SUPPORT for INVESTMENTS in SUSTAINABLE_ENERGY_SOURCES under
+uncertainties
+Abstract:
+```
+INVESTMENT in SUSTAINABLE_ENERGY_SOURCES is one of the
+CLIMATE_MITIGATION_STRATEGIES that can significantly reduce
+GREENHOUSE_GAS_EMISSIONS in the ENERGY_SECTOR. however, in
+DEVELOPING_COUNTRIES, INVESTMENT is challenged by
+HIGH_CAPITAL_EXPENDITURES and several uncertainties. this PAPER_AIMS to
+provide DECISION_SUPPORT for INVESTMENT in SUSTAINABLE_ENERGY_PROJECTS by
+evaluating the COMPARATIVE_ATTRACTIVENESS of shifting ENERGY_SOURCES from
+FOSSIL_FUELS to RENEWABLES and nuclear. applying the
+REAL_OPTIONS_APPROACH (ROA), this PAPER_CALCULATES the value of the
+FLEXIBILITY to postpone the INVESTMENT_DECISION and identifies the
+OPTIMAL_TIMING (described here as the TRIGGER_PRICE of COAL) for shifting
+to SUSTAINABLE_ENERGY_SOURCES. then, VARIOUS_UNCERTAINTIES are
+considered, such as COAL and ELECTRICITY_PRICES, NEGATIVE_EXTERNALITY of
+using FOSSIL_FUELS, and the RISK of a NUCLEAR_ACCIDENT, which are
+modelled using GEOMETRIC_BROWNIAN_MOTION, POISSON_PROCESS, and
+BERNOULLI_PROBABILITY. applying the ROA_MODEL in the case of the
+PHILIPPINES, results find that investing in SUSTAINABLE_ENERGY is a
+better option than continuing to use COAL for ELECTRICITY_GENERATION.
+however, contrary to CONVENTIONAL_OPTION_VALUATION_RESULT that waiting is
+a better strategy, this study found that delaying or postponing the
+INVESTMENT_DECISIONS may lead to POSSIBLE_OPPORTUNITY_LOSSES. among the
+AVAILABLE_SUSTAINABLE_ENERGY_SOURCES, geothermal is the most attractive
+with TRIGGER_PRICES of COAL equal to usd 49.95/ton, followed by nuclear
+(usd 58.55/ton), WIND (usd 69.48/ton), SOLAR_PHOTOVOLTAIC (usd
+72.04/ton), and HYDROPOWER (usd 111.14/ton). also, the occurrence of jump
+(extreme) prices of COAL, raising the current feed_in_tariff, and
+considering NEGATIVE_EXTERNALITIES can decrease the TRIGGER_PRICES, which
+FAVOR_INVESTMENTS in SUSTAINABLE_ENERGIES. moreover, the RISK of a
+NUCLEAR_DISASTER favors INVESTMENT in RENEWABLE_ENERGY_SOURCES over
+nuclear due to the HUGE_DAMAGE_COSTS once an ACCIDENT_OCCURS. results
+provide bases for POLICY_RECOMMENDATIONS toward achieving a more secure
+and SUSTAINABLE_ENERGY_SECTOR for DEVELOPING_COUNTRIES that are highly
+dependent on imported FOSSIL_FUELS.  2022. the authors.
+```
+
+--
+
+Record-No: 12
+Citations: 3
+Record-ID: Yu G., 2022, ENERGY SCI ENG, V10, P3075
+Title: RESEARCH on the INVESTMENT_DECISIONS of PV micro GRID_ENTERPRISES under
+CARBON_TRADING MECHANISMS
+Abstract:
+```
+achieving CARBON_NEUTRALITY_TARGETS requires
+SUBSTANTIAL_FINANCIAL_SUPPORT. EFFECTIVE_UTILIZATION of RENEWABLE_ENERGY
+is an ESSENTIAL_MEANS of promoting energy_saving and EMISSION_REDUCTION
+to realize a green and CIRCULAR_ECONOMY. this paper combines
+CARBON_TRADING MECHANISMS with the OPERATIONAL_MODE of chinese micro_grid
+enterprises. this METHOD_USES the REAL_OPTIONS_THEORY to construct an
+INVESTMENT_DECISION_MODEL for PHOTOVOLTAIC (PV) micro_grid enterprises.
+the STUDY_AIMS to analyze the impact of CARBON_TRADING revenue on a
+NUMERICAL_SIMULATION of PV micro_grid enterprise INVESTMENT_DECISIONS.
+the findings demonstrate that when projected GROWTH_RATES, VOLATILITY
+STANDARD_DEVIATIONS, and risk_free INTEREST_RATES rise in the
+CARBON_TRADING MARKET, the CARBON_PRICE_THRESHOLD_RISES, causing
+businesses to seek out INVESTMENT_OPPORTUNITIES with higher
+FUTURE_CARBON_PRICES. the increase of micro_grid generation TECHNOLOGY
+acceptance PROBABILITY, the availability of resources to meet
+GENERATION_INVESTMENT_REQUIREMENTS, and the GENERATION_PROJECT_CYCLE will
+decrease the CARBON_PRICE_THRESHOLD and ACCELERATE_ENTERPRISE_INVESTMENT.
+studying the influence of CARBON_TRADING prices on micro_grid INVESTMENT
+has SPECIFIC_GUIDANCE and PRACTICAL_SIGNIFICANCE for
+FUTURE_GOVERNMENT_SUBSIDY_POLICIES and the INVESTMENT_STRATEGIES of
+GRID_ENTERPRISES.  2022 the authors. ENERGY_SCIENCE & ENGINEERING
+published by the society of CHEMICAL_INDUSTRY and JOHN_WILEY & SONS_LTD.
+```
+
+---------------------------------------------------------------------------
+
+Improve and make more clear the explanation of the relationships among
+the keywords:
+
+UNCERTAINTY; ENERGY_POLICY; CARBON_EMISSIONS; CARBON; CARBON_PRICES;
+COST_BENEFIT_ANALYSIS; POWER_PLANTS
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the
+information provided in the records presented below. Add cites to the
+added text using the corresponding Record-No value between brackets.
+
+Here are the text to improve and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+--
+
+Record-No: 56
+Citations: 2
+Record-ID: Mancini M., 2016, IEEE INT CONF IND ENG ENG MANAGE, V2016-December, P1101
+Title: a REAL_OPTIONS_INVESTMENT_MODEL for the EVALUATION of WIND and
+PHOTOVOLTAIC_PLANTS
+Abstract:
+```
+RECENT_YEARS have been characterized by an increasing ENERGY_DEMAND and
+by growing attention to ENERGY_PRODUCTION_SUSTAINABILITY. for this
+reason, the number of plants powered by RENEWABLE_SOURCES has increased.
+simultaneously, the ENERGY_SECTOR has to face increasing UNCERTAINTY due
+to MARKET_LIBERALIZATION. these factors has made it necessary for
+investors to find a PROPER_EVALUATION_METHOD for their projects able to
+take into account also these aspects. this WORK_TRIES to provide two
+ORIGINAL_CONTRIBUTIONS: firstly, the creation of a model that helps the
+investor to understand which TECHNOLOGY can best satisfy his ENERGY_NEED;
+and secondly, the implementation of the ro (i.e. REAL_OPTION) approach.
+to verify the consistency of the model, it has been applied to three
+DIFFERENT_REAL_SITUATIONS.  2016 ieee.
+```
+
+--
+
+Record-No: 55
+Citations: 1
+Record-ID: Ofori C.G., 2022, CLIM POLICY, V22, P851
+Title: a REAL_OPTIONS_APPROACH to assessing the COST_SAVINGS_POTENTIAL of
+RENEWABLE_ENERGY_ADOPTION among smes in GHANA
+Abstract:
+```
+small and MEDIUM_SCALE_ENTERPRISES (smes) are integral to
+ECONOMIC_DEVELOPMENT. however, they face significant challenges within
+their operations, of which access to an AFFORDABLE_POWER supply is
+profound. self_generation options have the potential to curtail these
+challenges to an extent, but SMES_NEED to choose options that provide
+SIGNIFICANT_COST_SAVINGS. this study proposes a simulation_based
+REAL_OPTIONS_MODEL using SECONDARY_DATA to evaluate the
+COST_SAVINGS_POTENTIAL for smes in switching from CONVENTIONAL_POWER
+generating sources to RENEWABLE_ENERGY based on three MAIN_SCENARIOS:
+using RENEWABLE_ENERGY as a backup; a COMPLETE_TRANSITION to
+RENEWABLE_ENERGY_GENERATION; and a PARTIAL_TRANSITION to
+RENEWABLE_ENERGY_SOURCES. the results show that using RENEWABLE_ENERGY as
+BACKUP_SOURCES of ENERGY does not provide SIGNIFICANT_COST_SAVINGS to the
+sme. however, a complete or a PARTIAL_TRANSITION from conventional to
+RENEWABLE_ENERGY_RESOURCES offers SUBSTANTIAL_COST_SAVINGS for the sme
+over the life of the RENEWABLE_ENERGY_TECHNOLOGY. smes must consider
+CAPACITY_FACTORS of RENEWABLE_ENERGY_TECHNOLOGIES, tariffs for
+CONVENTIONAL_POWER supply, SYSTEM_RELIABILITY of CONVENTIONAL_SYSTEMS,
+and the INVESTMENT_COSTS for RENEWABLE_ENERGY_GENERATION as critical
+determining factors for RENEWABLE_ENERGY_INVESTMENTS.
+SUCCESSFUL_INTEGRATION of RENEWABLE_ENERGY by smes also requires
+POLICY_SUPPORT towards educating smes on its importance and
+TECHNICAL_REQUIREMENTS. KEY_POLICY_INSIGHTS RENEWABLE_ENERGY_INTEGRATION
+can allow smes to make SUBSTANTIAL_SAVINGS in their
+POWER_CONSUMPTION_COSTS. smes must be mindful of an approach towards
+investing in RENEWABLE_ENERGY_TECHNOLOGIES so that it also maximises
+their gains in RENEWABLE_ENERGY_INTEGRATION. GOVERNMENT_POLICY must focus
+on creating an enabling environment for smes to reap the benefits of
+RENEWABLE_ENERGY_INTEGRATION.  2022 INFORMA_UK limited, trading as taylor
+& FRANCIS_GROUP.
+```
+
+--
+
+Record-No: 100
+Citations: 0
+Record-ID: Turbaningsih O., 2022, IOP CONF SER EARTH ENVIRON SCI, V972
+Title: the study of ADAPTIVE_PLANNING_APPLICATION for
+LNG_REGASIFICATION_TERMINAL_INFRASTRUCTURE in indonesia
+Abstract:
+```
+GLOBAL_TRADE for REGASIFICATION_LNG has reached 850.1 mtpa by february
+2021 because of the enforcement of CLEAN_ENERGY_APPLICATIONS. the
+alternative of RENEWABLE_ENERGY such as HYDROPOWER, SOLAR, and WIND has
+developed globally, but they have not been implemented effectively in
+indonesia. lng became an alternative to CLEAN_ENERGY because of its
+LOW_CARBON_EMISSIONS. an estimated 26% of the 35,000 mw of indonesia's
+ELECTRICITY_SUPPLY project comes from natural gas_powered POWER_PLANTS.
+the scope of this study is to investigate the implementation of
+ADAPTIVE_PLANNING for LNG_REGASIFICATION_FACILITIES. the
+AUTHORS_INTERVIEW the LNG_EXPERTS in indonesia to ASSESS_UNCERTAINTIES,
+vulnerabilities, and opportunities in its BUSINESS_PROCESS to identify
+the enabling factors for implementing the ADAPTIVE_METHOD in
+LNG_TERMINAL_MASTER_PLANNING. this RESEARCH_AIMS to provide an
+ADAPTIVE_STRATEGY for LNG_REGASIFICATION_TERMINAL to satisfy resilient
+and SUSTAINABLE_INFRASTRUCTURE_CONCEPTS. the authors propose the
+REAL_OPTIONS_ANALYSIS using a BINOMIAL_DECISION_TREE to evaluate the
+decision_making under UNCERTAINTY for the
+INFRASTRUCTURE_LNG_REGASIFICATION_TERMINAL_FACILITIES. the STUDY_CASE for
+CATEGORY_MEDIUM to LARGE_SCALE with 4 mtpa, FSRU_CONCEPT selected as the
+SUITABLE_CONFIGURATION, while for the smaller SCALE_FACILITIES with 0.5
+mtpa, the fsu with regasification barge selected as the most
+SUITABLE_CONFIGURATION.   published under licence by iop publishing ltd.
+```
+
+--
+
+Record-No: 143
+Citations: 0
+Record-ID: Liu J., 2014, IEEE INT CONF MECHATRONICS AUTOM IEEE ICMA, P1411
+Title: PHOTOVOLTAIC_POWER_GENERATION_PROJECTS_INVESTMENT_RISK_ANALYSIS in
+GUIZHOU_PROVINCE, CHINA
+Abstract:
+```
+in the NEW_ELECTRICITY_MARKET_ENVIRONMENT, PV_PROJECT_INVESTMENT faces
+more INVESTMENT_RISKS. in order to guarantee the supply of ELECTRICITY
+effectively and reduce CARBON_DIOXIDE_EMISSIONS, it needs the
+RELEVANT_GOVERNMENT_DEPARTMENTS to guide investors to invest in
+CLEAN_ENERGY_GENERATION_PROJECTS with APPROPRIATE_POLICIES. based on
+REAL_OPTIONS_THEORY, this paper develops a INVESTMENT decision_model and
+a RISK_ASSESSMENT_FRAMEWORK for PV_POWER_GENERATION_PROJECTS in CHINA. in
+the case of grid_connected PV_GENERATION_DEMONSTRATION_PROJECT, this
+paper carry out INVESTMENT_DECISION_SIMULATION from the UNCERTAINTY of
+INVESTMENT_COST. the SIMULATION_RESULTS show that the model can provide
+investors an INVESTMENT_REFERENCE. meanwhile, it can be used as
+QUANTITATIVE_ANALYSIS_TOOLS for POLICY_MAKERS to make a
+REASONABLE_INVESTMENT_POLICY.  2014 ieee.
+```
+
+
